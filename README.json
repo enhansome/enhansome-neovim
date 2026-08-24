@@ -1798,7 +1798,7 @@
             "last_commit": "2026-08-24T09:11:53Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18130
+            "stars": 18131
           }
         },
         {
@@ -2569,7 +2569,7 @@
             "last_commit": "2026-07-14T16:01:53Z",
             "owner": "chomosuke",
             "repo": "typst-preview.nvim",
-            "stars": 989
+            "stars": 990
           }
         },
         {
@@ -2599,7 +2599,7 @@
             "last_commit": "2026-01-14T13:20:48Z",
             "owner": "dmmulroy",
             "repo": "tsc.nvim",
-            "stars": 547
+            "stars": 548
           }
         },
         {
@@ -4252,7 +4252,7 @@
             "last_commit": "2026-08-23T11:08:23Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter",
-            "stars": 14331
+            "stars": 14332
           }
         },
         {
@@ -5464,7 +5464,7 @@
             "archived": false,
             "id": 1029972503,
             "language": "Rust",
-            "last_commit": "2026-08-24T05:04:48Z",
+            "last_commit": "2026-08-24T14:24:49Z",
             "owner": "dmtrKovalenko",
             "repo": "fff",
             "stars": 10143
@@ -7021,7 +7021,7 @@
             "last_commit": "2026-07-21T15:53:23Z",
             "owner": "wsdjeg",
             "repo": "cpicker.nvim",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -7087,7 +7087,7 @@
             "last_commit": "2026-06-08T19:09:46Z",
             "owner": "sainnhe",
             "repo": "everforest",
-            "stars": 4178
+            "stars": 4179
           }
         },
         {
@@ -7252,7 +7252,7 @@
             "last_commit": "2026-01-21T13:25:03Z",
             "owner": "sainnhe",
             "repo": "edge",
-            "stars": 1043
+            "stars": 1044
           }
         },
         {
@@ -8002,7 +8002,7 @@
             "last_commit": "2026-05-10T16:31:53Z",
             "owner": "rebelot",
             "repo": "kanagawa.nvim",
-            "stars": 6352
+            "stars": 6353
           }
         },
         {
@@ -10596,7 +10596,7 @@
             "last_commit": "2026-06-16T13:53:49Z",
             "owner": "davidgranstrom",
             "repo": "scnvim",
-            "stars": 272
+            "stars": 273
           }
         },
         {
@@ -10827,7 +10827,7 @@
             "last_commit": "2026-08-14T16:52:03Z",
             "owner": "obsidian-nvim",
             "repo": "obsidian.nvim",
-            "stars": 2117
+            "stars": 2118
           }
         },
         {
@@ -13412,7 +13412,7 @@
             "last_commit": "2026-05-24T17:41:06Z",
             "owner": "stevearc",
             "repo": "overseer.nvim",
-            "stars": 1921
+            "stars": 1922
           }
         },
         {
@@ -15786,7 +15786,7 @@
             "archived": false,
             "id": 686297059,
             "language": "Rust",
-            "last_commit": "2026-08-21T10:59:58Z",
+            "last_commit": "2026-08-24T14:26:24Z",
             "owner": "kkew3",
             "repo": "jieba.vim",
             "stars": 60
@@ -17636,7 +17636,7 @@
             "last_commit": "2025-03-06T06:32:32Z",
             "owner": "saifulapm",
             "repo": "commasemi.nvim",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -17731,21 +17731,6 @@
         },
         {
           "node_type": "item",
-          "title": "DrKJeff16/boolean-toggle.nvim",
-          "description": "Toggle between and under your cursor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1221489141,
-            "language": "Lua",
-            "last_commit": "2026-08-19T00:38:40Z",
-            "owner": "DrKJeff16",
-            "repo": "boolean-toggle.nvim",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
           "title": "DrKJeff16/shebang.nvim",
           "description": "Add or modify a shebang on top of the current file.",
           "children": [],
@@ -17756,6 +17741,21 @@
             "last_commit": "2026-08-19T00:40:19Z",
             "owner": "DrKJeff16",
             "repo": "shebang.nvim",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DrKJeff16/boolean-toggle.nvim",
+          "description": "Toggle between and under your cursor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1221489141,
+            "language": "Lua",
+            "last_commit": "2026-08-19T00:38:40Z",
+            "owner": "DrKJeff16",
+            "repo": "boolean-toggle.nvim",
             "stars": 9
           }
         },
@@ -19097,7 +19097,7 @@
             "last_commit": "2026-04-10T00:42:58Z",
             "owner": "gruvw",
             "repo": "strudel.nvim",
-            "stars": 478
+            "stars": 479
           }
         },
         {
@@ -20037,7 +20037,7 @@
                 "last_commit": "2026-06-28T08:53:16Z",
                 "owner": "aikhe",
                 "repo": "wrapped.nvim",
-                "stars": 184
+                "stars": 185
               }
             },
             {
@@ -20198,7 +20198,7 @@
             "last_commit": "2025-07-25T10:27:17Z",
             "owner": "kndndrj",
             "repo": "nvim-dbee",
-            "stars": 1295
+            "stars": 1296
           }
         },
         {
@@ -20399,7 +20399,7 @@
             "last_commit": "2026-07-03T12:44:31Z",
             "owner": "NvChad",
             "repo": "NvChad",
-            "stars": 28438
+            "stars": 28440
           }
         },
         {
@@ -20414,7 +20414,7 @@
             "last_commit": "2026-06-02T15:27:57Z",
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27260
+            "stars": 27261
           }
         },
         {
@@ -20444,7 +20444,7 @@
             "last_commit": "2026-08-13T20:39:14Z",
             "owner": "AstroNvim",
             "repo": "AstroNvim",
-            "stars": 14421
+            "stars": 14422
           }
         },
         {
@@ -21152,7 +21152,7 @@
             "last_commit": "2025-09-06T20:22:11Z",
             "owner": "rcarriga",
             "repo": "nvim-notify",
-            "stars": 3566
+            "stars": 3567
           }
         },
         {
@@ -21466,7 +21466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:35.409Z",
+    "last_updated": "2026-08-24T14:35:36.641Z",
     "original_repository": "rockerBOO/awesome-neovim",
     "original_repository_id": 296702877,
     "original_repository_sha": "093536024fb4b0496f0c97a9ccb92c4d1d3f5299",
