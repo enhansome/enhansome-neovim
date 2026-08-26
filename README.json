@@ -31,7 +31,7 @@
             "last_commit": "2026-06-29T18:23:04Z",
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21457
+            "stars": 21463
           }
         },
         {
@@ -46,7 +46,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -217,7 +217,7 @@
             "last_commit": "2026-08-24T14:41:24Z",
             "owner": "neovim",
             "repo": "nvim-lspconfig",
-            "stars": 13894
+            "stars": 13893
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-07-16T02:03:23Z",
             "owner": "nvimdev",
             "repo": "lspsaga.nvim",
-            "stars": 3797
+            "stars": 3798
           }
         },
         {
@@ -244,10 +244,10 @@
             "archived": false,
             "id": 338788079,
             "language": "Lua",
-            "last_commit": "2026-08-20T12:15:43Z",
+            "last_commit": "2026-08-25T18:19:34Z",
             "owner": "mfussenegger",
             "repo": "nvim-lint",
-            "stars": 2773
+            "stars": 2772
           }
         },
         {
@@ -307,7 +307,7 @@
             "last_commit": "2026-01-29T12:31:49Z",
             "owner": "onsails",
             "repo": "lspkind.nvim",
-            "stars": 1692
+            "stars": 1693
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-06-19T01:05:36Z",
             "owner": "mason-org",
             "repo": "mason.nvim",
-            "stars": 10453
+            "stars": 10452
           }
         },
         {
@@ -577,7 +577,7 @@
             "last_commit": "2026-08-10T16:55:27Z",
             "owner": "nvimtools",
             "repo": "none-ls.nvim",
-            "stars": 3260
+            "stars": 3259
           }
         },
         {
@@ -589,7 +589,7 @@
             "archived": false,
             "id": 366281389,
             "language": "Lua",
-            "last_commit": "2026-08-25T00:21:37Z",
+            "last_commit": "2026-08-26T00:22:06Z",
             "owner": "mrcjkb",
             "repo": "rustaceanvim",
             "stars": 3096
@@ -664,10 +664,10 @@
             "archived": false,
             "id": 551973341,
             "language": "Lua",
-            "last_commit": "2026-08-25T00:12:01Z",
+            "last_commit": "2026-08-26T00:12:28Z",
             "owner": "mrcjkb",
             "repo": "haskell-tools.nvim",
-            "stars": 608
+            "stars": 609
           }
         },
         {
@@ -682,7 +682,7 @@
             "last_commit": "2026-08-19T00:38:21Z",
             "owner": "Zeioth",
             "repo": "garbage-day.nvim",
-            "stars": 524
+            "stars": 525
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-03-06T08:36:51Z",
             "owner": "nemanjamalesija",
             "repo": "ts-expand-hover.nvim",
-            "stars": 68
+            "stars": 69
           }
         },
         {
@@ -1209,7 +1209,7 @@
                 "last_commit": "2025-10-31T14:02:34Z",
                 "owner": "folke",
                 "repo": "trouble.nvim",
-                "stars": 6882
+                "stars": 6883
               }
             },
             {
@@ -1330,7 +1330,7 @@
                 "last_commit": "2025-11-13T07:27:45Z",
                 "owner": "hrsh7th",
                 "repo": "cmp-nvim-lsp",
-                "stars": 1510
+                "stars": 1507
               }
             },
             {
@@ -1491,7 +1491,7 @@
             "last_commit": "2026-07-09T23:58:41Z",
             "owner": "hrsh7th",
             "repo": "nvim-cmp",
-            "stars": 9478
+            "stars": 9476
           }
         },
         {
@@ -1506,7 +1506,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -1541,7 +1541,7 @@
                 "last_commit": "2026-08-24T05:37:41Z",
                 "owner": "mikavilpas",
                 "repo": "blink-ripgrep.nvim",
-                "stars": 119
+                "stars": 120
               }
             },
             {
@@ -1732,7 +1732,7 @@
             "last_commit": "2026-08-25T09:36:56Z",
             "owner": "saghen",
             "repo": "blink.cmp",
-            "stars": 6531
+            "stars": 6532
           }
         },
         {
@@ -1744,10 +1744,10 @@
             "archived": false,
             "id": 477171675,
             "language": "Lua",
-            "last_commit": "2026-08-24T19:57:04Z",
+            "last_commit": "2026-08-25T14:51:55Z",
             "owner": "zbirenbaum",
             "repo": "copilot.lua",
-            "stars": 4095
+            "stars": 4096
           }
         },
         {
@@ -1762,7 +1762,7 @@
             "last_commit": "2026-08-23T11:41:29Z",
             "owner": "ms-jpq",
             "repo": "coq_nvim",
-            "stars": 3815
+            "stars": 3814
           }
         },
         {
@@ -1795,10 +1795,10 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-25T12:57:09Z",
+            "last_commit": "2026-08-26T12:24:01Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18135
+            "stars": 18136
           }
         },
         {
@@ -1810,10 +1810,10 @@
             "archived": false,
             "id": 736363011,
             "language": "Lua",
-            "last_commit": "2026-08-24T21:42:12Z",
+            "last_commit": "2026-08-26T07:24:56Z",
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6822
+            "stars": 6824
           }
         },
         {
@@ -1843,7 +1843,7 @@
             "last_commit": "2026-08-21T14:04:52Z",
             "owner": "nickjvandyke",
             "repo": "opencode.nvim",
-            "stars": 3789
+            "stars": 3794
           }
         },
         {
@@ -1918,7 +1918,7 @@
             "last_commit": "2026-04-02T22:18:02Z",
             "owner": "Exafunction",
             "repo": "windsurf.nvim",
-            "stars": 1290
+            "stars": 1291
           }
         },
         {
@@ -2035,10 +2035,10 @@
             "archived": false,
             "id": 941088288,
             "language": "Lua",
-            "last_commit": "2026-08-22T16:14:02Z",
+            "last_commit": "2026-08-26T13:34:17Z",
             "owner": "azorng",
             "repo": "goose.nvim",
-            "stars": 316
+            "stars": 317
           }
         },
         {
@@ -2200,10 +2200,10 @@
             "archived": false,
             "id": 1133896963,
             "language": "Lua",
-            "last_commit": "2026-06-18T09:23:43Z",
+            "last_commit": "2026-08-26T11:04:28Z",
             "owner": "ishiooon",
             "repo": "codex.nvim",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -2253,6 +2253,21 @@
         },
         {
           "node_type": "item",
+          "title": "zgs225/pi2.nvim",
+          "description": "Frontend for the pi coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1312403743,
+            "language": "Lua",
+            "last_commit": "2026-08-26T08:46:39Z",
+            "owner": "zgs225",
+            "repo": "pi2.nvim",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
           "title": "k2589/LLuMinate.nvim",
           "description": "Enrich context for LLM with LSP hover added to clipboard.",
           "children": [],
@@ -2263,21 +2278,6 @@
             "last_commit": "2024-10-11T00:43:07Z",
             "owner": "k2589",
             "repo": "LLuMinate.nvim",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "zgs225/pi2.nvim",
-          "description": "Frontend for the pi coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1312403743,
-            "language": "Lua",
-            "last_commit": "2026-08-20T01:32:09Z",
-            "owner": "zgs225",
-            "repo": "pi2.nvim",
             "stars": 17
           }
         },
@@ -2395,7 +2395,7 @@
             "archived": false,
             "id": 966155929,
             "language": "Lua",
-            "last_commit": "2026-08-25T00:33:54Z",
+            "last_commit": "2026-08-26T00:34:32Z",
             "owner": "julwrites",
             "repo": "llm-nvim",
             "stars": 9
@@ -2493,6 +2493,21 @@
         },
         {
           "node_type": "item",
+          "title": "saya-ashen/agent-workbench.nvim",
+          "description": "Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1331031602,
+            "language": "Lua",
+            "last_commit": "2026-08-24T16:11:45Z",
+            "owner": "saya-ashen",
+            "repo": "agent-workbench.nvim",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
           "title": "nwiizo/signalbox.nvim",
           "description": "Attention-first control surface for monitoring and routing persistent Herdr coding agents.",
           "children": [],
@@ -2504,21 +2519,6 @@
             "owner": "nwiizo",
             "repo": "signalbox.nvim",
             "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "saya-ashen/agent-workbench.nvim",
-          "description": "Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1331031602,
-            "language": "Lua",
-            "last_commit": "2026-08-24T16:11:45Z",
-            "owner": "saya-ashen",
-            "repo": "agent-workbench.nvim",
-            "stars": 4
           }
         }
       ],
@@ -2611,7 +2611,7 @@
             "archived": false,
             "id": 517434189,
             "language": "Lua",
-            "last_commit": "2026-04-22T11:07:06Z",
+            "last_commit": "2026-08-26T13:17:13Z",
             "owner": "quarto-dev",
             "repo": "quarto-nvim",
             "stars": 530
@@ -3066,7 +3066,7 @@
                 "last_commit": "2026-06-04T03:59:28Z",
                 "owner": "ray-x",
                 "repo": "go.nvim",
-                "stars": 2657
+                "stars": 2656
               }
             },
             {
@@ -3545,7 +3545,7 @@
                 "last_commit": "2024-07-23T03:45:01Z",
                 "owner": "iamcco",
                 "repo": "markdown-preview.nvim",
-                "stars": 7975
+                "stars": 7978
               }
             },
             {
@@ -3560,7 +3560,7 @@
                 "last_commit": "2026-08-11T20:27:49Z",
                 "owner": "MeanderingProgrammer",
                 "repo": "render-markdown.nvim",
-                "stars": 4948
+                "stars": 4952
               }
             },
             {
@@ -3575,7 +3575,7 @@
                 "last_commit": "2026-08-14T06:56:40Z",
                 "owner": "OXY2DEV",
                 "repo": "markview.nvim",
-                "stars": 3604
+                "stars": 3607
               }
             },
             {
@@ -3590,7 +3590,7 @@
                 "last_commit": "2024-08-20T10:22:05Z",
                 "owner": "toppair",
                 "repo": "peek.nvim",
-                "stars": 873
+                "stars": 872
               }
             },
             {
@@ -3635,7 +3635,7 @@
                 "last_commit": "2026-08-23T10:52:14Z",
                 "owner": "YousefHadder",
                 "repo": "markdown-plus.nvim",
-                "stars": 286
+                "stars": 287
               }
             },
             {
@@ -3860,7 +3860,7 @@
                 "last_commit": "2026-08-19T04:18:17Z",
                 "owner": "kibi2",
                 "repo": "tirenvi.nvim",
-                "stars": 38
+                "stars": 39
               }
             },
             {
@@ -4252,7 +4252,7 @@
             "last_commit": "2026-08-23T11:08:23Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter",
-            "stars": 14330
+            "stars": 14333
           }
         },
         {
@@ -4267,7 +4267,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -4297,7 +4297,7 @@
             "last_commit": "2026-07-19T11:05:45Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter-textobjects",
-            "stars": 2811
+            "stars": 2812
           }
         },
         {
@@ -4498,7 +4498,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -4765,7 +4765,7 @@
             "last_commit": "2025-10-31T15:35:52Z",
             "owner": "ThePrimeagen",
             "repo": "harpoon",
-            "stars": 9207
+            "stars": 9206
           }
         },
         {
@@ -4795,7 +4795,7 @@
             "last_commit": "2025-11-28T02:22:22Z",
             "owner": "otavioschwanck",
             "repo": "arrow.nvim",
-            "stars": 750
+            "stars": 751
           }
         },
         {
@@ -5131,7 +5131,7 @@
             "last_commit": "2026-08-13T22:24:38Z",
             "owner": "MagicDuck",
             "repo": "grug-far.nvim",
-            "stars": 2001
+            "stars": 2003
           }
         },
         {
@@ -5236,7 +5236,7 @@
             "last_commit": "2026-08-25T07:50:16Z",
             "owner": "2KAbhishek",
             "repo": "seeker.nvim",
-            "stars": 137
+            "stars": 136
           }
         },
         {
@@ -5452,7 +5452,7 @@
             "last_commit": "2026-08-17T10:56:32Z",
             "owner": "nvim-telescope",
             "repo": "telescope.nvim",
-            "stars": 19730
+            "stars": 19731
           }
         },
         {
@@ -5464,10 +5464,10 @@
             "archived": false,
             "id": 1029972503,
             "language": "Rust",
-            "last_commit": "2026-08-25T04:18:07Z",
+            "last_commit": "2026-08-25T17:04:43Z",
             "owner": "dmtrKovalenko",
             "repo": "fff",
-            "stars": 10141
+            "stars": 10145
           }
         },
         {
@@ -5482,7 +5482,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -5497,7 +5497,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -5512,7 +5512,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -5527,7 +5527,7 @@
             "last_commit": "2026-05-25T17:30:32Z",
             "owner": "folke",
             "repo": "snacks.nvim",
-            "stars": 8012
+            "stars": 8014
           }
         },
         {
@@ -5542,7 +5542,7 @@
             "last_commit": "2026-08-13T03:37:02Z",
             "owner": "ibhagwan",
             "repo": "fzf-lua",
-            "stars": 4421
+            "stars": 4424
           }
         },
         {
@@ -5677,7 +5677,7 @@
             "last_commit": "2026-03-31T09:30:21Z",
             "owner": "crispgm",
             "repo": "telescope-heading.nvim",
-            "stars": 142
+            "stars": 141
           }
         },
         {
@@ -5758,7 +5758,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -5773,7 +5773,7 @@
             "last_commit": "2026-08-12T06:43:37Z",
             "owner": "nvim-tree",
             "repo": "nvim-tree.lua",
-            "stars": 8627
+            "stars": 8630
           }
         },
         {
@@ -5788,7 +5788,7 @@
             "last_commit": "2026-06-02T17:23:26Z",
             "owner": "stevearc",
             "repo": "oil.nvim",
-            "stars": 6840
+            "stars": 6844
           }
         },
         {
@@ -5803,7 +5803,7 @@
             "last_commit": "2026-08-19T04:16:21Z",
             "owner": "nvim-neo-tree",
             "repo": "neo-tree.nvim",
-            "stars": 5576
+            "stars": 5571
           }
         },
         {
@@ -5815,7 +5815,7 @@
             "archived": false,
             "id": 763068884,
             "language": "Lua",
-            "last_commit": "2026-08-24T09:21:08Z",
+            "last_commit": "2026-08-26T05:09:49Z",
             "owner": "mikavilpas",
             "repo": "yazi.nvim",
             "stars": 1850
@@ -5830,10 +5830,10 @@
             "archived": false,
             "id": 278033950,
             "language": "Python",
-            "last_commit": "2026-08-25T00:40:17Z",
+            "last_commit": "2026-08-26T00:40:56Z",
             "owner": "ms-jpq",
             "repo": "chadtree",
-            "stars": 1691
+            "stars": 1692
           }
         },
         {
@@ -5848,7 +5848,7 @@
             "last_commit": "2026-01-11T07:22:39Z",
             "owner": "kevinhwang91",
             "repo": "rnvimr",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -6139,7 +6139,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -6154,7 +6154,7 @@
             "last_commit": "2024-10-08T01:08:06Z",
             "owner": "natecraddock",
             "repo": "workspaces.nvim",
-            "stars": 372
+            "stars": 373
           }
         },
         {
@@ -6199,7 +6199,7 @@
             "last_commit": "2026-08-25T05:49:15Z",
             "owner": "DrKJeff16",
             "repo": "project.nvim",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -6781,7 +6781,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -6811,7 +6811,7 @@
             "last_commit": "2026-07-14T13:06:06Z",
             "owner": "catgoose",
             "repo": "nvim-colorizer.lua",
-            "stars": 1121
+            "stars": 1122
           }
         },
         {
@@ -7072,7 +7072,7 @@
             "last_commit": "2026-03-24T15:25:11Z",
             "owner": "folke",
             "repo": "tokyonight.nvim",
-            "stars": 8176
+            "stars": 8177
           }
         },
         {
@@ -7087,7 +7087,7 @@
             "last_commit": "2026-06-08T19:09:46Z",
             "owner": "sainnhe",
             "repo": "everforest",
-            "stars": 4180
+            "stars": 4181
           }
         },
         {
@@ -7132,7 +7132,7 @@
             "last_commit": "2026-04-13T10:10:07Z",
             "owner": "navarasu",
             "repo": "onedark.nvim",
-            "stars": 2007
+            "stars": 2008
           }
         },
         {
@@ -7162,7 +7162,7 @@
             "last_commit": "2026-08-09T10:13:33Z",
             "owner": "nyoom-engineering",
             "repo": "oxocarbon.nvim",
-            "stars": 1628
+            "stars": 1629
           }
         },
         {
@@ -7192,7 +7192,7 @@
             "last_commit": "2026-05-30T10:42:56Z",
             "owner": "bluz71",
             "repo": "vim-moonfly-colors",
-            "stars": 1320
+            "stars": 1321
           }
         },
         {
@@ -7252,7 +7252,7 @@
             "last_commit": "2026-01-21T13:25:03Z",
             "owner": "sainnhe",
             "repo": "edge",
-            "stars": 1045
+            "stars": 1046
           }
         },
         {
@@ -7327,7 +7327,7 @@
             "last_commit": "2026-05-30T10:43:13Z",
             "owner": "bluz71",
             "repo": "vim-nightfly-colors",
-            "stars": 939
+            "stars": 940
           }
         },
         {
@@ -7372,7 +7372,7 @@
             "last_commit": "2026-07-22T15:52:45Z",
             "owner": "evergardentheme",
             "repo": "nvim",
-            "stars": 676
+            "stars": 675
           }
         },
         {
@@ -7387,7 +7387,7 @@
             "last_commit": "2026-07-27T09:33:23Z",
             "owner": "neanias",
             "repo": "everforest-nvim",
-            "stars": 458
+            "stars": 459
           }
         },
         {
@@ -7399,7 +7399,7 @@
             "archived": false,
             "id": 345858036,
             "language": "Lua",
-            "last_commit": "2023-12-02T07:11:29Z",
+            "last_commit": "2026-08-26T03:25:15Z",
             "owner": "tanvirtin",
             "repo": "monokai.nvim",
             "stars": 392
@@ -7417,7 +7417,7 @@
             "last_commit": "2022-12-31T04:37:49Z",
             "owner": "nvimdev",
             "repo": "zephyr-nvim",
-            "stars": 378
+            "stars": 379
           }
         },
         {
@@ -7447,7 +7447,7 @@
             "last_commit": "2026-08-17T11:42:58Z",
             "owner": "oskarnurm",
             "repo": "koda.nvim",
-            "stars": 358
+            "stars": 357
           }
         },
         {
@@ -7537,7 +7537,7 @@
             "last_commit": "2026-08-19T16:18:42Z",
             "owner": "ThorstenRhau",
             "repo": "token",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -7672,7 +7672,7 @@
             "last_commit": "2026-01-12T01:01:07Z",
             "owner": "serhez",
             "repo": "teide.nvim",
-            "stars": 165
+            "stars": 163
           }
         },
         {
@@ -7972,7 +7972,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -7987,7 +7987,7 @@
             "last_commit": "2026-08-09T06:43:05Z",
             "owner": "catppuccin",
             "repo": "nvim",
-            "stars": 7590
+            "stars": 7588
           }
         },
         {
@@ -8002,7 +8002,7 @@
             "last_commit": "2026-05-10T16:31:53Z",
             "owner": "rebelot",
             "repo": "kanagawa.nvim",
-            "stars": 6352
+            "stars": 6353
           }
         },
         {
@@ -8017,7 +8017,7 @@
             "last_commit": "2026-07-04T15:03:03Z",
             "owner": "EdenEast",
             "repo": "nightfox.nvim",
-            "stars": 4066
+            "stars": 4063
           }
         },
         {
@@ -8107,7 +8107,7 @@
             "last_commit": "2026-07-01T01:51:26Z",
             "owner": "rmehri01",
             "repo": "onenord.nvim",
-            "stars": 640
+            "stars": 639
           }
         },
         {
@@ -8182,7 +8182,7 @@
             "last_commit": "2026-08-23T20:11:26Z",
             "owner": "uloco",
             "repo": "bluloco.nvim",
-            "stars": 455
+            "stars": 457
           }
         },
         {
@@ -8227,7 +8227,7 @@
             "last_commit": "2026-03-30T16:17:06Z",
             "owner": "mellow-theme",
             "repo": "mellow.nvim",
-            "stars": 430
+            "stars": 431
           }
         },
         {
@@ -8257,7 +8257,7 @@
             "last_commit": "2024-09-12T03:08:07Z",
             "owner": "oxfist",
             "repo": "night-owl.nvim",
-            "stars": 352
+            "stars": 353
           }
         },
         {
@@ -8302,7 +8302,7 @@
             "last_commit": "2025-10-21T13:19:39Z",
             "owner": "maxmx03",
             "repo": "fluoromachine.nvim",
-            "stars": 309
+            "stars": 310
           }
         },
         {
@@ -8392,7 +8392,7 @@
             "last_commit": "2026-03-02T02:30:41Z",
             "owner": "diegoulloao",
             "repo": "neofusion.nvim",
-            "stars": 235
+            "stars": 234
           }
         },
         {
@@ -8707,7 +8707,7 @@
             "last_commit": "2026-07-26T16:45:50Z",
             "owner": "hyperb1iss",
             "repo": "silkcircuit",
-            "stars": 58
+            "stars": 59
           }
         },
         {
@@ -8832,21 +8832,6 @@
         },
         {
           "node_type": "item",
-          "title": "qaptoR-nvim/chocolatier.nvim",
-          "description": "An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 823284961,
-            "language": "Lua",
-            "last_commit": "2026-07-07T10:23:14Z",
-            "owner": "qaptoR-nvim",
-            "repo": "chocolatier.nvim",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
           "title": "T-b-t-nchos/Aquavium.nvim",
           "description": "Aquarium-themed color scheme, designed for use with a transparent terminal background.",
           "children": [],
@@ -8857,6 +8842,21 @@
             "last_commit": "2026-06-02T11:59:06Z",
             "owner": "T-b-t-nchos",
             "repo": "Aquavium.nvim",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qaptoR-nvim/chocolatier.nvim",
+          "description": "An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 823284961,
+            "language": "Lua",
+            "last_commit": "2026-07-07T10:23:14Z",
+            "owner": "qaptoR-nvim",
+            "repo": "chocolatier.nvim",
             "stars": 22
           }
         },
@@ -8892,21 +8892,6 @@
         },
         {
           "node_type": "item",
-          "title": "54L1M/Oshen.nvim",
-          "description": "Inspired by deep ocean water at night, derived entirely from five source colors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1230129452,
-            "language": "Lua",
-            "last_commit": "2026-06-12T08:54:05Z",
-            "owner": "54L1M",
-            "repo": "Oshen.nvim",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
           "title": "judaew/ronny.nvim",
           "description": "A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.",
           "children": [],
@@ -8932,6 +8917,21 @@
             "last_commit": "2026-05-05T15:18:37Z",
             "owner": "pebeto",
             "repo": "dookie.nvim",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "54L1M/Oshen.nvim",
+          "description": "Inspired by deep ocean water at night, derived entirely from five source colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1230129452,
+            "language": "Lua",
+            "last_commit": "2026-06-12T08:54:05Z",
+            "owner": "54L1M",
+            "repo": "Oshen.nvim",
             "stars": 18
           }
         },
@@ -9189,7 +9189,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -9204,7 +9204,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -9219,7 +9219,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -9306,7 +9306,7 @@
                 "archived": false,
                 "id": 273599166,
                 "language": "Lua",
-                "last_commit": "2026-06-17T01:38:10Z",
+                "last_commit": "2026-08-25T16:50:52Z",
                 "owner": "Iron-E",
                 "repo": "nvim-highlite",
                 "stars": 252
@@ -9567,7 +9567,7 @@
             "last_commit": "2025-12-29T16:08:52Z",
             "owner": "SmiteshP",
             "repo": "nvim-navic",
-            "stars": 1680
+            "stars": 1681
           }
         },
         {
@@ -9582,7 +9582,7 @@
             "last_commit": "2026-05-31T05:22:24Z",
             "owner": "Bekaboo",
             "repo": "dropbar.nvim",
-            "stars": 1596
+            "stars": 1595
           }
         },
         {
@@ -9612,7 +9612,7 @@
             "last_commit": "2026-07-09T13:17:28Z",
             "owner": "luukvbaal",
             "repo": "statuscol.nvim",
-            "stars": 613
+            "stars": 612
           }
         },
         {
@@ -9734,7 +9734,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -9749,7 +9749,7 @@
                 "last_commit": "2026-05-31T02:29:19Z",
                 "owner": "nvim-lualine",
                 "repo": "lualine.nvim",
-                "stars": 8098
+                "stars": 8099
               }
             },
             {
@@ -10041,7 +10041,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -10056,7 +10056,7 @@
                 "last_commit": "2025-01-14T16:03:57Z",
                 "owner": "akinsho",
                 "repo": "bufferline.nvim",
-                "stars": 4366
+                "stars": 4365
               }
             },
             {
@@ -10136,21 +10136,6 @@
             },
             {
               "node_type": "item",
-              "title": "crispgm/nvim-tabline",
-              "description": "A port of written in Lua.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 338744302,
-                "language": "Lua",
-                "last_commit": "2024-06-03T03:11:20Z",
-                "owner": "crispgm",
-                "repo": "nvim-tabline",
-                "stars": 97
-              }
-            },
-            {
-              "node_type": "item",
               "title": "tomiis4/BufferTabs.nvim",
               "description": "Simple and Fancy tabline.",
               "children": [],
@@ -10161,7 +10146,22 @@
                 "last_commit": "2024-08-11T12:53:08Z",
                 "owner": "tomiis4",
                 "repo": "BufferTabs.nvim",
-                "stars": 96
+                "stars": 97
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crispgm/nvim-tabline",
+              "description": "A port of written in Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338744302,
+                "language": "Lua",
+                "last_commit": "2024-06-03T03:11:20Z",
+                "owner": "crispgm",
+                "repo": "nvim-tabline",
+                "stars": 94
               }
             },
             {
@@ -10198,7 +10198,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -10213,7 +10213,7 @@
                 "last_commit": "2026-08-25T02:14:32Z",
                 "owner": "RRethy",
                 "repo": "vim-illuminate",
-                "stars": 2464
+                "stars": 2465
               }
             },
             {
@@ -10284,7 +10284,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -10344,7 +10344,7 @@
             "last_commit": "2026-07-06T05:19:11Z",
             "owner": "Amansingh-afk",
             "repo": "milli.nvim",
-            "stars": 310
+            "stars": 312
           }
         },
         {
@@ -10440,7 +10440,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -10455,7 +10455,7 @@
             "last_commit": "2026-07-22T22:11:55Z",
             "owner": "nvim-tree",
             "repo": "nvim-web-devicons",
-            "stars": 2714
+            "stars": 2715
           }
         },
         {
@@ -10611,7 +10611,7 @@
             "last_commit": "2026-04-01T01:54:28Z",
             "owner": "neo451",
             "repo": "feed.nvim",
-            "stars": 206
+            "stars": 205
           }
         },
         {
@@ -10797,7 +10797,7 @@
             "last_commit": "2026-08-14T16:41:11Z",
             "owner": "nvim-neorg",
             "repo": "neorg",
-            "stars": 7482
+            "stars": 7481
           }
         },
         {
@@ -10812,7 +10812,7 @@
             "last_commit": "2026-08-20T17:12:00Z",
             "owner": "nvim-orgmode",
             "repo": "orgmode",
-            "stars": 3867
+            "stars": 3866
           }
         },
         {
@@ -10827,7 +10827,7 @@
             "last_commit": "2026-08-25T10:26:43Z",
             "owner": "obsidian-nvim",
             "repo": "obsidian.nvim",
-            "stars": 2119
+            "stars": 2124
           }
         },
         {
@@ -10872,7 +10872,7 @@
             "last_commit": "2026-08-25T05:36:30Z",
             "owner": "zk-org",
             "repo": "zk-nvim",
-            "stars": 848
+            "stars": 849
           }
         },
         {
@@ -10887,7 +10887,7 @@
             "last_commit": "2026-07-03T17:21:28Z",
             "owner": "jakewvincent",
             "repo": "mkdnflow.nvim",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -10902,7 +10902,7 @@
             "last_commit": "2025-04-21T12:01:04Z",
             "owner": "jbyuki",
             "repo": "nabla.nvim",
-            "stars": 746
+            "stars": 747
           }
         },
         {
@@ -11157,7 +11157,7 @@
             "last_commit": "2026-07-04T17:20:34Z",
             "owner": "y3owk1n",
             "repo": "dotmd.nvim",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -12105,7 +12105,7 @@
             "archived": false,
             "id": 1114705501,
             "language": "Lua",
-            "last_commit": "2026-08-25T09:14:11Z",
+            "last_commit": "2026-08-26T10:56:40Z",
             "owner": "StefanBartl",
             "repo": "color_my_ascii.nvim",
             "stars": 7
@@ -12200,7 +12200,7 @@
                 "last_commit": "2026-05-02T15:02:12Z",
                 "owner": "hat0uma",
                 "repo": "csvview.nvim",
-                "stars": 678
+                "stars": 679
               }
             },
             {
@@ -12271,7 +12271,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -12286,7 +12286,7 @@
             "last_commit": "2026-04-15T15:48:03Z",
             "owner": "sphamba",
             "repo": "smear-cursor.nvim",
-            "stars": 1998
+            "stars": 2000
           }
         },
         {
@@ -12301,7 +12301,7 @@
             "last_commit": "2026-07-05T16:21:19Z",
             "owner": "rachartier",
             "repo": "tiny-glimmer.nvim",
-            "stars": 432
+            "stars": 431
           }
         },
         {
@@ -12382,7 +12382,7 @@
             "last_commit": "2025-03-09T09:20:40Z",
             "owner": "akinsho",
             "repo": "toggleterm.nvim",
-            "stars": 5585
+            "stars": 5586
           }
         },
         {
@@ -12412,7 +12412,7 @@
             "last_commit": "2026-08-13T18:12:34Z",
             "owner": "mikesmithgh",
             "repo": "kitty-scrollback.nvim",
-            "stars": 908
+            "stars": 909
           }
         },
         {
@@ -12652,7 +12652,7 @@
             "last_commit": "2025-01-04T19:10:21Z",
             "owner": "isak102",
             "repo": "ghostty.nvim",
-            "stars": 48
+            "stars": 49
           }
         },
         {
@@ -12913,7 +12913,7 @@
             "last_commit": "2026-06-20T06:06:07Z",
             "owner": "mfussenegger",
             "repo": "nvim-dap",
-            "stars": 7226
+            "stars": 7228
           }
         },
         {
@@ -13185,7 +13185,7 @@
                 "last_commit": "2026-04-02T09:25:53Z",
                 "owner": "kevinhwang91",
                 "repo": "nvim-bqf",
-                "stars": 2028
+                "stars": 2029
               }
             },
             {
@@ -13271,7 +13271,7 @@
             "last_commit": "2026-08-16T15:42:23Z",
             "owner": "nvim-neotest",
             "repo": "neotest",
-            "stars": 3113
+            "stars": 3112
           }
         },
         {
@@ -13358,7 +13358,7 @@
             "archived": false,
             "id": 1120611978,
             "language": "Lua",
-            "last_commit": "2026-05-25T03:08:07Z",
+            "last_commit": "2026-08-26T14:03:20Z",
             "owner": "mr-u0b0dy",
             "repo": "crazy-coverage.nvim",
             "stars": 19
@@ -13958,7 +13958,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -13973,7 +13973,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -14018,7 +14018,7 @@
             "last_commit": "2026-03-14T14:05:49Z",
             "owner": "folke",
             "repo": "lazydev.nvim",
-            "stars": 1564
+            "stars": 1565
           }
         },
         {
@@ -14033,7 +14033,7 @@
             "last_commit": "2025-03-14T13:39:11Z",
             "owner": "kkharji",
             "repo": "sqlite.lua",
-            "stars": 572
+            "stars": 571
           }
         },
         {
@@ -14083,21 +14083,6 @@
         },
         {
           "node_type": "item",
-          "title": "bfredl/nvim-luadev",
-          "description": "REPL/debug console Lua plugins. The command will open an scratch window which will show output from executing Lua code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 155386759,
-            "language": "Lua",
-            "last_commit": "2023-03-13T20:57:45Z",
-            "owner": "bfredl",
-            "repo": "nvim-luadev",
-            "stars": 289
-          }
-        },
-        {
-          "node_type": "item",
           "title": "lumen-oss/lz.n",
           "description": "A simple lazy loading library for plugins.",
           "children": [],
@@ -14108,6 +14093,21 @@
             "last_commit": "2026-08-23T01:49:11Z",
             "owner": "lumen-oss",
             "repo": "lz.n",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bfredl/nvim-luadev",
+          "description": "REPL/debug console Lua plugins. The command will open an scratch window which will show output from executing Lua code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155386759,
+            "language": "Lua",
+            "last_commit": "2023-03-13T20:57:45Z",
+            "owner": "bfredl",
+            "repo": "nvim-luadev",
             "stars": 289
           }
         },
@@ -14270,7 +14270,7 @@
             "archived": false,
             "id": 588524825,
             "language": "Lua",
-            "last_commit": "2026-08-25T05:54:37Z",
+            "last_commit": "2026-08-26T05:55:50Z",
             "owner": "lumen-oss",
             "repo": "luarocks-tag-release",
             "stars": 57
@@ -14510,7 +14510,7 @@
             "last_commit": "2026-04-13T22:57:52Z",
             "owner": "saecki",
             "repo": "crates.nvim",
-            "stars": 1117
+            "stars": 1118
           }
         },
         {
@@ -14525,7 +14525,7 @@
             "last_commit": "2026-08-25T13:34:20Z",
             "owner": "vuki656",
             "repo": "package-info.nvim",
-            "stars": 597
+            "stars": 598
           }
         },
         {
@@ -14636,7 +14636,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -14651,7 +14651,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -14711,7 +14711,7 @@
             "last_commit": "2026-08-11T04:02:40Z",
             "owner": "esmuellert",
             "repo": "codediff.nvim",
-            "stars": 1529
+            "stars": 1533
           }
         },
         {
@@ -14798,10 +14798,10 @@
             "archived": false,
             "id": 909500423,
             "language": "Lua",
-            "last_commit": "2026-08-24T13:27:05Z",
+            "last_commit": "2026-08-26T09:16:41Z",
             "owner": "dlyongemallo",
             "repo": "diffview-plus.nvim",
-            "stars": 303
+            "stars": 305
           }
         },
         {
@@ -14816,7 +14816,7 @@
             "last_commit": "2026-06-11T14:01:30Z",
             "owner": "chojs23",
             "repo": "ec",
-            "stars": 290
+            "stars": 291
           }
         },
         {
@@ -14951,7 +14951,7 @@
             "last_commit": "2026-02-16T17:20:58Z",
             "owner": "isak102",
             "repo": "telescope-git-file-history.nvim",
-            "stars": 91
+            "stars": 92
           }
         },
         {
@@ -15489,7 +15489,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -15504,7 +15504,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -15519,7 +15519,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -15534,7 +15534,7 @@
             "last_commit": "2026-08-16T18:12:37Z",
             "owner": "ggandor",
             "repo": "leap.nvim",
-            "stars": 5028
+            "stars": 5029
           }
         },
         {
@@ -15549,7 +15549,7 @@
             "last_commit": "2026-08-22T20:05:27Z",
             "owner": "folke",
             "repo": "flash.nvim",
-            "stars": 4213
+            "stars": 4216
           }
         },
         {
@@ -15579,7 +15579,7 @@
             "last_commit": "2026-07-26T13:40:18Z",
             "owner": "tris203",
             "repo": "precognition.nvim",
-            "stars": 1379
+            "stars": 1381
           }
         },
         {
@@ -15654,7 +15654,7 @@
             "last_commit": "2025-10-09T17:09:29Z",
             "owner": "ggandor",
             "repo": "flit.nvim",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -16012,7 +16012,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16027,7 +16027,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16042,7 +16042,7 @@
             "last_commit": "2025-10-28T16:02:50Z",
             "owner": "folke",
             "repo": "which-key.nvim",
-            "stars": 7263
+            "stars": 7264
           }
         },
         {
@@ -16147,7 +16147,7 @@
             "last_commit": "2026-03-09T20:05:58Z",
             "owner": "tris203",
             "repo": "hawtkeys.nvim",
-            "stars": 252
+            "stars": 253
           }
         },
         {
@@ -16410,7 +16410,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -16526,7 +16526,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16541,7 +16541,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16556,7 +16556,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16571,7 +16571,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16586,7 +16586,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16601,7 +16601,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16616,7 +16616,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -16631,7 +16631,7 @@
             "last_commit": "2026-08-23T03:00:47Z",
             "owner": "windwp",
             "repo": "nvim-autopairs",
-            "stars": 4083
+            "stars": 4081
           }
         },
         {
@@ -16646,7 +16646,7 @@
             "last_commit": "2026-08-02T08:51:48Z",
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter-context",
-            "stars": 3224
+            "stars": 3225
           }
         },
         {
@@ -16676,7 +16676,7 @@
             "last_commit": "2026-04-15T08:02:58Z",
             "owner": "windwp",
             "repo": "nvim-ts-autotag",
-            "stars": 2112
+            "stars": 2113
           }
         },
         {
@@ -16691,7 +16691,7 @@
             "last_commit": "2026-03-24T05:19:26Z",
             "owner": "jake-stewart",
             "repo": "multicursor.nvim",
-            "stars": 1516
+            "stars": 1518
           }
         },
         {
@@ -16736,7 +16736,7 @@
             "last_commit": "2025-12-21T14:33:07Z",
             "owner": "monaqa",
             "repo": "dial.nvim",
-            "stars": 1109
+            "stars": 1108
           }
         },
         {
@@ -16781,7 +16781,7 @@
             "last_commit": "2026-07-29T19:10:14Z",
             "owner": "HiPhish",
             "repo": "rainbow-delimiters.nvim",
-            "stars": 884
+            "stars": 885
           }
         },
         {
@@ -17006,7 +17006,7 @@
             "last_commit": "2026-04-16T19:26:17Z",
             "owner": "okuuva",
             "repo": "auto-save.nvim",
-            "stars": 329
+            "stars": 328
           }
         },
         {
@@ -17066,7 +17066,7 @@
             "last_commit": "2026-04-17T13:24:28Z",
             "owner": "sQVe",
             "repo": "sort.nvim",
-            "stars": 216
+            "stars": 217
           }
         },
         {
@@ -17161,21 +17161,6 @@
         },
         {
           "node_type": "item",
-          "title": "AckslD/nvim-trevJ.lua",
-          "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 477793882,
-            "language": "Lua",
-            "last_commit": "2025-07-21T14:27:05Z",
-            "owner": "AckslD",
-            "repo": "nvim-trevJ.lua",
-            "stars": 171
-          }
-        },
-        {
-          "node_type": "item",
           "title": "nemanjamalesija/smart-paste.nvim",
           "description": "Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).",
           "children": [],
@@ -17186,6 +17171,21 @@
             "last_commit": "2026-08-17T20:30:04Z",
             "owner": "nemanjamalesija",
             "repo": "smart-paste.nvim",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AckslD/nvim-trevJ.lua",
+          "description": "Does the opposite of join-line (J) for arguments, powered by Tree-sitter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477793882,
+            "language": "Lua",
+            "last_commit": "2025-07-21T14:27:05Z",
+            "owner": "AckslD",
+            "repo": "nvim-trevJ.lua",
             "stars": 171
           }
         },
@@ -17848,7 +17848,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -17863,7 +17863,7 @@
                 "last_commit": "2024-08-19T16:47:28Z",
                 "owner": "numToStr",
                 "repo": "Comment.nvim",
-                "stars": 4665
+                "stars": 4664
               }
             },
             {
@@ -18033,21 +18033,6 @@
             },
             {
               "node_type": "item",
-              "title": "kuri-sun/todoage.nvim",
-              "description": "Show how old your TODOs are.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1246817539,
-                "language": "Lua",
-                "last_commit": "2026-06-28T19:21:22Z",
-                "owner": "harukikuri",
-                "repo": "todoage.nvim",
-                "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
               "title": "celeste3z/celeste_comment.nvim",
               "description": "VSCode-style commenting plugin with support for line and block comments, and textobjects.",
               "children": [],
@@ -18058,6 +18043,21 @@
                 "last_commit": "2026-08-22T17:38:01Z",
                 "owner": "celeste3z",
                 "repo": "celeste_comment.nvim",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kuri-sun/todoage.nvim",
+              "description": "Show how old your TODOs are.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1246817539,
+                "language": "Lua",
+                "last_commit": "2026-06-28T19:21:22Z",
+                "owner": "harukikuri",
+                "repo": "todoage.nvim",
                 "stars": 29
               }
             },
@@ -18125,7 +18125,7 @@
                 "last_commit": "2026-01-11T10:47:32Z",
                 "owner": "kevinhwang91",
                 "repo": "nvim-ufo",
-                "stars": 2948
+                "stars": 2949
               }
             },
             {
@@ -18140,7 +18140,7 @@
                 "last_commit": "2026-08-03T21:20:25Z",
                 "owner": "chrisgrieser",
                 "repo": "nvim-origami",
-                "stars": 527
+                "stars": 528
               }
             },
             {
@@ -18271,7 +18271,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -18286,7 +18286,7 @@
             "last_commit": "2026-08-11T14:29:14Z",
             "owner": "stevearc",
             "repo": "conform.nvim",
-            "stars": 5318
+            "stars": 5319
           }
         },
         {
@@ -18498,7 +18498,7 @@
                 "last_commit": "2026-08-25T12:04:51Z",
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9458
+                "stars": 9461
               }
             },
             {
@@ -18528,7 +18528,7 @@
                 "last_commit": "2026-08-06T11:16:46Z",
                 "owner": "shellRaining",
                 "repo": "hlchunk.nvim",
-                "stars": 916
+                "stars": 917
               }
             },
             {
@@ -18689,7 +18689,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -18755,7 +18755,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -18770,7 +18770,7 @@
             "last_commit": "2026-08-15T09:19:00Z",
             "owner": "rmagatti",
             "repo": "auto-session",
-            "stars": 1854
+            "stars": 1855
           }
         },
         {
@@ -18785,7 +18785,7 @@
             "last_commit": "2025-10-28T16:08:31Z",
             "owner": "folke",
             "repo": "persistence.nvim",
-            "stars": 1008
+            "stars": 1009
           }
         },
         {
@@ -19016,7 +19016,7 @@
             "last_commit": "2026-07-31T15:57:55Z",
             "owner": "azratul",
             "repo": "live-share.nvim",
-            "stars": 278
+            "stars": 279
           }
         },
         {
@@ -19112,7 +19112,7 @@
             "last_commit": "2026-08-25T04:45:08Z",
             "owner": "brianhuster",
             "repo": "live-preview.nvim",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -19127,7 +19127,7 @@
             "last_commit": "2026-05-20T14:02:52Z",
             "owner": "SUSTech-data",
             "repo": "neopyter",
-            "stars": 172
+            "stars": 173
           }
         },
         {
@@ -19193,7 +19193,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -19208,7 +19208,7 @@
             "last_commit": "2026-08-22T01:31:23Z",
             "owner": "mrjones2014",
             "repo": "smart-splits.nvim",
-            "stars": 1713
+            "stars": 1714
           }
         },
         {
@@ -19611,7 +19611,7 @@
             "last_commit": "2025-01-31T21:03:35Z",
             "owner": "Eandrju",
             "repo": "cellular-automaton.nvim",
-            "stars": 2097
+            "stars": 2098
           }
         },
         {
@@ -19701,7 +19701,7 @@
             "last_commit": "2025-03-20T20:43:03Z",
             "owner": "seandewar",
             "repo": "killersheep.nvim",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -19900,7 +19900,7 @@
             "last_commit": "2026-07-20T04:31:41Z",
             "owner": "m4xshen",
             "repo": "hardtime.nvim",
-            "stars": 3836
+            "stars": 3837
           }
         },
         {
@@ -19950,6 +19950,21 @@
         },
         {
           "node_type": "item",
+          "title": "emrearmagan/atlas.nvim",
+          "description": "A single workflow for GitHub, GitLab, Bitbucket, and Jira.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1152837085,
+            "language": "Lua",
+            "last_commit": "2026-08-26T12:15:28Z",
+            "owner": "emrearmagan",
+            "repo": "atlas.nvim",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
           "title": "jghauser/mkdir.nvim",
           "description": "Automatically create missing directories when saving files.",
           "children": [],
@@ -19961,21 +19976,6 @@
             "owner": "jghauser",
             "repo": "mkdir.nvim",
             "stars": 230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emrearmagan/atlas.nvim",
-          "description": "A single workflow for GitHub, GitLab, Bitbucket, and Jira.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1152837085,
-            "language": "Lua",
-            "last_commit": "2026-08-25T13:15:02Z",
-            "owner": "emrearmagan",
-            "repo": "atlas.nvim",
-            "stars": 225
           }
         },
         {
@@ -20022,7 +20022,7 @@
                 "last_commit": "2026-08-17T16:31:47Z",
                 "owner": "gisketch",
                 "repo": "triforce.nvim",
-                "stars": 308
+                "stars": 309
               }
             },
             {
@@ -20079,7 +20079,7 @@
                 "archived": false,
                 "id": 1127100356,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:22:54Z",
+                "last_commit": "2026-08-26T00:10:03Z",
                 "owner": "Rtarun3606k",
                 "repo": "TakaTime",
                 "stars": 102
@@ -20097,7 +20097,7 @@
                 "last_commit": "2025-11-24T21:49:51Z",
                 "owner": "QuentinGruber",
                 "repo": "pomodoro.nvim",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -20142,7 +20142,7 @@
                 "last_commit": "2026-07-11T11:39:38Z",
                 "owner": "yal212",
                 "repo": "pomodoro.nvim",
-                "stars": 6
+                "stars": 7
               }
             },
             {
@@ -20198,7 +20198,7 @@
             "last_commit": "2025-07-25T10:27:17Z",
             "owner": "kndndrj",
             "repo": "nvim-dbee",
-            "stars": 1304
+            "stars": 1307
           }
         },
         {
@@ -20369,7 +20369,7 @@
             "last_commit": "2026-08-23T17:11:07Z",
             "owner": "syl20bnr",
             "repo": "spacemacs",
-            "stars": 24560
+            "stars": 24562
           }
         },
         {
@@ -20384,7 +20384,7 @@
             "last_commit": "2026-08-07T15:44:45Z",
             "owner": "nvim-lua",
             "repo": "kickstart.nvim",
-            "stars": 31319
+            "stars": 31327
           }
         },
         {
@@ -20399,7 +20399,7 @@
             "last_commit": "2026-07-03T12:44:31Z",
             "owner": "NvChad",
             "repo": "NvChad",
-            "stars": 28436
+            "stars": 28439
           }
         },
         {
@@ -20414,7 +20414,7 @@
             "last_commit": "2026-06-02T15:27:57Z",
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27270
+            "stars": 27285
           }
         },
         {
@@ -20429,7 +20429,7 @@
             "last_commit": "2025-06-05T15:05:30Z",
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19269
+            "stars": 19271
           }
         },
         {
@@ -20444,7 +20444,7 @@
             "last_commit": "2026-08-13T20:39:14Z",
             "owner": "AstroNvim",
             "repo": "AstroNvim",
-            "stars": 14425
+            "stars": 14428
           }
         },
         {
@@ -20459,22 +20459,7 @@
             "last_commit": "2026-08-15T00:18:45Z",
             "owner": "ayamir",
             "repo": "nvimdots",
-            "stars": 3420
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shaunsingh/nyoom.nvim",
-          "description": "Blazing fast, configurable, minimal and \"lispy\" config written in Fennel.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 435594662,
-            "language": "Fennel",
-            "last_commit": "2023-11-05T19:09:50Z",
-            "owner": "nyoom-engineering",
-            "repo": "nyoom.nvim",
-            "stars": 1627
+            "stars": 3421
           }
         },
         {
@@ -20489,7 +20474,7 @@
             "last_commit": "2026-08-19T06:02:45Z",
             "owner": "CosmicNvim",
             "repo": "CosmicNvim",
-            "stars": 1164
+            "stars": 1165
           }
         },
         {
@@ -20504,7 +20489,7 @@
             "last_commit": "2026-07-25T21:55:17Z",
             "owner": "dam9000",
             "repo": "kickstart-modular.nvim",
-            "stars": 1013
+            "stars": 1014
           }
         },
         {
@@ -20564,7 +20549,7 @@
             "last_commit": "2026-07-15T18:50:45Z",
             "owner": "crivotz",
             "repo": "nv-ide",
-            "stars": 650
+            "stars": 649
           }
         },
         {
@@ -20640,21 +20625,6 @@
             "owner": "Shaobin-Jiang",
             "repo": "IceNvim",
             "stars": 330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shaeinst/roshnivim",
-          "description": "A predefined config to save you thousands of hours to setup your editor as an IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 388339024,
-            "language": "Lua",
-            "last_commit": "2026-08-19T08:21:38Z",
-            "owner": "Abstract-IDE",
-            "repo": "Abstract",
-            "stars": 213
           }
         },
         {
@@ -20872,7 +20842,7 @@
                 "last_commit": "2026-08-25T09:20:02Z",
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2140
+                "stars": 2141
               }
             },
             {
@@ -20899,7 +20869,7 @@
                 "archived": false,
                 "id": 943658881,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:56:58Z",
+                "last_commit": "2026-08-26T06:58:10Z",
                 "owner": "y3owk1n",
                 "repo": "nvs",
                 "stars": 38
@@ -21048,7 +21018,7 @@
                 "archived": false,
                 "id": 437225130,
                 "language": "Nix",
-                "last_commit": "2026-08-24T17:55:03Z",
+                "last_commit": "2026-08-25T17:50:05Z",
                 "owner": "m15a",
                 "repo": "flake-awesome-neovim-plugins",
                 "stars": 62
@@ -21107,7 +21077,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -21122,7 +21092,7 @@
             "last_commit": "2026-08-25T12:04:51Z",
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9458
+            "stars": 9461
           }
         },
         {
@@ -21152,7 +21122,7 @@
             "last_commit": "2025-09-06T20:22:11Z",
             "owner": "rcarriga",
             "repo": "nvim-notify",
-            "stars": 3567
+            "stars": 3568
           }
         },
         {
@@ -21254,7 +21224,7 @@
             "archived": false,
             "id": 434818327,
             "language": "Lua",
-            "last_commit": "2026-08-11T20:58:48Z",
+            "last_commit": "2026-08-25T19:14:49Z",
             "owner": "CosmicNvim",
             "repo": "cosmic-ui",
             "stars": 170
@@ -21428,7 +21398,7 @@
             "last_commit": "2025-06-06T18:42:55Z",
             "owner": "akrawchyk",
             "repo": "awesome-vim",
-            "stars": 2127
+            "stars": 2128
           }
         },
         {
@@ -21466,10 +21436,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:13:16.817Z",
+    "last_updated": "2026-08-26T14:10:42.360Z",
     "original_repository": "rockerBOO/awesome-neovim",
     "original_repository_id": 296702877,
-    "original_repository_sha": "093536024fb4b0496f0c97a9ccb92c4d1d3f5299",
+    "original_repository_sha": "7852691332603a4d12b69d097f83ac49ef4cbae1",
     "enhanced_repository": "enhansome/enhansome-neovim",
     "enhanced_repository_description": null,
     "title": "Awesome Neovim with stars"
