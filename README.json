@@ -38,10 +38,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-06-29T18:23:04Z",
-            "open_issues": 68,
+            "open_issues": 70,
             "owner": "folke",
             "repo": "lazy.nvim",
-            "stars": 21589,
+            "stars": 21595,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -68,7 +68,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -198,8 +198,8 @@
             "id": 1115982939,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-23T23:22:15Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-25T17:04:55Z",
+            "open_issues": 1,
             "owner": "zuqini",
             "repo": "zpack.nvim",
             "stars": 157,
@@ -454,7 +454,7 @@
             "open_issues": 45,
             "owner": "mfussenegger",
             "repo": "nvim-lint",
-            "stars": 2786,
+            "stars": 2787,
             "topics": [
               "hacktoberfest",
               "linter",
@@ -481,7 +481,7 @@
             "open_issues": 16,
             "owner": "j-hui",
             "repo": "fidget.nvim",
-            "stars": 2597,
+            "stars": 2598,
             "topics": [
               "neovim",
               "neovim-plugin"
@@ -505,7 +505,7 @@
             "open_issues": 87,
             "owner": "ray-x",
             "repo": "lsp_signature.nvim",
-            "stars": 2364,
+            "stars": 2365,
             "topics": [
               "autocomplete",
               "lsp",
@@ -560,7 +560,7 @@
             "open_issues": 15,
             "owner": "onsails",
             "repo": "lspkind.nvim",
-            "stars": 1695,
+            "stars": 1696,
             "topics": [
               "lsp",
               "lua",
@@ -666,7 +666,7 @@
             "id": 414495558,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T16:01:41Z",
+            "last_commit": "2026-09-25T16:02:04Z",
             "open_issues": 11,
             "owner": "b0o",
             "repo": "SchemaStore.nvim",
@@ -1019,7 +1019,7 @@
             "open_issues": 275,
             "owner": "mason-org",
             "repo": "mason.nvim",
-            "stars": 10490,
+            "stars": 10492,
             "topics": [
               "lua",
               "mason",
@@ -1073,11 +1073,11 @@
             "id": 366281389,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T00:36:32Z",
+            "last_commit": "2026-09-25T00:37:02Z",
             "open_issues": 21,
             "owner": "mrcjkb",
             "repo": "rustaceanvim",
-            "stars": 3130,
+            "stars": 3135,
             "topics": [
               "dap",
               "debug-adapter-protocol",
@@ -1164,7 +1164,7 @@
             "open_issues": 12,
             "owner": "DNLHC",
             "repo": "glance.nvim",
-            "stars": 925,
+            "stars": 924,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -1207,8 +1207,8 @@
             "id": 551973341,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T00:25:06Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-25T00:20:36Z",
+            "open_issues": 21,
             "owner": "mrcjkb",
             "repo": "haskell-tools.nvim",
             "stars": 611,
@@ -1248,10 +1248,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-19T00:38:21Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "Zeioth",
             "repo": "garbage-day.nvim",
-            "stars": 529,
+            "stars": 530,
             "topics": [
               "language-server-protocol",
               "neovim-plugin",
@@ -1309,6 +1309,27 @@
             ]
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
+        },
+        {
+          "node_type": "item",
+          "title": "antosha417/nvim-lsp-file-operations",
+          "description": "File operations using built-in LSP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Neovim plugin that adds support for file operations using built-in LSP",
+            "homepage": null,
+            "id": 586657417,
+            "language": "Lua",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-25T15:59:25Z",
+            "open_issues": 9,
+            "owner": "antosha417",
+            "repo": "nvim-lsp-file-operations",
+            "stars": 429,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:01:08.132Z"
         },
         {
           "node_type": "item",
@@ -1458,7 +1479,7 @@
             "open_issues": 0,
             "owner": "chrisgrieser",
             "repo": "nvim-lsp-endhints",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "inlay-hints",
               "lsp-inlayhint",
@@ -1621,7 +1642,7 @@
             "open_issues": 4,
             "owner": "alexpasmantier",
             "repo": "pymple.nvim",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "editor-plugin",
               "ide",
@@ -2047,7 +2068,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-21T09:25:03Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "carldaws",
             "repo": "miser.nvim",
             "stars": 20,
@@ -2205,7 +2226,7 @@
                 "open_issues": 19,
                 "owner": "folke",
                 "repo": "trouble.nvim",
-                "stars": 6893,
+                "stars": 6895,
                 "topics": [
                   "lua",
                   "neovim",
@@ -2405,7 +2426,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -2436,7 +2457,7 @@
                 "open_issues": 29,
                 "owner": "hrsh7th",
                 "repo": "cmp-nvim-lsp",
-                "stars": 1511,
+                "stars": 1512,
                 "topics": [
                   "hacktoberfest",
                   "nvim-cmp"
@@ -2509,7 +2530,7 @@
                 "open_issues": 30,
                 "owner": "hrsh7th",
                 "repo": "cmp-nvim-lsp-signature-help",
-                "stars": 680,
+                "stars": 681,
                 "topics": [
                   "nvim-cmp"
                 ]
@@ -2756,8 +2777,8 @@
                 "id": 882598783,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-24T17:17:09Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-25T16:07:42Z",
+                "open_issues": 2,
                 "owner": "mikavilpas",
                 "repo": "blink-ripgrep.nvim",
                 "stars": 123,
@@ -3051,7 +3072,7 @@
             "open_issues": 104,
             "owner": "saghen",
             "repo": "blink.cmp",
-            "stars": 6591,
+            "stars": 6593,
             "topics": [
               "neovim",
               "neovim-lua-plugin",
@@ -3072,8 +3093,8 @@
             "id": 477171675,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-24T01:47:58Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-25T00:12:19Z",
+            "open_issues": 21,
             "owner": "zbirenbaum",
             "repo": "copilot.lua",
             "stars": 4100,
@@ -3104,7 +3125,7 @@
             "open_issues": 186,
             "owner": "ms-jpq",
             "repo": "coq_nvim",
-            "stars": 3815,
+            "stars": 3814,
             "topics": [
               "completion",
               "neovim",
@@ -3126,7 +3147,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-04-27T07:05:11Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "brianaung",
             "repo": "compl.nvim",
             "stars": 51,
@@ -3191,7 +3212,7 @@
             "open_issues": 94,
             "owner": "coder",
             "repo": "claudecode.nvim",
-            "stars": 3073,
+            "stars": 3074,
             "topics": [
               "claude",
               "claude-code",
@@ -3212,11 +3233,11 @@
             "id": 842586148,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T13:47:34Z",
+            "last_commit": "2026-09-25T12:42:24Z",
             "open_issues": 48,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18172,
+            "stars": 18174,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -3237,7 +3258,7 @@
             "open_issues": 15,
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6871,
+            "stars": 6875,
             "topics": [
               "acp",
               "agent",
@@ -3299,10 +3320,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-24T17:08:22Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "nickjvandyke",
             "repo": "opencode.nvim",
-            "stars": 3846,
+            "stars": 3848,
             "topics": [
               "ai",
               "ai-agents",
@@ -3383,7 +3404,7 @@
             "open_issues": 15,
             "owner": "milanglacier",
             "repo": "minuet-ai.nvim",
-            "stars": 1406,
+            "stars": 1407,
             "topics": [
               "ai",
               "code-completion",
@@ -3501,7 +3522,7 @@
             "open_issues": 16,
             "owner": "carlos-algms",
             "repo": "agentic.nvim",
-            "stars": 627,
+            "stars": 629,
             "topics": [
               "acp",
               "ai",
@@ -3608,7 +3629,7 @@
             "id": 897381410,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T19:25:16Z",
+            "last_commit": "2026-09-24T18:09:04Z",
             "open_issues": 14,
             "owner": "dlants",
             "repo": "magenta.nvim",
@@ -4022,7 +4043,7 @@
             "open_issues": 0,
             "owner": "ishiooon",
             "repo": "codex.nvim",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "neovim-plugin"
             ]
@@ -4073,7 +4094,7 @@
             "open_issues": 0,
             "owner": "saya-ashen",
             "repo": "agent-workbench.nvim",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "coding-agents",
               "neovim",
@@ -4447,7 +4468,7 @@
             "id": 1147921128,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T01:59:04Z",
+            "last_commit": "2026-09-25T09:30:43Z",
             "open_issues": 2,
             "owner": "wsdjeg",
             "repo": "chat.nvim",
@@ -4637,6 +4658,36 @@
         },
         {
           "node_type": "item",
+          "title": "jaitd/fieldguide.nvim",
+          "description": "Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A field guide to your Neovim",
+            "homepage": null,
+            "id": 1371695009,
+            "language": "Lua",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-21T12:41:05Z",
+            "open_issues": 0,
+            "owner": "jaitd",
+            "repo": "fieldguide.nvim",
+            "stars": 4,
+            "topics": [
+              "agent",
+              "ai",
+              "llm",
+              "lua",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "nvim-plugin"
+            ]
+          },
+          "first_seen": "2026-09-22T17:41:39.457Z"
+        },
+        {
+          "node_type": "item",
           "title": "overflow/fs-review.nvim",
           "description": "Filesystem and OpenCode review panel with isolated diff tabs, project-scoped activity tracking, and live cross-process refresh.",
           "children": [],
@@ -4663,36 +4714,6 @@
             ]
           },
           "first_seen": "2026-09-01T17:22:35.917Z"
-        },
-        {
-          "node_type": "item",
-          "title": "jaitd/fieldguide.nvim",
-          "description": "Sidebar agent for your own config; will inform you if config still boots when changing it and provides answers from your installed plugins' docs, the versions on disk, and the live session.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A field guide to your Neovim",
-            "homepage": null,
-            "id": 1371695009,
-            "language": "Lua",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-21T12:41:05Z",
-            "open_issues": 0,
-            "owner": "jaitd",
-            "repo": "fieldguide.nvim",
-            "stars": 3,
-            "topics": [
-              "agent",
-              "ai",
-              "llm",
-              "lua",
-              "neovim",
-              "neovim-plugin",
-              "nvim",
-              "nvim-plugin"
-            ]
-          },
-          "first_seen": "2026-09-22T17:41:39.457Z"
         }
       ],
       "title": "AI"
@@ -4746,8 +4767,8 @@
             "id": 320845669,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:22:16Z",
-            "open_issues": 32,
+            "last_commit": "2026-09-25T13:29:47Z",
+            "open_issues": 27,
             "owner": "nvim-flutter",
             "repo": "flutter-tools.nvim",
             "stars": 1420,
@@ -4776,10 +4797,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-07-14T16:01:53Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "chomosuke",
             "repo": "typst-preview.nvim",
-            "stars": 1003,
+            "stars": 1004,
             "topics": [
               "lua",
               "neovim",
@@ -5012,7 +5033,7 @@
             "open_issues": 12,
             "owner": "apyra",
             "repo": "nvim-unity",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "neovim-unity-plugin-external-editor-omnisharp"
             ]
@@ -5135,7 +5156,7 @@
             "id": 492829584,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-21T09:21:24Z",
+            "last_commit": "2026-09-25T16:10:35Z",
             "open_issues": 0,
             "owner": "artur-shaik",
             "repo": "jc.nvim",
@@ -5191,7 +5212,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-24T15:03:48Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "atomicptr",
             "repo": "defold.nvim",
             "stars": 38,
@@ -6086,9 +6107,9 @@
                 "id": 819582362,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-07T07:15:04Z",
-                "open_issues": 9,
-                "owner": "mistweaverco",
+                "last_commit": "2026-09-25T17:13:19Z",
+                "open_issues": 8,
+                "owner": "dont-be-evil-company",
                 "repo": "kulala.nvim",
                 "stars": 2170,
                 "topics": [
@@ -6421,8 +6442,8 @@
                 "id": 1086879360,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-05-18T03:32:39Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-25T08:02:23Z",
+                "open_issues": 1,
                 "owner": "rodrigoscc",
                 "repo": "nurl.nvim",
                 "stars": 11,
@@ -6558,7 +6579,7 @@
                 "open_issues": 265,
                 "owner": "iamcco",
                 "repo": "markdown-preview.nvim",
-                "stars": 8005,
+                "stars": 8006,
                 "topics": [
                   "markdown",
                   "neovim",
@@ -6584,7 +6605,7 @@
                 "open_issues": 13,
                 "owner": "MeanderingProgrammer",
                 "repo": "render-markdown.nvim",
-                "stars": 5101,
+                "stars": 5105,
                 "topics": [
                   "lua",
                   "markdown",
@@ -6612,7 +6633,7 @@
                 "open_issues": 5,
                 "owner": "OXY2DEV",
                 "repo": "markview.nvim",
-                "stars": 3647,
+                "stars": 3648,
                 "topics": [
                   "asciidoc",
                   "document-preview",
@@ -7321,7 +7342,7 @@
                 "open_issues": 2,
                 "owner": "the-mayankjha",
                 "repo": "fk_markdown.nvim",
-                "stars": 20,
+                "stars": 21,
                 "topics": [
                   "markdown",
                   "markdown-viewer",
@@ -7803,7 +7824,7 @@
             "open_issues": 269,
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter",
-            "stars": 14410,
+            "stars": 14417,
             "topics": [
               "neovim",
               "nvim-treesitter",
@@ -7828,7 +7849,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -7879,7 +7900,7 @@
             "language": "Tree-sitter Query",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T06:29:47Z",
-            "open_issues": 128,
+            "open_issues": 129,
             "owner": "nvim-treesitter",
             "repo": "nvim-treesitter-textobjects",
             "stars": 2812,
@@ -8212,7 +8233,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -8238,7 +8259,7 @@
             "open_issues": 137,
             "owner": "L3MON4D3",
             "repo": "LuaSnip",
-            "stars": 4426,
+            "stars": 4427,
             "topics": [
               "lua",
               "neovim",
@@ -8261,7 +8282,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T02:48:10Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "rafamadriz",
             "repo": "friendly-snippets",
             "stars": 2777,
@@ -8649,7 +8670,7 @@
             "open_issues": 147,
             "owner": "ThePrimeagen",
             "repo": "harpoon",
-            "stars": 9230,
+            "stars": 9229,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -8670,7 +8691,7 @@
             "open_issues": 56,
             "owner": "chentoast",
             "repo": "marks.nvim",
-            "stars": 1189,
+            "stars": 1190,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -9322,7 +9343,7 @@
             "open_issues": 2,
             "owner": "chrisgrieser",
             "repo": "nvim-rip-substitute",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "neovim-plugin",
               "nvim-plugin",
@@ -9796,7 +9817,7 @@
             "open_issues": 465,
             "owner": "nvim-telescope",
             "repo": "telescope.nvim",
-            "stars": 19792,
+            "stars": 19793,
             "topics": [
               "lua",
               "neovim",
@@ -9819,11 +9840,11 @@
             "id": 1029972503,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-21T11:20:46Z",
-            "open_issues": 69,
+            "last_commit": "2026-09-25T05:38:02Z",
+            "open_issues": 71,
             "owner": "dmtrKovalenko",
             "repo": "fff",
-            "stars": 10862,
+            "stars": 10867,
             "topics": [
               "bun",
               "fff",
@@ -9856,7 +9877,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -9882,7 +9903,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -9908,7 +9929,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -9934,7 +9955,7 @@
             "open_issues": 143,
             "owner": "folke",
             "repo": "snacks.nvim",
-            "stars": 8100,
+            "stars": 8104,
             "topics": [
               "neovim-plugin"
             ]
@@ -9954,7 +9975,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-20T18:56:46Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "ibhagwan",
             "repo": "fzf-lua",
             "stars": 4448,
@@ -10241,7 +10262,7 @@
             "open_issues": 2,
             "owner": "juniorsundar",
             "repo": "refer.nvim",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "lua",
               "neovim",
@@ -10322,7 +10343,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -10344,7 +10365,7 @@
             "id": 238282268,
             "language": "Lua",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T03:01:09Z",
+            "last_commit": "2026-09-25T05:26:36Z",
             "open_issues": 102,
             "owner": "nvim-tree",
             "repo": "nvim-tree.lua",
@@ -10373,7 +10394,7 @@
             "open_issues": 158,
             "owner": "stevearc",
             "repo": "oil.nvim",
-            "stars": 6921,
+            "stars": 6923,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -10396,10 +10417,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-17T06:57:31Z",
-            "open_issues": 174,
+            "open_issues": 173,
             "owner": "nvim-neo-tree",
             "repo": "neo-tree.nvim",
-            "stars": 5609,
+            "stars": 5610,
             "topics": [
               "file-explorer",
               "lua",
@@ -10421,11 +10442,11 @@
             "id": 763068884,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-24T05:02:38Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-25T16:10:41Z",
+            "open_issues": 6,
             "owner": "mikavilpas",
             "repo": "yazi.nvim",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "neovim",
               "plugin",
@@ -10447,11 +10468,11 @@
             "id": 278033950,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T02:13:43Z",
+            "last_commit": "2026-09-25T02:30:44Z",
             "open_issues": 93,
             "owner": "ms-jpq",
             "repo": "chadtree",
-            "stars": 1689,
+            "stars": 1688,
             "topics": [
               "chad",
               "colours",
@@ -10513,7 +10534,7 @@
             "open_issues": 25,
             "owner": "FylerOrg",
             "repo": "fyler.nvim",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "file-manager",
               "neovim-plugin",
@@ -10539,7 +10560,7 @@
             "open_issues": 1,
             "owner": "luukvbaal",
             "repo": "nnn.nvim",
-            "stars": 463,
+            "stars": 464,
             "topics": [
               "file-manager",
               "lua",
@@ -10789,7 +10810,7 @@
             "open_issues": 1,
             "owner": "ingur",
             "repo": "fzf-oil.nvim",
-            "stars": 74,
+            "stars": 73,
             "topics": [
               "fzf",
               "fzf-lua",
@@ -10977,7 +10998,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -11085,7 +11106,7 @@
             "id": 821934955,
             "language": "Lua",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T17:13:45Z",
+            "last_commit": "2026-09-25T17:50:45Z",
             "open_issues": 2,
             "owner": "DrKJeff16",
             "repo": "project.nvim",
@@ -12070,7 +12091,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -12093,7 +12114,7 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2025-10-28T15:02:10Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "folke",
             "repo": "twilight.nvim",
             "stars": 1548,
@@ -12607,7 +12628,7 @@
             "open_issues": 9,
             "owner": "sainnhe",
             "repo": "gruvbox-material",
-            "stars": 2650,
+            "stars": 2651,
             "topics": [
               "airline",
               "color",
@@ -12693,7 +12714,7 @@
             "open_issues": 1,
             "owner": "sainnhe",
             "repo": "sonokai",
-            "stars": 1956,
+            "stars": 1955,
             "topics": [
               "airline",
               "lightline",
@@ -12776,7 +12797,7 @@
             "open_issues": 0,
             "owner": "bluz71",
             "repo": "vim-moonfly-colors",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "alacritty-theme",
               "iterm2-theme",
@@ -13563,6 +13584,31 @@
         },
         {
           "node_type": "item",
+          "title": "kdheepak/monochrome.nvim",
+          "description": "A 16-bit monochrome colorscheme that uses HSLuv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A monochrome colorscheme for neovim",
+            "homepage": null,
+            "id": 383939614,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2021-07-14T19:12:52Z",
+            "open_issues": 1,
+            "owner": "kdheepak",
+            "repo": "monochrome.nvim",
+            "stars": 178,
+            "topics": [
+              "colorscheme",
+              "lua",
+              "neovim"
+            ]
+          },
+          "first_seen": "2026-08-28T23:08:20.523Z"
+        },
+        {
+          "node_type": "item",
           "title": "ishan9299/modus-theme-vim",
           "description": "This is a color scheme developed by Protesilaos Stavrou for emacs.",
           "children": [],
@@ -13580,31 +13626,6 @@
             "stars": 177,
             "topics": [
               "colorschemes",
-              "lua",
-              "neovim"
-            ]
-          },
-          "first_seen": "2026-08-28T23:08:20.523Z"
-        },
-        {
-          "node_type": "item",
-          "title": "kdheepak/monochrome.nvim",
-          "description": "A 16-bit monochrome colorscheme that uses HSLuv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A monochrome colorscheme for neovim",
-            "homepage": null,
-            "id": 383939614,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2021-07-14T19:12:52Z",
-            "open_issues": 1,
-            "owner": "kdheepak",
-            "repo": "monochrome.nvim",
-            "stars": 177,
-            "topics": [
-              "colorscheme",
               "lua",
               "neovim"
             ]
@@ -13719,7 +13740,7 @@
             "id": 1040343789,
             "language": "CSS",
             "license": "MIT",
-            "last_commit": "2026-09-22T22:19:24Z",
+            "last_commit": "2026-09-25T17:46:21Z",
             "open_issues": 2,
             "owner": "uhs-robert",
             "repo": "oasis.nvim",
@@ -14229,7 +14250,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -14255,7 +14276,7 @@
             "open_issues": 10,
             "owner": "catppuccin",
             "repo": "nvim",
-            "stars": 7633,
+            "stars": 7634,
             "topics": [
               "catppuccin",
               "colorscheme",
@@ -14290,7 +14311,7 @@
             "open_issues": 91,
             "owner": "rebelot",
             "repo": "kanagawa.nvim",
-            "stars": 6402,
+            "stars": 6404,
             "topics": [
               "lsp",
               "lua",
@@ -14382,7 +14403,7 @@
             "open_issues": 2,
             "owner": "scottmckendry",
             "repo": "cyberdream.nvim",
-            "stars": 1407,
+            "stars": 1408,
             "topics": [
               "alacritty-theme",
               "base16-theme",
@@ -14667,7 +14688,7 @@
             "open_issues": 11,
             "owner": "uloco",
             "repo": "bluloco.nvim",
-            "stars": 462,
+            "stars": 463,
             "topics": [
               "iterm2",
               "lua",
@@ -15281,7 +15302,7 @@
             "open_issues": 1,
             "owner": "Aejkatappaja",
             "repo": "cendre",
-            "stars": 169,
+            "stars": 170,
             "topics": [
               "colorscheme",
               "dark-theme",
@@ -15838,7 +15859,7 @@
             "open_issues": 2,
             "owner": "marekh19",
             "repo": "meowsoot.nvim",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "alacritty",
               "alacritty-theme",
@@ -16632,7 +16653,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -16658,7 +16679,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -16684,7 +16705,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -16758,7 +16779,7 @@
                 "open_issues": 2,
                 "owner": "RRethy",
                 "repo": "base16-nvim",
-                "stars": 655,
+                "stars": 656,
                 "topics": [
                   "base16",
                   "nvim"
@@ -16995,7 +17016,7 @@
                 "open_issues": 10,
                 "owner": "f-person",
                 "repo": "auto-dark-mode.nvim",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:20.523Z"
@@ -17298,7 +17319,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -17350,8 +17371,8 @@
             "id": 645191743,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-05-31T05:22:24Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-25T14:17:42Z",
+            "open_issues": 14,
             "owner": "Bekaboo",
             "repo": "dropbar.nvim",
             "stars": 1598,
@@ -17648,7 +17669,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -17913,7 +17934,7 @@
                 "open_issues": 3,
                 "owner": "MunifTanjim",
                 "repo": "nougat.nvim",
-                "stars": 200,
+                "stars": 201,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -18170,7 +18191,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -18441,7 +18462,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -18516,7 +18537,7 @@
                 "open_issues": 3,
                 "owner": "mawkler",
                 "repo": "modicator.nvim",
-                "stars": 379,
+                "stars": 380,
                 "topics": [
                   "lua",
                   "neovim",
@@ -18584,7 +18605,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -18607,10 +18628,10 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-04-17T02:06:43Z",
-            "open_issues": 74,
+            "open_issues": 73,
             "owner": "nvimdev",
             "repo": "dashboard-nvim",
-            "stars": 2868,
+            "stars": 2867,
             "topics": [
               "dashboard",
               "neovim",
@@ -18860,7 +18881,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -18910,7 +18931,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-04T21:24:37Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "2KAbhishek",
             "repo": "nerdy.nvim",
             "stars": 428,
@@ -19055,7 +19076,7 @@
             "open_issues": 14,
             "owner": "hakonharnes",
             "repo": "img-clip.nvim",
-            "stars": 939,
+            "stars": 940,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -19076,7 +19097,7 @@
             "open_issues": 0,
             "owner": "vyfor",
             "repo": "cord.nvim",
-            "stars": 711,
+            "stars": 714,
             "topics": [
               "cord",
               "cord-nvim",
@@ -19173,7 +19194,7 @@
             "open_issues": 13,
             "owner": "neo451",
             "repo": "feed.nvim",
-            "stars": 207,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -19248,7 +19269,7 @@
             "open_issues": 2,
             "owner": "askfiy",
             "repo": "nvim-picgo",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "image",
               "lua",
@@ -19493,7 +19514,7 @@
             "open_issues": 226,
             "owner": "nvim-neorg",
             "repo": "neorg",
-            "stars": 7493,
+            "stars": 7491,
             "topics": [
               "lua",
               "neorg",
@@ -19519,7 +19540,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-09-21T06:52:09Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "nvim-orgmode",
             "repo": "orgmode",
             "stars": 3881,
@@ -19552,7 +19573,7 @@
             "open_issues": 53,
             "owner": "obsidian-nvim",
             "repo": "obsidian.nvim",
-            "stars": 2173,
+            "stars": 2176,
             "topics": [
               "lua",
               "neovim",
@@ -19657,7 +19678,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-07-03T17:21:28Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "jakewvincent",
             "repo": "mkdnflow.nvim",
             "stars": 830,
@@ -20073,7 +20094,7 @@
             "open_issues": 7,
             "owner": "ymic9963",
             "repo": "mdnotes.nvim",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "lua",
               "markdown",
@@ -21830,7 +21851,7 @@
             "id": 1114705501,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-24T05:05:27Z",
+            "last_commit": "2026-09-25T13:05:31Z",
             "open_issues": 0,
             "owner": "StefanBartl",
             "repo": "color_my_ascii.nvim",
@@ -21971,7 +21992,7 @@
             "open_issues": 1,
             "owner": "rifen",
             "repo": "timescope",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "cli",
               "developer-tools",
@@ -22110,7 +22131,7 @@
                 "open_issues": 16,
                 "owner": "hat0uma",
                 "repo": "csvview.nvim",
-                "stars": 692,
+                "stars": 693,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:20.523Z"
@@ -22218,7 +22239,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -22240,11 +22261,11 @@
             "id": 888950190,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T13:50:17Z",
+            "last_commit": "2026-09-25T11:40:39Z",
             "open_issues": 10,
             "owner": "sphamba",
             "repo": "smear-cursor.nvim",
-            "stars": 2045,
+            "stars": 2047,
             "topics": [
               "animation",
               "cursor",
@@ -22440,7 +22461,7 @@
             "open_issues": 92,
             "owner": "akinsho",
             "repo": "toggleterm.nvim",
-            "stars": 5608,
+            "stars": 5607,
             "topics": [
               "lua",
               "neovim",
@@ -22493,7 +22514,7 @@
             "open_issues": 27,
             "owner": "mikesmithgh",
             "repo": "kitty-scrollback.nvim",
-            "stars": 914,
+            "stars": 915,
             "topics": [
               "kitten",
               "kitty",
@@ -22914,7 +22935,7 @@
             "open_issues": 1,
             "owner": "isak102",
             "repo": "ghostty.nvim",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "nvim",
               "nvim-plugin",
@@ -23345,7 +23366,7 @@
             "open_issues": 32,
             "owner": "mfussenegger",
             "repo": "nvim-dap",
-            "stars": 7260,
+            "stars": 7261,
             "topics": [
               "debug-adapter-protocol",
               "debugger",
@@ -23447,7 +23468,7 @@
             "open_issues": 5,
             "owner": "sakhnik",
             "repo": "nvim-gdb",
-            "stars": 784,
+            "stars": 783,
             "topics": [
               "bashdb",
               "gdb",
@@ -23579,7 +23600,7 @@
             "open_issues": 0,
             "owner": "chrisgrieser",
             "repo": "nvim-chainsaw",
-            "stars": 159,
+            "stars": 160,
             "topics": [
               "log-statements",
               "logging",
@@ -23698,7 +23719,7 @@
             "open_issues": 0,
             "owner": "Carcuis",
             "repo": "dap-breakpoints.nvim",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "debugging",
               "lua",
@@ -23832,7 +23853,7 @@
                 "open_issues": 20,
                 "owner": "stevearc",
                 "repo": "quicker.nvim",
-                "stars": 1029,
+                "stars": 1030,
                 "topics": [
                   "neovim",
                   "neovim-plugin",
@@ -24170,7 +24191,7 @@
             "open_issues": 86,
             "owner": "stevearc",
             "repo": "overseer.nvim",
-            "stars": 1933,
+            "stars": 1932,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -24196,7 +24217,7 @@
             "open_issues": 11,
             "owner": "michaelb",
             "repo": "sniprun",
-            "stars": 1712,
+            "stars": 1713,
             "topics": [
               "code",
               "code-runner",
@@ -24232,7 +24253,7 @@
             "open_issues": 55,
             "owner": "Vigemus",
             "repo": "iron.nvim",
-            "stars": 1362,
+            "stars": 1364,
             "topics": [
               "async",
               "lua-plugin",
@@ -24259,7 +24280,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-07-03T00:35:48Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "benlubas",
             "repo": "molten-nvim",
             "stars": 1231,
@@ -24352,7 +24373,7 @@
             "open_issues": 9,
             "owner": "Zeioth",
             "repo": "compiler.nvim",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "build-automation-tool",
               "build-tool",
@@ -24527,7 +24548,7 @@
             "open_issues": 5,
             "owner": "jedrzejboczar",
             "repo": "toggletasks.nvim",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "lua",
               "neovim",
@@ -24574,7 +24595,7 @@
             "open_issues": 4,
             "owner": "Shatur",
             "repo": "neovim-tasks",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "c",
               "cargo",
@@ -25149,6 +25170,34 @@
         },
         {
           "node_type": "item",
+          "title": "pewpewnor/dove.nvim",
+          "description": "Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Use Lua to define and execute arbitrary shell commands or Lua code for file, project, or global contexts without reloading Neovim.",
+            "homepage": null,
+            "id": 1370066705,
+            "language": "Lua",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-22T08:15:48Z",
+            "open_issues": 0,
+            "owner": "pewpewnor",
+            "repo": "dove.nvim",
+            "stars": 3,
+            "topics": [
+              "code-runner",
+              "lua",
+              "neovim",
+              "neovim-plugin",
+              "nvim",
+              "nvim-plugin"
+            ]
+          },
+          "first_seen": "2026-09-25T18:01:08.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "JulOuellet/bzl.nvim",
           "description": "Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.",
           "children": [],
@@ -25190,7 +25239,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -25216,7 +25265,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -25266,7 +25315,7 @@
             "open_issues": 23,
             "owner": "MunifTanjim",
             "repo": "nui.nvim",
-            "stars": 2123,
+            "stars": 2125,
             "topics": [
               "lua",
               "neovim",
@@ -25294,7 +25343,7 @@
             "open_issues": 7,
             "owner": "folke",
             "repo": "lazydev.nvim",
-            "stars": 1574,
+            "stars": 1575,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -25707,7 +25756,7 @@
             "id": 588524825,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T10:15:47Z",
+            "last_commit": "2026-09-25T10:19:43Z",
             "open_issues": 9,
             "owner": "lumen-oss",
             "repo": "luarocks-tag-release",
@@ -25923,7 +25972,7 @@
             "id": 150960683,
             "language": "Fennel",
             "license": "Unlicense",
-            "last_commit": "2026-09-11T10:57:02Z",
+            "last_commit": "2026-09-25T12:54:53Z",
             "open_issues": 91,
             "owner": "Olical",
             "repo": "conjure",
@@ -26014,7 +26063,7 @@
             "id": 661685396,
             "language": "Fennel",
             "license": "Unlicense",
-            "last_commit": "2026-08-14T13:11:37Z",
+            "last_commit": "2026-09-25T11:07:02Z",
             "open_issues": 9,
             "owner": "Olical",
             "repo": "nfnl",
@@ -26432,7 +26481,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -26458,7 +26507,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -26484,7 +26533,7 @@
             "open_issues": 34,
             "owner": "lewis6991",
             "repo": "gitsigns.nvim",
-            "stars": 7118,
+            "stars": 7119,
             "topics": [
               "git",
               "lua",
@@ -26512,7 +26561,7 @@
             "open_issues": 204,
             "owner": "NeogitOrg",
             "repo": "neogit",
-            "stars": 5634,
+            "stars": 5639,
             "topics": [
               "git",
               "lua",
@@ -26563,7 +26612,7 @@
             "open_issues": 72,
             "owner": "esmuellert",
             "repo": "codediff.nvim",
-            "stars": 1571,
+            "stars": 1575,
             "topics": [
               "c",
               "diff",
@@ -26729,10 +26778,10 @@
             "language": "Lua",
             "license": "NOASSERTION",
             "last_commit": "2026-09-21T11:59:27Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "dlyongemallo",
             "repo": "diffview-plus.nvim",
-            "stars": 337,
+            "stars": 338,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -26753,7 +26802,7 @@
             "open_issues": 1,
             "owner": "chojs23",
             "repo": "ec",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "cli",
               "conflict",
@@ -26789,7 +26838,7 @@
             "open_issues": 2,
             "owner": "linrongbin16",
             "repo": "gitlinker.nvim",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "lua",
               "neovim",
@@ -26842,7 +26891,7 @@
             "open_issues": 1,
             "owner": "barrettruth",
             "repo": "diffs.nvim",
-            "stars": 198,
+            "stars": 199,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -26917,7 +26966,7 @@
             "open_issues": 7,
             "owner": "kokusenz",
             "repo": "deltaview.nvim",
-            "stars": 127,
+            "stars": 128,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -27623,7 +27672,7 @@
                 "open_issues": 248,
                 "owner": "pwntester",
                 "repo": "octo.nvim",
-                "stars": 3385,
+                "stars": 3386,
                 "topics": [
                   "github",
                   "neovim"
@@ -27944,7 +27993,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -27970,7 +28019,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -27996,7 +28045,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -28022,7 +28071,7 @@
             "open_issues": 27,
             "owner": "ggandor",
             "repo": "leap.nvim",
-            "stars": 5029,
+            "stars": 5028,
             "topics": [
               "fennel",
               "motion",
@@ -28051,7 +28100,7 @@
             "open_issues": 29,
             "owner": "folke",
             "repo": "flash.nvim",
-            "stars": 4247,
+            "stars": 4249,
             "topics": [
               "neovim",
               "neovim-plugin"
@@ -28178,7 +28227,7 @@
             "open_issues": 32,
             "owner": "smoka7",
             "repo": "hop.nvim",
-            "stars": 805,
+            "stars": 806,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -28429,8 +28478,8 @@
             "id": 686297059,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T12:46:23Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-25T02:01:29Z",
+            "open_issues": 3,
             "owner": "kkew3",
             "repo": "jieba.vim",
             "stars": 64,
@@ -28760,7 +28809,7 @@
                 "open_issues": 0,
                 "owner": "subev",
                 "repo": "sibling-jump.nvim",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:20.523Z"
@@ -28792,7 +28841,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -28818,7 +28867,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -28844,7 +28893,7 @@
             "open_issues": 41,
             "owner": "folke",
             "repo": "which-key.nvim",
-            "stars": 7312,
+            "stars": 7314,
             "topics": [
               "lua",
               "neovim",
@@ -29340,7 +29389,7 @@
             "open_issues": 12,
             "owner": "karb94",
             "repo": "neoscroll.nvim",
-            "stars": 2073,
+            "stars": 2074,
             "topics": [
               "lua",
               "neovim",
@@ -29472,7 +29521,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -29594,7 +29643,7 @@
                 "open_issues": 9,
                 "owner": "Xuyuanp",
                 "repo": "scrollbar.nvim",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:08:20.523Z"
@@ -29649,7 +29698,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29675,7 +29724,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29701,7 +29750,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29727,7 +29776,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29753,7 +29802,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29779,7 +29828,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29805,7 +29854,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -29831,7 +29880,7 @@
             "open_issues": 16,
             "owner": "windwp",
             "repo": "nvim-autopairs",
-            "stars": 4098,
+            "stars": 4099,
             "topics": [
               "autopairs",
               "lua",
@@ -29959,7 +30008,7 @@
             "open_issues": 8,
             "owner": "Wansmer",
             "repo": "treesj",
-            "stars": 1360,
+            "stars": 1361,
             "topics": [
               "neovim",
               "neovim-plugin",
@@ -30061,11 +30110,11 @@
             "id": 556245669,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:18:50Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T17:34:51Z",
+            "open_issues": 2,
             "owner": "shortcuts",
             "repo": "no-neck-pain.nvim",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "layout",
               "lua",
@@ -31926,7 +31975,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -31984,7 +32033,7 @@
                 "open_issues": 25,
                 "owner": "folke",
                 "repo": "todo-comments.nvim",
-                "stars": 4208,
+                "stars": 4209,
                 "topics": [
                   "neovim",
                   "neovim-plugin"
@@ -32005,7 +32054,7 @@
                 "language": "Lua",
                 "license": "GPL-3.0",
                 "last_commit": "2026-01-10T18:00:38Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "danymat",
                 "repo": "neogen",
                 "stars": 1655,
@@ -32232,7 +32281,7 @@
                 "open_issues": 0,
                 "owner": "Zeioth",
                 "repo": "dooku.nvim",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "c",
                   "csharp",
@@ -32671,7 +32720,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -33053,7 +33102,7 @@
                 "open_issues": 38,
                 "owner": "nvim-mini",
                 "repo": "mini.nvim",
-                "stars": 9545,
+                "stars": 9548,
                 "topics": [
                   "lua",
                   "mini-nvim",
@@ -33079,7 +33128,7 @@
                 "open_issues": 26,
                 "owner": "lukas-reineke",
                 "repo": "indent-blankline.nvim",
-                "stars": 4995,
+                "stars": 4996,
                 "topics": [
                   "hacktoberfest",
                   "indentation",
@@ -33364,7 +33413,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -33499,7 +33548,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -33630,7 +33679,7 @@
             "open_issues": 13,
             "owner": "jedrzejboczar",
             "repo": "possession.nvim",
-            "stars": 398,
+            "stars": 397,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -33651,7 +33700,7 @@
             "open_issues": 5,
             "owner": "coffebar",
             "repo": "neovim-project",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "lua",
               "neovim",
@@ -33943,7 +33992,7 @@
             "open_issues": 3,
             "owner": "azratul",
             "repo": "live-share.nvim",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "code-collaboration",
               "code-sharing",
@@ -34073,7 +34122,7 @@
             "open_issues": 11,
             "owner": "kiyoon",
             "repo": "jupynium.nvim",
-            "stars": 776,
+            "stars": 777,
             "topics": [
               "jupyter-notebook",
               "neovim",
@@ -34136,7 +34185,7 @@
             "open_issues": 29,
             "owner": "brianhuster",
             "repo": "live-preview.nvim",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "asciidoc",
               "asciidoctor",
@@ -34273,7 +34322,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -34299,7 +34348,7 @@
             "open_issues": 2,
             "owner": "smart-splits-nvim",
             "repo": "smart-splits.nvim",
-            "stars": 1723,
+            "stars": 1729,
             "topics": [
               "kitty",
               "mux",
@@ -34668,7 +34717,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-04-13T05:08:17Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "aserowy",
                 "repo": "tmux.nvim",
                 "stars": 809,
@@ -35276,7 +35325,7 @@
                 "open_issues": 66,
                 "owner": "kawre",
                 "repo": "leetcode.nvim",
-                "stars": 2198,
+                "stars": 2199,
                 "topics": [
                   "leetcode",
                   "leetcode-neovim",
@@ -35307,7 +35356,7 @@
                 "open_issues": 21,
                 "owner": "xeluxee",
                 "repo": "competitest.nvim",
-                "stars": 603,
+                "stars": 605,
                 "topics": [
                   "competitive-programming",
                   "neovim",
@@ -35473,7 +35522,7 @@
             "open_issues": 15,
             "owner": "m4xshen",
             "repo": "hardtime.nvim",
-            "stars": 3849,
+            "stars": 3850,
             "topics": [
               "lua",
               "neovim",
@@ -35549,7 +35598,7 @@
             "language": "Lua",
             "license": "MIT",
             "last_commit": "2026-08-31T17:59:06Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "letieu",
             "repo": "jira.nvim",
             "stars": 271,
@@ -35573,7 +35622,7 @@
             "id": 1152837085,
             "language": "Lua",
             "license": "MIT",
-            "last_commit": "2026-09-22T21:19:24Z",
+            "last_commit": "2026-09-24T19:12:03Z",
             "open_issues": 21,
             "owner": "emrearmagan",
             "repo": "atlas.nvim",
@@ -35692,7 +35741,7 @@
                 "id": 1092242156,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:06:28Z",
+                "last_commit": "2026-09-24T18:07:25Z",
                 "open_issues": 0,
                 "owner": "gisketch",
                 "repo": "triforce.nvim",
@@ -35799,7 +35848,7 @@
                 "id": 1127100356,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T00:18:37Z",
+                "last_commit": "2026-09-25T00:19:47Z",
                 "open_issues": 49,
                 "owner": "Rtarun3606k",
                 "repo": "TakaTime",
@@ -36320,7 +36369,7 @@
             "open_issues": 64,
             "owner": "syl20bnr",
             "repo": "spacemacs",
-            "stars": 24563,
+            "stars": 24565,
             "topics": [
               "community-driven",
               "configuration",
@@ -36347,7 +36396,7 @@
             "open_issues": 18,
             "owner": "nvim-lua",
             "repo": "kickstart.nvim",
-            "stars": 31506,
+            "stars": 31509,
             "topics": []
           },
           "first_seen": "2026-08-28T23:08:20.523Z"
@@ -36365,10 +36414,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-07-03T12:44:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "NvChad",
             "repo": "NvChad",
-            "stars": 28492,
+            "stars": 28494,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -36409,7 +36458,7 @@
             "open_issues": 77,
             "owner": "LazyVim",
             "repo": "LazyVim",
-            "stars": 27535,
+            "stars": 27545,
             "topics": [
               "neovim",
               "neovim-conf",
@@ -36437,7 +36486,7 @@
             "open_issues": 33,
             "owner": "LunarVim",
             "repo": "LunarVim",
-            "stars": 19266,
+            "stars": 19265,
             "topics": [
               "formatters",
               "hacktoberfest",
@@ -36475,7 +36524,7 @@
             "open_issues": 1,
             "owner": "AstroNvim",
             "repo": "AstroNvim",
-            "stars": 14442,
+            "stars": 14443,
             "topics": [
               "astronvim",
               "astrovim",
@@ -36586,7 +36635,7 @@
             "open_issues": 3,
             "owner": "dam9000",
             "repo": "kickstart-modular.nvim",
-            "stars": 1017,
+            "stars": 1019,
             "topics": [
               "neovim",
               "neovim-configuration"
@@ -37211,7 +37260,7 @@
                 "open_issues": 13,
                 "owner": "MordechaiHadad",
                 "repo": "bob",
-                "stars": 2142,
+                "stars": 2143,
                 "topics": [
                   "command-line",
                   "hacktoberfest",
@@ -37535,7 +37584,7 @@
                 "id": 437225130,
                 "language": "Nix",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-24T10:31:52Z",
+                "last_commit": "2026-09-24T20:44:35Z",
                 "open_issues": 0,
                 "owner": "m15a",
                 "repo": "flake-awesome-neovim-plugins",
@@ -37626,7 +37675,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -37652,7 +37701,7 @@
             "open_issues": 38,
             "owner": "nvim-mini",
             "repo": "mini.nvim",
-            "stars": 9545,
+            "stars": 9548,
             "topics": [
               "lua",
               "mini-nvim",
@@ -37678,7 +37727,7 @@
             "open_issues": 31,
             "owner": "folke",
             "repo": "noice.nvim",
-            "stars": 5816,
+            "stars": 5817,
             "topics": [
               "neovim",
               "neovim-lua-plugin",
@@ -37956,6 +38005,27 @@
         },
         {
           "node_type": "item",
+          "title": "simifalaye/minibuffer.nvim",
+          "description": "Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A minimal, extensible minibuffer interface for Neovim. Provides an interactive input area for commands, prompts, and UI interactions, fully scriptable in Lua.",
+            "homepage": null,
+            "id": 1078456368,
+            "language": "Lua",
+            "license": "GPL-2.0",
+            "last_commit": "2026-09-02T14:31:11Z",
+            "open_issues": 0,
+            "owner": "simifalaye",
+            "repo": "minibuffer.nvim",
+            "stars": 140,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:01:08.132Z"
+        },
+        {
+          "node_type": "item",
           "title": "xieyonn/spinner.nvim",
           "description": "Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.",
           "children": [],
@@ -38228,7 +38298,7 @@
             "id": 1263453089,
             "language": "Vim Script",
             "license": "MIT",
-            "last_commit": "2026-09-19T02:27:30Z",
+            "last_commit": "2026-09-25T02:43:44Z",
             "open_issues": 0,
             "owner": "ChuYanLon",
             "repo": "chad46",
@@ -38248,7 +38318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:54:37.166Z",
+    "last_updated": "2026-09-25T18:01:08.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collections of awesome neovim plugins.",
@@ -38256,11 +38326,11 @@
       "id": 296702877,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T08:48:14Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-25T15:55:26Z",
+      "open_issues": 8,
       "owner": "rockerBOO",
       "repo": "awesome-neovim",
-      "stars": 21412,
+      "stars": 21416,
       "topics": [
         "awesome",
         "awesome-list",
@@ -38269,7 +38339,7 @@
         "nvim-lua"
       ]
     },
-    "original_repository_sha": "7b868a79a84f32b9be8b32e64656563a291d2743",
+    "original_repository_sha": "9e0940b4adeaebf9b5f03a276e1dbde728ea73b9",
     "enhanced_repository": "enhansome/enhansome-neovim",
     "enhanced_repository_description": null,
     "title": "Awesome Neovim with stars"
