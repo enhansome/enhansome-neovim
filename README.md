@@ -87,12 +87,12 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Plugin Manager
 
-* [folke/lazy.nvim](https://github.com/folke/lazy.nvim) ⭐ 21,667 | 🐛 72 | 🌐 Lua | 📅 2026-06-29 - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
+* [folke/lazy.nvim](https://github.com/folke/lazy.nvim) ⭐ 21,668 | 🐛 72 | 🌐 Lua | 📅 2026-06-29 - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
   * [cosmicbuffalo/super\_lazy.nvim](https://github.com/cosmicbuffalo/super_lazy.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-02-09 - An extension to `folke`'s `lazy.nvim`, enables use of multiple lockfiles for large teams that want to combine your shared/personal configurations.
-* [nvim-mini/mini.nvim#mini.deps](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
-* [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) ⭐ 1,073 | 🐛 55 | 🌐 Lua | 📅 2026-10-15 - A modern approach to plugin management using LuaRocks, inspired by Cargo.
-* [savq/paq-nvim](https://github.com/savq/paq-nvim) ⭐ 703 | 🐛 6 | 🌐 Lua | 📅 2025-03-30 - Package manager written in Lua.
-* [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) ⭐ 373 | 🐛 0 | 🌐 Lua | 📅 2026-07-22 - Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`.
+* [nvim-mini/mini.nvim#mini.deps](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+* [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) ⭐ 1,072 | 🐛 55 | 🌐 Lua | 📅 2026-10-15 - A modern approach to plugin management using LuaRocks, inspired by Cargo.
+* [savq/paq-nvim](https://github.com/savq/paq-nvim) ⭐ 703 | 🐛 7 | 🌐 Lua | 📅 2025-03-30 - Package manager written in Lua.
+* [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) ⭐ 374 | 🐛 0 | 🌐 Lua | 📅 2026-07-22 - Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`.
 * [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) ⭐ 347 | 🐛 8 | 🌐 Lua | 📅 2025-09-25 - Spiritual successor of `wbthomason/packer.nvim`.
 * [zuqini/zpack.nvim](https://github.com/zuqini/zpack.nvim) ⭐ 166 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 * [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ⭐ 35 | 🐛 1 | 🌐 Lua | 📅 2026-07-18 - Asynchronous plugin manager written in Lua.
@@ -113,24 +113,24 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 * [Dan7h3x/signup.nvim](https://github.com/Dan7h3x/signup.nvim) ⭐ 66 | 🐛 0 | 🌐 Lua | 📅 2026-01-27 - a little smart `lsp_signature` helper with awesome features.
 * [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) ⭐ 50 | 🐛 2 | 🌐 Lua | 📅 2025-11-19 - Lightweight, asynchronous that uses the LSP to show references to functions, methods, types and other.
-* [batoaqaa/nvim-pio](https://github.com/batoaqaa/nvim-pio) ⭐ 21 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
+* [batoaqaa/nvim-pio](https://github.com/batoaqaa/nvim-pio) ⭐ 21 | 🐛 1 | 🌐 Lua | 📅 2026-10-20 - Asynchronous, zero-hardcoding bridge between PlatformIO and the `clangd` LSP.
 
 <!--lint disable awesome-spell-check-->
 
-* [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ⭐ 13,979 | 🐛 37 | 🌐 Lua | 📅 2026-10-16 - Quickstart configurations for the LSP client.
+* [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) ⭐ 13,981 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Quickstart configurations for the LSP client.
 
 <!--lint enable awesome-spell-check-->
 
-* [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) ⭐ 3,804 | 🐛 98 | 🌐 Lua | 📅 2026-07-16 - A light-weight LSP plugin based on the built-in LSP with a highly performant UI.
+* [nvimdev/lspsaga.nvim](https://github.com/nvimdev/lspsaga.nvim) ⭐ 3,803 | 🐛 98 | 🌐 Lua | 📅 2026-07-16 - A light-weight LSP plugin based on the built-in LSP with a highly performant UI.
 * [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) ⭐ 2,785 | 🐛 40 | 🌐 Lua | 📅 2026-10-07 - An asynchronous linter plugin, complementary to the built-in Language Server Protocol support.
-* [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) ⭐ 2,601 | 🐛 16 | 🌐 Lua | 📅 2026-09-03 - Standalone UI for LSP progress.
-* [ray-x/lsp\_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ⭐ 2,371 | 🐛 87 | 🌐 Lua | 📅 2026-09-07 - LSP signature hint when you type.
-* [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ⭐ 2,355 | 🐛 77 | 🌐 Lua | 📅 2026-06-02 - A code outline window for skimming and quick navigation.
-* [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) ⭐ 1,695 | 🐛 15 | 🌐 Lua | 📅 2026-01-29 - The plugin adds VSCode-like icons to LSP completions.
+* [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) ⭐ 2,600 | 🐛 16 | 🌐 Lua | 📅 2026-09-03 - Standalone UI for LSP progress.
+* [ray-x/lsp\_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ⭐ 2,370 | 🐛 87 | 🌐 Lua | 📅 2026-09-07 - LSP signature hint when you type.
+* [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ⭐ 2,354 | 🐛 77 | 🌐 Lua | 📅 2026-06-02 - A code outline window for skimming and quick navigation.
+* [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) ⭐ 1,694 | 🐛 15 | 🌐 Lua | 📅 2026-01-29 - The plugin adds VSCode-like icons to LSP completions.
 * [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) ⭐ 1,404 | 🐛 24 | 🌐 Lua | 📅 2026-10-12 - Learn existing code quickly and navigate code like a breeze. A swiss army knife makes exploring LSP and Tree-sitter symbols a piece of cake.
 * [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) ⭐ 1,058 | 🐛 12 | 🌐 Lua | 📅 2025-12-26 - Previewing native LSP's goto definition calls in floating windows.
 * [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) ⭐ 1,045 | 🐛 35 | 🌐 Lua | 📅 2026-10-10 - A significantly enhanced and refactored fork of `symbols-outline.nvim`.
-* [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) ⭐ 1,043 | 🐛 11 | 🌐 Lua | 📅 2026-10-15 - Provide access to the [SchemaStore](https://github.com/SchemaStore/schemastore) ⭐ 3,866 | 🐛 91 | 🌐 JavaScript | 📅 2026-10-19 catalog.
+* [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) ⭐ 1,043 | 🐛 11 | 🌐 Lua | 📅 2026-10-20 - Provide access to the [SchemaStore](https://github.com/SchemaStore/schemastore) ⭐ 3,866 | 🐛 91 | 🌐 JavaScript | 📅 2026-10-20 catalog.
 * [kosayoda/nvim-lightbulb](https://github.com/kosayoda/nvim-lightbulb) ⭐ 894 | 🐛 6 | 🌐 Lua | 📅 2026-04-27 - The plugin shows a lightbulb in the sign column whenever a `textDocument/codeAction` is available at the current cursor position.
 * [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) ⭐ 862 | 🐛 10 | 🌐 Lua | 📅 2026-07-30 - Provides an incremental LSP rename command based on the command-preview feature.
 * [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) ⭐ 517 | 🐛 10 | 🌐 Lua | 📅 2026-04-22 - Fully customizable previewer for LSP code actions.
@@ -140,7 +140,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) ⭐ 239 | 🐛 15 | 🌐 Lua | 📅 2024-08-07 - Enable the power of FZF fuzzy search for the built-in LSP.
 * [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) ⭐ 178 | 🐛 3 | 🌐 Lua | 📅 2025-09-26 - Provide inline virtual text displaying TypeScript types for the inspected variables.
 * [hasansujon786/nvim-navbuddy](https://github.com/hasansujon786/nvim-navbuddy) ⭐ 86 | 🐛 1 | 🌐 Lua | 📅 2025-05-11 - A simple popup display that provides breadcrumbs like navigation feature but in keyboard centric manner, inspired by the `ranger` file manager.
-* [retran/meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) ⭐ 83 | 🐛 2 | 🌐 Lua | 📅 2026-09-12 - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
+* [retran/meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) ⭐ 82 | 🐛 2 | 🌐 Lua | 📅 2026-09-12 - Interactive LSP type and call hierarchy explorer with a tree view, live preview, navigation breadcrumbs, and a custom node renderer.
 * [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ⭐ 58 | 🐛 4 | 🌐 Lua | 📅 2026-03-02 - Enhance the lspconfig settings for Texlab by defining any number of custom LaTeX build engines and selecting them with magic comments.
 
 <!--lint disable double-link-->
@@ -149,22 +149,22 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 <!--lint enable double-link-->
 
-* [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) ⭐ 10,507 | 🐛 280 | 🌐 Lua | 📅 2026-06-19 - Easily install and manage LSP servers, DAP servers, linters, and formatters.
-* [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) ⭐ 3,264 | 🐛 15 | 🌐 Lua | 📅 2026-10-12 - A reloaded `null-ls.nvim` to use your editor as a language server to inject LSP diagnostics, code actions, and more via Lua.
-* [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) ⭐ 3,150 | 🐛 20 | 🌐 Lua | 📅 2026-10-19 - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
+* [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) ⭐ 10,508 | 🐛 280 | 🌐 Lua | 📅 2026-06-19 - Easily install and manage LSP servers, DAP servers, linters, and formatters.
+* [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) ⭐ 3,263 | 🐛 15 | 🌐 Lua | 📅 2026-10-12 - A reloaded `null-ls.nvim` to use your editor as a language server to inject LSP diagnostics, code actions, and more via Lua.
+* [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) ⭐ 3,151 | 🐛 20 | 🌐 Lua | 📅 2026-10-20 - A heavily modified fork of rust-tools.nvim that does not require a `setup` call and does not depend on nvim-lspconfig.
 * [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) ⭐ 1,746 | 🐛 0 | 🌐 Lua | 📅 2026-10-08 - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 * [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ⭐ 1,499 | 🐛 4 | 🌐 Lua | 📅 2026-05-20 - Extensions for the built-in LSP support for the Eclipse JDT Language Server.
 * [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) ⭐ 928 | 🐛 12 | 🌐 Lua | 📅 2026-09-03 - A pretty window for previewing, navigating and editing your LSP locations.
 * [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ⭐ 905 | 🐛 20 | 🌐 Lua | 📅 2026-10-19 - Provides LSP features and a nvim-cmp completion source for languages embedded in other documents.
-* [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) ⭐ 615 | 🐛 20 | 🌐 Lua | 📅 2026-10-19 - Seamless integration for Haskell development tools like `haskell-language-server` and Hoogle.
+* [mrcjkb/haskell-tools.nvim](https://github.com/mrcjkb/haskell-tools.nvim) ⭐ 614 | 🐛 21 | 🌐 Lua | 📅 2026-10-20 - Seamless integration for Haskell development tools like `haskell-language-server` and Hoogle.
 * [zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) ⭐ 530 | 🐛 6 | 🌐 Lua | 📅 2026-08-19 - Garbage collector that stops inactive LSP clients to free RAM.
 * [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) ⭐ 511 | 🐛 2 | 🌐 Lua | 📅 2026-04-06 - Display references, definitions and implementations of document symbols.
 * [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) ⭐ 505 | 🐛 0 | 🌐 Lua | 📅 2026-09-22 - Provides a simple way to run and visualize code actions with Telescope.
 * [antosha417/nvim-lsp-file-operations](https://github.com/antosha417/nvim-lsp-file-operations) ⭐ 442 | 🐛 1 | 🌐 Lua | 📅 2026-10-18 - File operations using built-in LSP support.
 * [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) ⭐ 363 | 🐛 0 | 🌐 Lua | 📅 2026-08-13 - Mouse-hover LSP hints.
-* [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) ⭐ 324 | 🐛 21 | 🌐 Lua | 📅 2024-08-09 - Display function references above function definition like IDEA codelens.
+* [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) ⭐ 323 | 🐛 21 | 🌐 Lua | 📅 2024-08-09 - Display function references above function definition like IDEA codelens.
 * [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) ⭐ 318 | 🐛 1 | 🌐 Lua | 📅 2026-09-01 - An unofficial collection of linters and formatters configured for efm-langserver to work with built-in LSP.
-* [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) ⭐ 302 | 🐛 0 | 🌐 Lua | 📅 2026-09-18 - A modern and useful UI that wraps LSP operations.
+* [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) ⭐ 301 | 🐛 0 | 🌐 Lua | 📅 2026-09-18 - A modern and useful UI that wraps LSP operations.
 * [Fildo7525/pretty\_hover](https://github.com/Fildo7525/pretty_hover) ⭐ 252 | 🐛 2 | 🌐 Lua | 📅 2026-05-22 - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
 * [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) ⭐ 248 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 - Display LSP inlay hints at the end of the line, rather than within the line.
 * [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) ⭐ 239 | 🐛 1 | 🌐 Lua | 📅 2026-02-02 - A performant LSP progress status.
@@ -172,7 +172,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) ⭐ 232 | 🐛 0 | 🌐 Lua | 📅 2025-04-04 - Automatically start/stop idle/unused LSP servers; keeps RAM usage low.
 * [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) ⭐ 187 | 🐛 1 | 🌐 Lua | 📅 2026-06-11 - Display LSP hover documentation in a side panel.
 * [barreiroleo/ltex\_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ⭐ 186 | 🐛 11 | 🌐 Lua | 📅 2025-11-01 - LTeX LSP extension providing external file handling (rules and dictionaries).
-* [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim) ⭐ 156 | 🐛 4 | 🌐 Lua | 📅 2025-12-20 - Refactor Python imports on file move/rename.
+* [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim) ⭐ 157 | 🐛 4 | 🌐 Lua | 📅 2025-12-20 - Refactor Python imports on file move/rename.
 * [vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim) ⭐ 124 | 🐛 1 | 🌐 Lua | 📅 2025-08-04 - Interact with Rust-Analyzer's LSP extensions.
 * [error311/wayfinder.nvim](https://github.com/error311/wayfinder.nvim) ⭐ 120 | 🐛 1 | 🌐 Lua | 📅 2026-08-08 - Guided code exploration from the current symbol with a keepable trail.
 * [creativenull/diagnosticls-configs-nvim](https://github.com/creativenull/diagnosticls-configs-nvim) ⭐ 94 | 🐛 2 | 🌐 Lua | 📅 2025-11-12 - An unofficial collection of linters and formatters configured for diagnostic-languageserver to work with built-in LSP.
@@ -180,13 +180,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) ⭐ 92 | 🐛 6 | 🌐 Python | 📅 2026-02-21 - Bundle VSCode ESLint language server and utilize the native LSP client to provide a all-in-one ESLint experience.
 * [yarospace/dev-tools.nvim](https://github.com/yarospace/dev-tools.nvim) ⭐ 87 | 🐛 0 | 🌐 Lua | 📅 2025-11-01 - In-process LSP server for custom code actions, enhanced actions picker, community actions library and a convenient interface to create your own actions.
 * [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport) ⭐ 82 | 🐛 7 | 🌐 Lua | 📅 2024-07-20 - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
-* [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) ⭐ 79 | 🐛 1 | 🌐 Lua | 📅 2026-10-13 - Progressively expand and collapse TypeScript type aliases inside the hover float.
+* [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) ⭐ 78 | 🐛 1 | 🌐 Lua | 📅 2026-10-13 - Progressively expand and collapse TypeScript type aliases inside the hover float.
 * [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) ⭐ 77 | 🐛 1 | 🌐 Lua | 📅 2026-04-10 - Use off-spec extensions of ccls LSP and browse AST.
 * [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) ⭐ 62 | 🐛 0 | 🌐 Lua | 📅 2023-05-09 - Inline diagnostics popup-highlight much like `coc-nvim` but based on `vim.diagnostic`.
 * [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) ⭐ 61 | 🐛 2 | 🌐 Lua | 📅 2025-12-23 - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 * [chojs23/ts-bridge](https://github.com/chojs23/ts-bridge) ⭐ 42 | 🐛 0 | 🌐 Rust | 📅 2026-01-06 - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 * [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) ⭐ 39 | 🐛 4 | 🌐 Lua | 📅 2024-06-27 - Quickly pop-up some LSP-powered information of the thing your cursor is on.
-* [carldaws/miser.nvim](https://github.com/carldaws/miser.nvim) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2026-10-15 - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
+* [carldaws/miser.nvim](https://github.com/carldaws/miser.nvim) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2026-10-15 - Start LSP servers, run formatters on save, and launch tasks straight from the tools declared in a project's `mise.toml`.
 * [Zeioth/none-ls-autoload.nvim](https://github.com/Zeioth/none-ls-autoload.nvim) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2025-06-24 - Auto-load/unload `none-ls` sources installed with `mason`, with support for built-in and external sources.
 * [Crysthamus/nvim-file-operations](https://github.com/Crysthamus/nvim-file-operations) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Add support for workspace file operations using built-in LSPs.
 * [ryan-WORK/ohm](https://github.com/ryan-WORK/ohm) ⭐ 17 | 🐛 2 | 🌐 Go | 📅 2026-08-01 - A persistent LSP process manager daemon which fixes memory bloat, stuck diagnostics, monorepo server duplication, and session degradation.
@@ -198,8 +198,8 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ### Diagnostics
 
-* [folke/trouble.nvim](https://github.com/folke/trouble.nvim) ⭐ 6,903 | 🐛 20 | 🌐 Lua | 📅 2025-10-31 - A pretty diagnostics list to help you solve all the trouble your code is causing.
-* [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) ⭐ 609 | 🐛 0 | 🌐 Lua | 📅 2026-06-02 - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
+* [folke/trouble.nvim](https://github.com/folke/trouble.nvim) ⭐ 6,904 | 🐛 21 | 🌐 Lua | 📅 2025-10-31 - A pretty diagnostics list to help you solve all the trouble your code is causing.
+* [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) ⭐ 608 | 🐛 0 | 🌐 Lua | 📅 2026-06-02 - AI powered diagnostic debugging, helps explain complex errors and offers custom tailored solutions.
 * [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) ⭐ 265 | 🐛 2 | 🌐 Lua | 📅 2026-09-21 - Populate diagnostics for all projects files, not just the opened ones.
 * [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) ⭐ 118 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 - Add inline-comments to ignore rules, or lookup rule documentation online.
 * [sontungexpt/better-diagnostic-virtual-text](https://github.com/sontungexpt/better-diagnostic-virtual-text) ⭐ 95 | 🐛 3 | 🌐 Lua | 📅 2024-07-27 - Enhances the display of virtual text for diagnostics. This function aims to provide a more user-friendly and informative presentation of diagnostic messages directly within the editor.
@@ -215,8 +215,8 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Completion
 
-* [nvim-mini/mini.nvim#mini.completion](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
-* [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) ⭐ 9,484 | 🐛 304 | 🌐 Lua | 📅 2026-07-09 - Completion engine written in Lua, successor of `nvim-compe`.
+* [nvim-mini/mini.nvim#mini.completion](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
+* [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) ⭐ 9,483 | 🐛 304 | 🌐 Lua | 📅 2026-07-09 - Completion engine written in Lua, successor of `nvim-compe`.
   * [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) ⭐ 1,511 | 🐛 29 | 🌐 Lua | 📅 2025-11-13 - `nvim-cmp` source for the built-in LSP client.
   * [saadparwaiz1/cmp\_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) ⭐ 771 | 🐛 13 | 🌐 Lua | 📅 2024-11-04 - `nvim-cmp` source for `LuaSnip`.
   * [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) ⭐ 692 | 🐛 39 | 🌐 Lua | 📅 2025-07-30 - `nvim-cmp` source for filesystem paths.
@@ -228,7 +228,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
   * [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) ⭐ 192 | 🐛 0 | 🌐 Lua | 📅 2022-03-04 - `nvim-cmp` function for better sorting.
   * [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) ⭐ 94 | 🐛 3 | 🌐 Lua | 📅 2024-06-05 - `nvim-cmp` source for environment variables (from system and `.env` files).
   * [valenyala/cmp-forge-remappings](https://github.com/valenyala/cmp-forge-remappings) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - `nvim-cmp` source for Solidity imports in Foundry projects, with remapping-aware paths and symbol auto-import.
-* [saghen/blink.cmp](https://github.com/saghen/blink.cmp) ⭐ 6,638 | 🐛 117 | 🌐 Lua | 📅 2026-10-18 - Really fast completion with LSP and snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+* [saghen/blink.cmp](https://github.com/saghen/blink.cmp) ⭐ 6,638 | 🐛 117 | 🌐 Lua | 📅 2026-10-19 - Really fast completion with LSP and snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
   * [saghen/blink.compat](https://github.com/saghen/blink.compat) ⭐ 222 | 🐛 6 | 🌐 Lua | 📅 2025-05-28 - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
   * [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) ⭐ 127 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - `blink.cmp` source for `ripgrep` / `git grep`.
   * [Kasier-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) ⭐ 116 | 🐛 3 | 🌐 Lua | 📅 2025-07-24 - `blink-cmp` source for Avante.
@@ -238,14 +238,14 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
   * [disrupted/blink-cmp-conventional-commits](https://github.com/disrupted/blink-cmp-conventional-commits) ⭐ 36 | 🐛 1 | 🌐 Lua | 📅 2026-04-20 - `blink.cmp` source for [Conventional Commits](https://www.conventionalcommits.org/).
   * [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-05-05 - `blink.cmp` source for environment variables.
   * [erooke/blink-cmp-latex](https://github.com/erooke/blink-cmp-latex) ⭐ 22 | 🐛 1 | 🌐 Lua | 📅 2026-04-09 - `blink.cmp` source for LaTeX.
-  * [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - `blink.cmp` source for [tmux](https://github.com/tmux/tmux) ⭐ 49,934 | 🐛 38 | 🌐 C | 📅 2026-10-19.
+  * [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - `blink.cmp` source for [tmux](https://github.com/tmux/tmux) ⭐ 49,940 | 🐛 38 | 🌐 C | 📅 2026-10-20.
   * [krissen/blink-cmp-bibtex](https://github.com/krissen/blink-cmp-bibtex) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2026-09-10 - `blink.cmp` source for BibTeX citation files.
   * [benborla/at-file.nvim](https://github.com/benborla/at-file.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-05-23 - `blink.cmp` source for file path completion using `@`.
   * [bydlw98/blink-cmp-sshconfig](https://github.com/bydlw98/blink-cmp-sshconfig) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-05-03 - `blink.cmp` source for `sshconfig` files.
   * [yaocccc/blink-cmp-cmdlinehistory](https://github.com/yaocccc/blink-cmp-cmdlinehistory) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-03-26 - `blink.cmp` source for cmdline and search history.
   * [FelipeLema/blink-cmp-vsnip](https://codeberg.org/FelipeLema/blink-cmp-vsnip) - `blink.cmp` source for `vim-vsnip`.
-* [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) ⭐ 4,097 | 🐛 21 | 🌐 Lua | 📅 2026-10-19 - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim) ⭐ 11,697 | 🐛 78 | 🌐 Vim Script | 📅 2026-08-11.
-* [ms-jpq/coq\_nvim](https://github.com/ms-jpq/coq_nvim) ⭐ 3,811 | 🐛 187 | 🌐 Lua | 📅 2026-10-19 - Fast as FUCK completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
+* [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) ⭐ 4,097 | 🐛 21 | 🌐 Lua | 📅 2026-10-20 - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim) ⭐ 11,697 | 🐛 78 | 🌐 Vim Script | 📅 2026-08-11.
+* [ms-jpq/coq\_nvim](https://github.com/ms-jpq/coq_nvim) ⭐ 3,810 | 🐛 187 | 🌐 Lua | 📅 2026-10-19 - Fast as FUCK completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 * [brianaung/compl.nvim](https://github.com/brianaung/compl.nvim) ⭐ 51 | 🐛 2 | 🌐 Lua | 📅 2026-04-27 - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 
 <!--lint disable double-link -->
@@ -258,24 +258,24 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 <!--lint disable double-link-->
 
-* [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,126 | 🐛 94 | 🌐 Lua | 📅 2026-10-17 - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
-  * [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - Floating terminal provider for [claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,126 | 🐛 94 | 🌐 Lua | 📅 2026-10-17 that collapses into a corner notification while Claude edits and returns once idle.
+* [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,127 | 🐛 94 | 🌐 Lua | 📅 2026-10-17 - Claude Code integration using the WebSocket-based MCP protocol, with selection and diagnostics context sharing plus inline diffs.
+  * [hebercosfer/floating-claude.nvim](https://github.com/hebercosfer/floating-claude.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - Floating terminal provider for [claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 3,127 | 🐛 94 | 🌐 Lua | 📅 2026-10-17 that collapses into a corner notification while Claude edits and returns once idle.
 
 <!--lint enable double-link-->
 
-* [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,196 | 🐛 52 | 🌐 Lua | 📅 2026-10-19 - Chat with your code as if you are in Cursor AI IDE.
-* [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ⭐ 6,899 | 🐛 19 | 🌐 Lua | 📅 2026-10-19 - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
+* [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,191 | 🐛 54 | 🌐 Lua | 📅 2026-10-20 - Chat with your code as if you are in Cursor AI IDE.
+* [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ⭐ 6,899 | 🐛 20 | 🌐 Lua | 📅 2026-10-20 - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
 * [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ⭐ 3,992 | 🐛 111 | 🌐 Lua | 📅 2026-01-13 - Effortless Natural Language Generation with OpenAI's ChatGPT API.
-* [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) ⭐ 3,891 | 🐛 8 | 🌐 Lua | 📅 2026-10-19 - OpenCode AI assistant integration.
-* [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ⭐ 3,649 | 🐛 24 | 🌐 Lua | 📅 2026-10-12 - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
+* [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) ⭐ 3,892 | 🐛 8 | 🌐 Lua | 📅 2026-10-19 - OpenCode AI assistant integration.
+* [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ⭐ 3,650 | 🐛 24 | 🌐 Lua | 📅 2026-10-12 - A chat interface for GitHub Copilot that allows you to directly ask and receive answers to coding-related questions.
 * [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) ⭐ 1,525 | 🐛 26 | 🌐 Lua | 📅 2025-05-03 - Generate text using LLMs (via Ollama) with customizable prompts.
 * [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) ⭐ 1,433 | 🐛 15 | 🌐 Lua | 📅 2026-10-07 - Minuet offers code completion from LLM providers including OpenAI (compatible), Gemini, Claude, Ollama, Deepseek and more providers, with support for nvim-cmp, blink.cmp and virtual-text frontend.
-* [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) ⭐ 1,318 | 🐛 72 | 🌐 Lua | 📅 2025-08-11 - ChatGPT like sessions and instructable text/code operations in your favorite editor.
+* [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) ⭐ 1,319 | 🐛 72 | 🌐 Lua | 📅 2025-08-11 - ChatGPT like sessions and instructable text/code operations in your favorite editor.
 * [Exafunction/windsurf.nvim](https://github.com/Exafunction/windsurf.nvim) ⚠️ Archived - Free, ultrafast Copilot alternative. Supports LSP and Tree-sitter.
 * [Davidyz/VectorCode](https://github.com/davidyz/vectorcode) ⭐ 874 | 🐛 19 | 🌐 Python | 📅 2026-02-23 - Supercharge your LLM experience with repository-level RAG.
-* [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ⭐ 641 | 🐛 11 | 🌐 Lua | 📅 2026-10-16 - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
+* [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ⭐ 640 | 🐛 11 | 🌐 Lua | 📅 2026-10-16 - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 * [dense-analysis/neural](https://github.com/dense-analysis/neural) ⭐ 507 | 🐛 18 | 🌐 Vim Script | 📅 2025-07-22 - Integrate LLMs for generating code, interacting with chat bots, and more.
-* [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) ⭐ 483 | 🐛 0 | 🌐 Lua | 📅 2026-06-20 - Free large language model (LLM) support, provides commands to interact with LLM.
+* [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) ⭐ 482 | 🐛 0 | 🌐 Lua | 📅 2026-06-20 - Free large language model (LLM) support, provides commands to interact with LLM.
 * [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) ⭐ 465 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-12 - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 * [gsuuon/model.nvim](https://github.com/gsuuon/model.nvim) ⭐ 400 | 🐛 15 | 🌐 Lua | 📅 2025-07-23 - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), `PaLM`, `Hugging Face`, and local engines like `llamacpp`.
 * [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) ⭐ 376 | 🐛 6 | 🌐 Lua | 📅 2026-08-03 - Seamlessly integrate Aider for an AI-assisted coding experience.
@@ -288,25 +288,25 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) ⭐ 113 | 🐛 11 | 🌐 Lua | 📅 2026-02-08 - In-editor chat powered by Simon Willison's LLM CLI: stream replies in a Markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 * [teocns/neocursor.nvim](https://github.com/teocns/neocursor.nvim) ⭐ 75 | 🐛 0 | 🌐 Lua | 📅 2026-09-02 - Next-edit predictions, cursor jumps, and ghost text, all driven by an existing Cursor session instead of an API key.
 * [Aaronik/GPTModels.nvim](https://github.com/Aaronik/GPTModels.nvim) ⭐ 74 | 🐛 2 | 🌐 Lua | 📅 2025-06-26 - GPTModels - a stable, clean, multi model, window based LLM AI tool.
-* [Flemma-Dev/flemma.nvim](https://github.com/Flemma-Dev/flemma.nvim) ⭐ 58 | 🐛 1 | 🌐 Lua | 📅 2026-07-29 - Turn messy inputs (meeting transcripts, briefs, PDFs, email threads) into polished documents, iterate over many turns, and get a second opinion from a different model on the same draft, stored in a `.chat` file.
+* [Flemma-Dev/flemma.nvim](https://github.com/Flemma-Dev/flemma.nvim) ⭐ 57 | 🐛 1 | 🌐 Lua | 📅 2026-07-29 - Turn messy inputs (meeting transcripts, briefs, PDFs, email threads) into polished documents, iterate over many turns, and get a second opinion from a different model on the same draft, stored in a `.chat` file.
 * [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) ⭐ 46 | 🐛 1 | 🌐 Lua | 📅 2023-10-31 - Simple interaction with ChatGPT in a Markdown buffer. Supports GPT-4 and Azure OpenAI.
 * [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2026-08-26 - Codex IDE integration, no API key required.
 * [you-n-g/simplegpt.nvim](https://github.com/you-n-g/simplegpt.nvim) ⭐ 36 | 🐛 1 | 🌐 Lua | 📅 2026-04-13 - Provide a simple yet flexible way to construct and send questions to ChatGPT.
 * [saya-ashen/agent-workbench.nvim](https://github.com/saya-ashen/agent-workbench.nvim) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - Workspace frontend for pi.dev with sessions, diff review, and persistent shell worksheets.
-* [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ⭐ 23 | 🐛 1 | 🌐 Lua | 📅 2026-09-22 - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
-* [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-10-15 - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
+* [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Integration with Crush AI coding assistant, with edit highlighting, auto-focus, Telescope support, terminal and version management.
+* [zgs225/pi2.nvim](https://github.com/zgs225/pi2.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Frontend for the [pi](https://pi.dev) coding agent with in-editor chat, reviewed diffs, session-tree navigation, and extension prompts.
 * [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ⭐ 18 | 🐛 3 | 🌐 Lua | 📅 2024-12-19 - Prompt LLMs (large language models) to write Vim commands.
 * [ray-x/copilot-agent.nvim](https://github.com/ray-x/copilot-agent.nvim) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2026-06-03 - GitHub Copilot agent runtime with native tool execution, session persistence, and fine-grained permissions.
 * [k2589/LLuMinate.nvim](https://github.com/k2589/lluminate.nvim) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2024-10-11 - Enrich context for LLM with LSP hover added to clipboard.
 * [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2025-10-02 - Chat with Markdown files using AI models from xAI, OpenAI and Anthropic.
-* [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2026-10-19 - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
+* [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2026-10-20 - A lightweight, extensible chat plugin with AI integration, multiple providers, and built-in tools.
 * [BRONZowl/codux.nvim](https://github.com/BRONZowl/codux.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-07-15 - Run OpenAI Codex in a persistent floating terminal and send files, selections, diagnostics, or file explorer targets.
 * [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-09-11 - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
 * [ctchen222/openspec.nvim](https://github.com/ctchen222/openspec.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-07-04 - OpenSpec workflow context, model/provider selection, and coding-agent implementation handoffs.
 * [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-05-12 - Minimalist command based AI coding with a powerful template system. Supports Ollama, OpenAI and more.
 * [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-06-06 - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 * [0xble/dotagent.nvim](https://github.com/0xble/dotagent.nvim) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - Command and skill completion for Claude Code and Codex-style prompt editors, configurable from local agent command and skill directories.
-* [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) ⭐ 9 | 🐛 4 | 🌐 Lua | 📅 2026-10-19 - Comprehensive integration with the [LLM](https://github.com/simonw/llm) ⭐ 12,642 | 🐛 749 | 🌐 Python | 📅 2026-10-18 tool.
+* [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) ⭐ 9 | 🐛 4 | 🌐 Lua | 📅 2026-10-20 - Comprehensive integration with the [LLM](https://github.com/simonw/llm) ⭐ 12,648 | 🐛 752 | 🌐 Python | 📅 2026-10-18 tool.
 * [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2026-10-13 - Snacks picker integrations for previewing CodeCompanion prompts and Skills (using OpenSkills).
 * [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2026-08-05 - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 * [alsi-lawr/agent-term.nvim](https://github.com/alsi-lawr/agent-term.nvim) ⭐ 7 | 🐛 5 | 🌐 Lua | 📅 2026-07-23 - Terminal-agent UI with persistent views, lightweight hook-based editor context, and extensible presets for any native AI TUI.
@@ -324,10 +324,10 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Programming Languages Support
 
-* [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ⭐ 1,724 | 🐛 37 | 🌐 Lua | 📅 2026-09-12 - Everything you need for a painless Java experience.
+* [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ⭐ 1,725 | 🐛 37 | 🌐 Lua | 📅 2026-09-12 - Everything you need for a painless Java experience.
 * [nvim-flutter/flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim) ⭐ 1,425 | 🐛 4 | 🌐 Lua | 📅 2026-10-06 - Build Flutter and Dart applications using the native LSP.
-* [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ⭐ 1,017 | 🐛 15 | 🌐 Lua | 📅 2026-07-14 - Preview Typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
-* [Julian/lean.nvim](https://github.com/Julian/lean.nvim) ⭐ 610 | 🐛 41 | 🌐 Lua | 📅 2026-10-19 - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
+* [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ⭐ 1,018 | 🐛 15 | 🌐 Lua | 📅 2026-07-14 - Preview Typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
+* [Julian/lean.nvim](https://github.com/Julian/lean.nvim) ⭐ 610 | 🐛 40 | 🌐 Lua | 📅 2026-10-20 - Support for the [Lean Theorem Prover](https://leanprover.github.io/).
 * [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ⭐ 551 | 🐛 7 | 🌐 Lua | 📅 2026-01-14 - Asynchronous project-wide TypeScript type-checking using the TypeScript compiler (`tsc`) with results loaded into a quickfix list.
 * [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ⭐ 533 | 🐛 6 | 🌐 Lua | 📅 2026-08-26 - Tools for working with [Quarto](https://quarto.org/) documents.
 * [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) ⭐ 436 | 🐛 3 | 🌐 Lua | 📅 2026-01-03 - A port of Matt Pocock's `ts-error-translator` for VSCode for turning messy and confusing TypeScript errors into plain English.
@@ -336,11 +336,11 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [nanotee/sqls.nvim](https://github.com/nanotee/sqls.nvim) ⭐ 257 | 🐛 10 | 🌐 Lua | 📅 2026-08-13 - SQL database connection plugin + LSP client.
 * [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) ⭐ 252 | 🐛 12 | 🌐 Lua | 📅 2025-02-09 - Tiny plugin to quickly switch Python virtual environments without restarting.
 * [apyra/nvim-unity.nvim](https://github.com/apyra/nvim-unity) ⭐ 130 | 🐛 12 | 🌐 C# | 📅 2026-04-01 - Editor support for Unity with full LSP support via OmniSharp.
-* [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) ⭐ 98 | 🐛 2 | 🌐 Lua | 📅 2026-01-07 - Lua version of [phpactor](https://github.com/phpactor/phpactor) ⭐ 1,932 | 🐛 294 | 🌐 PHP | 📅 2026-10-16.
+* [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) ⭐ 98 | 🐛 2 | 🌐 Lua | 📅 2026-01-07 - Lua version of [phpactor](https://github.com/phpactor/phpactor) ⭐ 1,931 | 🐛 295 | 🌐 PHP | 📅 2026-10-16.
 * [TheLeoP/powershell.nvim](https://github.com/TheLeoP/powershell.nvim) ⭐ 86 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - First class PowerShell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 * [J-Cowsert/classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim) ⭐ 65 | 🐛 3 | 🌐 Lua | 📅 2026-09-11 - Visualize C/C++ struct and class memory layouts (field offsets, padding, alignment) in a floating window.
 * [kiyoon/python-import.nvim](https://github.com/kiyoon/python-import.nvim) ⭐ 63 | 🐛 0 | 🌐 Python | 📅 2026-10-17 - Add Python import statements with Tree-sitter, LSP, and more.
-* [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ⭐ 60 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
+* [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ⭐ 60 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Java productivity layer on top of an externally managed `jdtls`, including class creation, code generation, annotation by search, refactoring, a neotest test runner, and a task runner for `gradle` and `maven`.
 * [niuiic/typst-preview.nvim](https://github.com/niuiic/typst-preview.nvim) ⭐ 49 | 🐛 1 | 🌐 Lua | 📅 2025-05-19 - Preview Typst documents, respond to file changes.
 * [atomicptr/defold.nvim](https://github.com/atomicptr/defold.nvim) ⭐ 38 | 🐛 12 | 🌐 Rust | 📅 2026-10-05 - Batteries-included development environment for the Defold game engine.
 * [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) ⭐ 36 | 🐛 1 | 🌐 Lua | 📅 2026-05-09 - Switch Python interpreter without restarting LSP.
@@ -349,9 +349,9 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2022-08-22 - Mix (from Elixir) wrapper plugin.
 * [sachinsenal0x64/hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) ⚠️ Archived - A hot reloader that works with any programming language.
 * [ta-tikoma/php.easy.nvim](https://github.com/ta-tikoma/php.easy.nvim) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-02-25 - Methods of assistance in PHP development: create classes, constants, methods, properties; simple copying and deleting of an entity.
-* [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) ⭐ 24 | 🐛 1 | 🌐 Lua | 📅 2026-09-13 - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
 * [mosheavni/yaml-companion.nvim](https://github.com/mosheavni/yaml-companion.nvim) ⭐ 23 | 🐛 1 | 🌐 Lua | 📅 2026-08-28 - Automatic schema detection and selection for YAML files with `yaml-language-server`, including built-in Kubernetes support.
-* [leblocks/hopcsharp.nvim](https://github.com/leblocks/hopcsharp.nvim) ⭐ 17 | 🐛 10 | 🌐 Lua | 📅 2026-08-27 - Provides LSP-less navigation and type-hierarchy information in C# repositories.
+* [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) ⭐ 23 | 🐛 1 | 🌐 Lua | 📅 2026-09-13 - Search C++ docs from cppman and view results in a floating window, backed by a local SQLite index for fast lookups.
+* [leblocks/hopcsharp.nvim](https://github.com/leblocks/hopcsharp.nvim) ⭐ 16 | 🐛 10 | 🌐 Lua | 📅 2026-08-27 - Provides LSP-less navigation and type-hierarchy information in C# repositories.
 * [onlyati/quadlet-lsp.nvim](https://github.com/onlyati/quadlet-lsp.nvim) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2025-12-10 - Provides completion, hover and other language server features for Podman Quadlet files.
 * [chuwy/ucm.nvim](https://github.com/chuwy/ucm.nvim) ⭐ 7 | 🐛 2 | 🌐 Lua | 📅 2023-08-23 - Navigating [Unison](https://unison-lang.org/) projects.
 * [Who5673/who5673-nasm](https://github.com/Who5673/who5673-nasm) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-08-16 - Helps people program Netwide Assembler language faster and more convenient using snippets.
@@ -361,12 +361,12 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [clang-engineer/jvm-env.nvim](https://github.com/clang-engineer/jvm-env.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-11 - Auto-detects installed JDKs by major version, with separate environment variables for jdtls and Gradle.
 * [awsum-lang/awsum-nvim](https://github.com/awsum-lang/awsum-nvim) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-06-22 - LSP client and Tree-sitter highlighting for the [Awsum](https://awsum-lang.org) programming language.
 * [ag-libs/lathe.nvim](https://github.com/ag-libs/lathe.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-10-18 - Java language server for Maven — code intelligence, diagnostics, run/test/debug, no classpath setup.
-* [upyesp/epher.nvim](https://github.com/upyesp/epher.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
+* [upyesp/epher.nvim](https://github.com/upyesp/epher.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Calculator language with answers inline, LSP server glue, and syntax for `.epher` scripts.
 * [cuducos.me/yaml.nvim](https://tangled.org/cuducos.me/yaml.nvim) - Utils to work with YAML files.
 
 ### Golang
 
-* [ray-x/go.nvim](https://github.com/ray-x/go.nvim) ⭐ 2,666 | 🐛 98 | 🌐 Lua | 📅 2026-10-18 - Golang plugin based on LSP and Tree-sitter.
+* [ray-x/go.nvim](https://github.com/ray-x/go.nvim) ⭐ 2,665 | 🐛 98 | 🌐 Lua | 📅 2026-10-18 - Golang plugin based on LSP and Tree-sitter.
 * [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim/) ⭐ 434 | 🐛 5 | 🌐 Lua | 📅 2026-09-02 - Plugin for making Golang development easiest.
 * [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) ⭐ 173 | 🐛 5 | 🌐 Lua | 📅 2026-08-01 - Fuzzy search Go packages/symbols and view docs.
 * [crispgm/nvim-go](https://github.com/crispgm/nvim-go) ⭐ 155 | 🐛 3 | 🌐 Lua | 📅 2026-04-01 - A minimal implementation of Golang development plugin.
@@ -377,13 +377,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [Snikimonkd/cmp-go-pkgs](https://github.com/Snikimonkd/cmp-go-pkgs) ⭐ 31 | 🐛 3 | 🌐 Lua | 📅 2025-01-07 - Cmp source for Go packages names.
 * [yanskun/gotests.nvim](https://github.com/yanskun/gotests.nvim) ⭐ 29 | 🐛 1 | 🌐 Lua | 📅 2024-07-11 - Make Go tests easy with [gotests](https://github.com/cweill/gotests) ⭐ 5,336 | 🐛 40 | 🌐 Go | 📅 2025-10-30.
 * [romus204/go-tagger.nvim](https://github.com/romus204/go-tagger.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-02-15 - A lightweight plugin to manage struct field tags in Go files.
-* [sjclayton/goplexity.nvim](https://github.com/sjclayton/goplexity.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-04-09 - Time/space (Big-O) complexity analyzer for Golang.
+* [sjclayton/goplexity.nvim](https://github.com/sjclayton/goplexity.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-04-09 - Time/space (Big-O) complexity analyzer for Golang.
 * [Yu-Leo/gosigns.nvim](https://github.com/Yu-Leo/gosigns.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-03-08 - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 * [Yu-Leo/cmp-go-pkgs](https://github.com/Yu-Leo/cmp-go-pkgs) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2025-03-04 - Cmp source providing the names of Go packages to import.
 
 ### Web Development
 
-* [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) ⭐ 2,070 | 🐛 47 | 🌐 Lua | 📅 2025-12-27 - A fast HTTP client written in Lua.
+* [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) ⭐ 2,071 | 🐛 47 | 🌐 Lua | 📅 2025-12-27 - A fast HTTP client written in Lua.
 * [yelog/i18n.nvim](https://github.com/yelog/i18n.nvim) ⭐ 63 | 🐛 0 | 🌐 Lua | 📅 2026-09-10 - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 * [cjodo/convert.nvim](https://github.com/cjodo/convert.nvim) ⭐ 57 | 🐛 0 | 🌐 Lua | 📅 2026-01-16 - Helps with CSS unit conversions.
 * [lima1909/resty.nvim](https://github.com/lima1909/resty.nvim) ⭐ 54 | 🐛 2 | 🌐 Lua | 📅 2026-04-27 - Fast and easy-to-use HTTP-Rest-Client.
@@ -394,7 +394,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [abidibo/nvim-httpyac](https://github.com/abidibo/nvim-httpyac) ⭐ 21 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 - Provides integration with `httpYac`.
 * [rodrigoscc/nurl.nvim](https://github.com/rodrigoscc/nurl.nvim) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2026-10-04 - HTTP client with requests defined in pure Lua.
 * [BibekBhusal0/nvim-shadcn](https://github.com/BibekBhusal0/nvim-shadcn) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-02-14 - Easily add Shadcn UI components with telescope.
-* [ankushbhagats/liveserver.nvim](https://github.com/ankushbhagats/liveserver.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-04-11 - Live-server integration with smart commands and a clickable lualine toggle.
+* [ankushbhagats/liveserver.nvim](https://github.com/ankushbhagats/liveserver.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-04-11 - Live-server integration with smart commands and a clickable lualine toggle.
 * [farias-hecdin/CSSVarViewer](https://github.com/farias-hecdin/CSSVarViewer) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2024-10-01 - Easily visualize the content of your CSS variables in a virtual text.
 * [farias-hecdin/CSSVarHighlight](https://github.com/farias-hecdin/CSSVarHighlight) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2024-09-24 - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 * [harukikuri/viteenv.nvim](https://github.com/harukikuri/viteenv.nvim) ⚠️ Archived - Shows the effective value of `import.meta.env` variables inline per mode, resolved by your project's own `Vite`.
@@ -403,17 +403,17 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ### Markdown and LaTeX
 
-* [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) ⭐ 8,016 | 🐛 263 | 🌐 JavaScript | 📅 2024-07-23 - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
-* [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) ⭐ 5,176 | 🐛 17 | 🌐 Lua | 📅 2026-10-10 - Improve viewing Markdown files directly.
-* [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) ⭐ 3,665 | 🐛 7 | 🌐 Lua | 📅 2026-10-18 - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
+* [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) ⭐ 8,017 | 🐛 263 | 🌐 JavaScript | 📅 2024-07-23 - Preview Markdown on your modern browser with synchronised scrolling and flexible configuration.
+* [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) ⭐ 5,177 | 🐛 18 | 🌐 Lua | 📅 2026-10-10 - Improve viewing Markdown files directly.
+* [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) ⭐ 3,667 | 🐛 7 | 🌐 Lua | 📅 2026-10-18 - A hackable Markdown, Typst, LaTeX, HTML (inline) and YAML renderer.
 * [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ⭐ 877 | 🐛 40 | 🌐 TypeScript | 📅 2024-08-20 - Preview Markdown in a webview window.
 * [frabjous/knap](https://github.com/frabjous/knap) ⭐ 396 | 🐛 8 | 🌐 Lua | 📅 2024-10-22 - Plugin for creating automatic updating-as-you-type previews for Markdown, LaTeX and other documents.
 * [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ⭐ 325 | 🐛 6 | 🌐 CSS | 📅 2026-09-17 - A pandoc to vimdoc GitHub action.
-* [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) ⭐ 296 | 🐛 11 | 🌐 Lua | 📅 2026-10-19 - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
+* [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) ⭐ 296 | 🐛 9 | 🌐 Lua | 📅 2026-10-20 - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 * [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) ⭐ 258 | 🐛 2 | 🌐 Lua | 📅 2025-11-11 - Visualize your Markdown as mindmaps.
 * [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) ⭐ 251 | 🐛 9 | 🌐 Lua | 📅 2025-12-22 - Configurable tools for Markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 * [Thiago4532/mdmath.nvim](https://github.com/Thiago4532/mdmath.nvim) ⭐ 241 | 🐛 14 | 🌐 Lua | 📅 2024-12-27 - A Markdown equation previewer, using kitty Graphics Protocol.
-* [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ⭐ 230 | 🐛 4 | 🌐 Lua | 📅 2026-05-03 - Evaluate code blocks inside Markdown documents.
+* [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ⭐ 229 | 🐛 4 | 🌐 Lua | 📅 2026-05-03 - Evaluate code blocks inside Markdown documents.
 * [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) ⭐ 175 | 🐛 9 | 🌐 Lua | 📅 2026-02-24 - Press enter to follow internal Markdown links.
 * [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) ⭐ 148 | 🐛 3 | 🌐 Lua | 📅 2025-11-02 - Easily insert and edit Markdown tables with a live preview and useful helpers.
 * [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) ⭐ 136 | 🐛 17 | 🌐 Lua | 📅 2024-03-28 - Telescope extension to search and paste BibTeX entries into your TeX files.
@@ -426,7 +426,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) ⭐ 41 | 🐛 1 | 🌐 Nix | 📅 2025-08-31 - Easy pandoc conversion leveraging YAML blocks.
 * [kibi2/tirenvi.nvim](https://github.com/kibi2/tirenvi.nvim) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2026-10-14 - Edit Markdown and CSV tables with lossless round-trip.
 * [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ⭐ 36 | 🐛 0 | 🌐 Lua | 📅 2026-03-04 - Highlight Markdown codeblock using Tree-sitter.
-* [Prgebish/sigil.nvim](https://github.com/Prgebish/sigil.nvim) ⭐ 36 | 🐛 1 | 🌐 Lua | 📅 2026-04-28 - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
+* [Prgebish/sigil.nvim](https://github.com/Prgebish/sigil.nvim) ⭐ 35 | 🐛 1 | 🌐 Lua | 📅 2026-04-28 - Implementation of Emacs' `prettify-symbols-mode` to visually replace text patterns with Unicode symbols while editing LaTeX and Typst files.
 * [Nedra1998/nvim-mdlink](https://github.com/Nedra1998/nvim-mdlink) ⭐ 33 | 🐛 1 | 🌐 Lua | 📅 2024-12-24 - Simplify creating and following Markdown links.
 * [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2025-06-01 - Markdown evaluator Lua code blocks.
 * [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) ⭐ 28 | 🐛 0 | 🌐 Lua | 📅 2023-05-28 - Edit Markdown Tables using Tree-sitter.
@@ -449,13 +449,13 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Language
 
-* [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) ⭐ 333 | 🐛 12 | 🌐 Lua | 📅 2025-04-07 - Translate your text with an interactive translation window.
+* [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) ⭐ 332 | 🐛 10 | 🌐 Lua | 📅 2025-04-07 - Translate your text with an interactive translation window.
 * [kiyoon/Korean-IME.nvim](https://github.com/kiyoon/Korean-IME.nvim) ⭐ 41 | 🐛 1 | 🌐 Lua | 📅 2026-01-28 - OS-independent Korean input method that converts English inputs to Korean in-place.
 * [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2024-11-17 - Invoke any translation engine via shell command.
 * [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-10-11 - Translate code comments and strings using online as well as local LLMs or external translators.
 * [sontungexpt/vietnamese.nvim](https://github.com/sontungexpt/vietnamese.nvim) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-06-11 - A Vietnamese input method engine with native support to type Vietnamese in insert mode.
 * [Imngzx/jisho.nvim](https://github.com/Imngzx/jisho.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-10-18 - Japanese dictionary, powered by `jisho.org`.
-* [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Translate text using Google Translate with async support, float display, and multi-picker integration.
+* [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Translate text using Google Translate with async support, float display, and multi-picker integration.
 * [tanloong/interlaced.nvim](https://github.com/tanloong/interlaced.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-10-11 - Help align bilingual parallel texts.
 * [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2025-11-22 - Translates text using the DeepL API with multiple output modes (float, replace, append).
 * [doodleEsc/translator.nvim](https://github.com/doodleEsc/translator.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-09-01 - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
@@ -469,18 +469,18 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 ## Syntax
 
 * [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) ⭐ 14,474 | 🐛 267 | 🌐 Tree-sitter Query | 📅 2026-10-19 - Tree-sitter configurations and abstraction layer.
-* [nvim-mini/mini.nvim#mini.surround](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-surround.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, Tree-sitter integration, and more.
+* [nvim-mini/mini.nvim#mini.surround](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-surround.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for working with text surroundings (add, delete, replace, find, highlight). Supports dot-repeat, different search methods, "last"/"next" extended mappings, Tree-sitter integration, and more.
 * [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) ⭐ 4,315 | 🐛 11 | 🌐 Lua | 📅 2026-06-08 - A plugin for adding/changing/deleting surrounding delimiter pairs.
 * [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) ⭐ 2,821 | 🐛 130 | 🌐 Tree-sitter Query | 📅 2026-09-03 - Create your own textobjects using Tree-sitter queries.
-* [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) ⭐ 882 | 🐛 18 | 🌐 Tree-sitter Query | 📅 2026-10-17 - A lightweight Tree-sitter parser manager for Neovim 0.12+.
+* [romus204/tree-sitter-manager.nvim](https://github.com/romus204/tree-sitter-manager.nvim) ⭐ 881 | 🐛 18 | 🌐 Tree-sitter Query | 📅 2026-10-17 - A lightweight Tree-sitter parser manager for Neovim 0.12+.
 * [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ⭐ 571 | 🐛 6 | 🌐 Lua | 📅 2026-06-05 - Highlight arguments' definitions and usages, using Tree-sitter.
 * [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) ⭐ 570 | 🐛 7 | 🌐 Tree-sitter Query | 📅 2025-08-14 - Location and syntax aware text objects which *do what you mean*.
 * [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) ⭐ 170 | 🐛 0 | 🌐 Vim Script | 📅 2026-05-06 - Generic log syntax highlighting and log filetype management support.
 * [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) ⭐ 169 | 🐛 0 | 🌐 Lua | 📅 2026-10-10 - Original modules from nvim-treesitter master branch.
 * [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) ⭐ 160 | 🐛 4 | 🌐 Lua | 📅 2024-12-10 - Basic editor support for the nushell language.
 * [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ⭐ 99 | 🐛 16 | 🌐 Lua | 📅 2025-06-11 - Tree-sitter queries for Home Manager Nix files.
-* [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) ⭐ 70 | 🐛 0 | 🌐 Lua | 📅 2026-06-15 - Navigate via Tree-sitter nodes using Telescope or FZF.
-* [Sang-it/fluoride](https://github.com/Sang-it/fluoride) ⭐ 59 | 🐛 0 | 🌐 Lua | 📅 2026-04-03 - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
+* [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) ⭐ 71 | 🐛 0 | 🌐 Lua | 📅 2026-06-15 - Navigate via Tree-sitter nodes using Telescope or FZF.
+* [Sang-it/fluoride](https://github.com/Sang-it/fluoride) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2026-04-03 - A structural code editor. View, reorder, rename, and annotate code declarations from a floating window based on Tree-sitter.
 * [BibekBhusal0/tree-hierarchy.nvim](https://github.com/BibekBhusal0/tree-hierarchy.nvim) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-01-10 - Edit text and nevigate based on Tree-sitter.
 * [Hdoc1509/gh-actions.nvim](https://github.com/Hdoc1509/gh-actions.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2025-12-16 - Tree-sitter grammar and LSP query configuration for GitHub Actions.
 * [bird-chinese-community/BIRD.nvim](https://github.com/bird-chinese-community/BIRD.nvim) ⭐ 3 | 🐛 0 | 🌐 Vim Script | 📅 2026-09-28 - Syntax highlighting, automatic filetype detection, and filetype-specific editing support for BIRD 2 and BIRD 3 configuration files.
@@ -493,9 +493,9 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Snippet
 
-* [nvim-mini/mini.nvim#mini.snippets](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
-* [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) ⭐ 4,430 | 🐛 138 | 🌐 Lua | 📅 2026-05-19 - A snippet engine written in Lua.
-* [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ⭐ 2,781 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-11 - Set of preconfigured snippets for different languages.
+* [nvim-mini/mini.nvim#mini.snippets](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-snippets.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to manage and expand snippets. Supports LSP snippet syntax, flexible loaders, fuzzy prefix matching, interactive selection, snippet session with rich visualization, and more.
+* [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) ⭐ 4,432 | 🐛 138 | 🌐 Lua | 📅 2026-05-19 - A snippet engine written in Lua.
+* [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ⭐ 2,783 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-11 - Set of preconfigured snippets for different languages.
 * [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) ⭐ 582 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 - Automagical editing and creation of snippets.
 * [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) ⭐ 341 | 🐛 9 | 🌐 Lua | 📅 2026-06-26 - Snippet plugin written in Lua with support for [vim-snippets](https://github.com/honza/vim-snippets) ⭐ 4,883 | 🐛 83 | 🌐 Vim Snippet | 📅 2025-10-28.
 * [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ⭐ 194 | 🐛 1 | 🌐 Lua | 📅 2025-11-05 - Create beautiful code snippets from the terminal.
@@ -536,7 +536,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ⭐ 295 | 🐛 17 | 🌐 Lua | 📅 2026-07-10 - Your new bookmarks option: simple yet powerful.
 * [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) ⭐ 284 | 🐛 4 | 🌐 Lua | 📅 2025-02-04 - TrailBlazer introduces a stack based mark system that enables a completely new dynamic and super fast workflow using project wide marks.
 * [tomasky/bookmarks.nvim](https://github.com/tomasky/bookmarks.nvim) ⭐ 183 | 🐛 8 | 🌐 Lua | 📅 2026-09-23 - Bookmarks with global file storage, written in Lua.
-* [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) ⭐ 150 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - Create and manage bookmarks as stacks with a friendly UI.
+* [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) ⭐ 149 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - Create and manage bookmarks as stacks with a friendly UI.
 * [fnune/recall.nvim](https://github.com/fnune/recall.nvim) ⭐ 93 | 🐛 2 | 🌐 Lua | 📅 2026-04-24 - Recall refines the use of marks by focusing on global marks, streamlining their usage and enhancing their visibility and navigability.
 * [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) ⭐ 72 | 🐛 1 | 🌐 Lua | 📅 2026-09-07 - Open the current word with custom openers, GitHub shorthand for example.
 * [tristone13th/lspmark.nvim](https://github.com/tristone13th/lspmark.nvim) ⭐ 61 | 🐛 3 | 🌐 Lua | 📅 2026-06-08 - Sane project-wise bookmarks with persistent storage based on LSP.
@@ -561,7 +561,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Search
 
-* [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) ⭐ 2,409 | 🐛 15 | 🌐 Lua | 📅 2025-05-19 - Search and replace panel.
+* [nvim-pack/nvim-spectre](https://github.com/nvim-pack/nvim-spectre) ⭐ 2,410 | 🐛 15 | 🌐 Lua | 📅 2025-05-19 - Search and replace panel.
 * [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ⭐ 2,022 | 🐛 2 | 🌐 Lua | 📅 2026-10-16 - Buffer-based live search and replace with full power of `rg` flags. Grug like.
 * [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) ⭐ 926 | 🐛 11 | 🌐 Lua | 📅 2026-01-11 - Helps you better glance searched information, seamlessly jump matched instances.
 * [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim/) ⭐ 366 | 🐛 13 | 🌐 Lua | 📅 2025-02-09 - Multiple replacements through interactive UI.
@@ -569,7 +569,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [ray-x/sad.nvim](https://github.com/ray-x/sad.nvim) ⭐ 208 | 🐛 4 | 🌐 Lua | 📅 2025-05-01 - Space Age seD integration. Batch file edit tool, a wrapper for [sad](https://github.com/ms-jpq/sad) ⭐ 2,045 | 🐛 28 | 🌐 Rust | 📅 2026-05-11.
 * [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) ⭐ 189 | 🐛 7 | 🌐 Lua | 📅 2024-05-21 - Tabs for different Telescope pickers.
 * [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) ⭐ 149 | 🐛 1 | 🌐 Lua | 📅 2026-06-22 - Frequency and recency sorter for any Telescope picker.
-* [2KAbhishek/seeker.nvim](https://github.com/2KAbhishek/seeker.nvim) ⭐ 137 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 - Progressive file seeker built on top of `snacks.nvim`.
+* [2KAbhishek/seeker.nvim](https://github.com/2KAbhishek/seeker.nvim) ⭐ 136 | 🐛 0 | 🌐 Lua | 📅 2026-08-25 - Progressive file seeker built on top of `snacks.nvim`.
 * [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) ⭐ 107 | 🐛 1 | 🌐 Lua | 📅 2025-08-11 - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 * [rktjmp/highlight-current-n.nvim](https://github.com/rktjmp/highlight-current-n.nvim) ⭐ 90 | 🐛 0 | 🌐 Fennel | 📅 2023-06-26 - Highlights the current /, ? or \* match under your cursor when pressing n or N and gets out of the way afterwards.
 * [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) ⭐ 83 | 🐛 0 | 🌐 Lua | 📅 2024-01-10 - Auto remove search highlight and rehighlight when using n or N.
@@ -579,7 +579,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) ⭐ 61 | 🐛 0 | 🌐 Lua | 📅 2023-12-21 - Add search abilities.
 * [ankushbhagats/match.nvim](https://github.com/ankushbhagats/match.nvim) ⭐ 59 | 🐛 2 | 🌐 Lua | 📅 2026-05-06 - Minimal floating search-and-replace with live match tracking, navigation, and quick replacements.
 * [duane9/nvim-rg](https://github.com/duane9/nvim-rg) ⭐ 46 | 🐛 0 | 🌐 Vim Script | 📅 2026-08-28 - Run RipGrep asynchronously and see results in a quickfix window.
-* [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) ⭐ 44 | 🐛 2 | 🌐 Lua | 📅 2026-06-16 - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
+* [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) ⭐ 43 | 🐛 2 | 🌐 Lua | 📅 2026-06-16 - Analyze logs by defining regex patterns to highlight and/or isolate matching lines.
 * [wsdjeg/flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) ⭐ 19 | 🐛 1 | 🌐 Lua | 📅 2026-07-21 - Search text in a floating window asynchronously.
 * [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Responsive, shell-safe ripgrep search for the quickfix list, with native n/N navigation.
 * [mahyarmirrashed/search-and-replace.nvim](https://github.com/mahyarmirrashed/search-and-replace.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-07-04 - Simple, effective, search and replace functionality for the pragmatic engineer.
@@ -592,22 +592,22 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Fuzzy Finder
 
-* [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,827 | 🐛 463 | 🌐 Lua | 📅 2026-10-12 - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) ⭐ 19,827 | 🐛 463 | 🌐 Lua | 📅 2026-10-12 A highly extensible fuzzy finder over lists.
-* [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) ⭐ 11,150 | 🐛 81 | 🌐 Rust | 📅 2026-10-19 - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
-* [nvim-mini/mini.nvim#mini.fuzzy](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
-* [nvim-mini/mini.nvim#mini.pick](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
-* [nvim-mini/mini.nvim#mini.extra](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
-* [folke/snacks.nvim#picker](https://github.com/folke/snacks.nvim/blob/main/docs/picker.md) ⭐ 8,153 | 🐛 140 | 🌐 Lua | 📅 2026-05-25 - A modern fuzzy-finder to navigate your editor.
-* [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) ⭐ 4,470 | 🐛 10 | 🌐 Lua | 📅 2026-10-19 - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) ⭐ 6,998 | 🐛 9 | 🌐 Rust | 📅 2026-10-19 as its fzf binary.
+* [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,828 | 🐛 464 | 🌐 Lua | 📅 2026-10-19 - Telescope.nvim is a highly [extendable](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) ⭐ 19,828 | 🐛 464 | 🌐 Lua | 📅 2026-10-19 A highly extensible fuzzy finder over lists.
+* [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) ⭐ 11,155 | 🐛 81 | 🌐 Rust | 📅 2026-10-20 - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
+* [nvim-mini/mini.nvim#mini.fuzzy](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
+* [nvim-mini/mini.nvim#mini.pick](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pick.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
+* [nvim-mini/mini.nvim#mini.extra](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-extra.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
+* [folke/snacks.nvim#picker](https://github.com/folke/snacks.nvim/blob/main/docs/picker.md) ⭐ 8,155 | 🐛 140 | 🌐 Lua | 📅 2026-05-25 - A modern fuzzy-finder to navigate your editor.
+* [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) ⭐ 4,470 | 🐛 8 | 🌐 Lua | 📅 2026-10-20 - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) ⭐ 6,999 | 🐛 8 | 🌐 Rust | 📅 2026-10-20 as its fzf binary.
 * [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) ⭐ 520 | 🐛 36 | 🌐 Lua | 📅 2024-03-30 - Preview images, pdf, epub, video, and fonts using Telescope.
 * [camspiers/snap](https://github.com/camspiers/snap) ⭐ 508 | 🐛 28 | 🌐 Fennel | 📅 2026-04-09 - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 * [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) ⭐ 434 | 🐛 7 | 🌐 Lua | 📅 2026-10-04 - Flexible and sleek fuzzy picker, LSP symbol navigator, and more.
 * [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) ⭐ 410 | 🐛 4 | 🌐 Lua | 📅 2026-08-06 - Easypick lets you easily create Telescope pickers from arbitrary console commands.
-* [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) ⭐ 370 | 🐛 8 | 🌐 Lua | 📅 2024-08-28 - Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,202 | 🐛 160 | 🌐 Rust | 📅 2026-10-18, a smart directory picker that tracks your usage.
+* [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) ⭐ 370 | 🐛 8 | 🌐 Lua | 📅 2024-08-28 - Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,216 | 🐛 161 | 🌐 Rust | 📅 2026-10-18, a smart directory picker that tracks your usage.
 * [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) ⭐ 349 | 🐛 3 | 🌐 Lua | 📅 2024-10-21 - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 * [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) ⭐ 145 | 🐛 11 | 🌐 Lua | 📅 2025-12-21 - Telescope plugin for better `rg` flags in `live_grep`.
 * [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) ⭐ 140 | 🐛 5 | 🌐 Lua | 📅 2026-03-31 - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
-* [dtormoen/neural-open.nvim](https://github.com/dtormoen/neural-open.nvim) ⭐ 70 | 🐛 4 | 🌐 Lua | 📅 2026-06-24 - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
+* [dtormoen/neural-open.nvim](https://github.com/dtormoen/neural-open.nvim) ⭐ 69 | 🐛 4 | 🌐 Lua | 📅 2026-06-24 - Intelligent `snacks.nvim` picker that teaches a neural network to rank files by what you're most likely to open next.
 * [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) ⭐ 59 | 🐛 2 | 🌐 Lua | 📅 2026-10-01 - A minimalist picker that doesn't get in your way.
 * [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) ⭐ 48 | 🐛 0 | 🌐 Lua | 📅 2026-10-05 - A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers.
 * [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) ⭐ 44 | 🐛 1 | 🌐 Lua | 📅 2026-07-24 - Simple fuzzy finder, including files, ctags outline, and more.
@@ -620,22 +620,22 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## File Explorer
 
-* [nvim-mini/mini.nvim#mini.files](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-files.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
-* [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ⭐ 8,664 | 🐛 110 | 🌐 Lua | 📅 2026-10-19 - A simple and fast file explorer tree.
-* [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) ⭐ 6,956 | 🐛 163 | 🌐 Lua | 📅 2026-10-12 - Edit your filesystem like a buffer.
-* [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) ⭐ 5,633 | 🐛 175 | 🌐 Lua | 📅 2026-10-17 - Browse the file system and other tree-like structures in whatever style suits you, including sidebars, floating windows, `netrw` split style, or all of them at once.
-* [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) ⭐ 1,889 | 🐛 5 | 🌐 Lua | 📅 2026-10-19 - Integration with the Yazi terminal file manager.
-* [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ⭐ 1,688 | 🐛 93 | 🌐 Python | 📅 2026-10-19 - File manager. Better than NERDTree.
+* [nvim-mini/mini.nvim#mini.files](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-files.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
+* [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) ⭐ 8,666 | 🐛 109 | 🌐 Lua | 📅 2026-10-19 - A simple and fast file explorer tree.
+* [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) ⭐ 6,957 | 🐛 163 | 🌐 Lua | 📅 2026-10-12 - Edit your filesystem like a buffer.
+* [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) ⭐ 5,634 | 🐛 175 | 🌐 Lua | 📅 2026-10-17 - Browse the file system and other tree-like structures in whatever style suits you, including sidebars, floating windows, `netrw` split style, or all of them at once.
+* [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) ⭐ 1,889 | 🐛 5 | 🌐 Lua | 📅 2026-10-20 - Integration with the Yazi terminal file manager.
+* [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ⭐ 1,688 | 🐛 93 | 🌐 Python | 📅 2026-10-20 - File manager. Better than NERDTree.
 * [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) ⭐ 849 | 🐛 10 | 🌐 Python | 📅 2026-01-11 - A simple yet amazing file explorer.
-* [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) ⭐ 772 | 🐛 26 | 🌐 Lua | 📅 2026-09-23 - File manager which can edit file system like a buffer with tree view.
-* [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ⭐ 463 | 🐛 1 | 🌐 Lua | 📅 2025-04-18 - File explorer powered by [nnn](https://github.com/jarun/nnn) ⭐ 22,085 | 🐛 8 | 🌐 C | 📅 2026-10-07 and Lua.
+* [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) ⭐ 771 | 🐛 26 | 🌐 Lua | 📅 2026-09-23 - File manager which can edit file system like a buffer with tree view.
+* [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ⭐ 463 | 🐛 1 | 🌐 Lua | 📅 2025-04-18 - File explorer powered by [nnn](https://github.com/jarun/nnn) ⭐ 22,087 | 🐛 8 | 🌐 C | 📅 2026-10-07 and Lua.
 * [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) ⭐ 380 | 🐛 10 | 🌐 Lua | 📅 2026-03-29 - Simple file explorer.
 * [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ⭐ 276 | 🐛 4 | 🌐 Lua | 📅 2026-05-05 - Add icons and custom keybindings to netrw.
 * [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) ⭐ 258 | 🐛 2 | 🌐 Lua | 📅 2026-04-14 - A directory browser inspired by Ranger.
 * [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ⭐ 210 | 🐛 4 | 🌐 Lua | 📅 2026-03-05 - A file browser inspired by Emacs Dired.
 * [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) ⭐ 186 | 🐛 1 | 🌐 Lua | 📅 2026-09-11 - The simple directory tree viewer written in Lua.
-* [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) ⭐ 182 | 🐛 11 | 🌐 Lua | 📅 2024-11-18 - [Ranger](https://github.com/ranger/ranger) ⭐ 17,427 | 🐛 900 | 🌐 Python | 📅 2026-09-09 integration.
-* [rolv-apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ⭐ 102 | 🐛 0 | 🌐 Lua | 📅 2026-01-18 - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi](https://github.com/sxyazi/yazi) ⭐ 42,929 | 🐛 67 | 🌐 Rust | 📅 2026-10-18).
+* [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) ⭐ 182 | 🐛 11 | 🌐 Lua | 📅 2024-11-18 - [Ranger](https://github.com/ranger/ranger) ⭐ 17,434 | 🐛 900 | 🌐 Python | 📅 2026-09-09 integration.
+* [rolv-apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ⭐ 102 | 🐛 0 | 🌐 Lua | 📅 2026-01-18 - Similar to `fm-nvim`, this provides integration for several popular terminal file managers (including [yazi](https://github.com/sxyazi/yazi) ⭐ 42,943 | 🐛 67 | 🌐 Rust | 📅 2026-10-20).
 * [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) ⭐ 99 | 🐛 5 | 🌐 Lua | 📅 2026-01-15 - Yet Another Nerdtree In Lua.
 * [theblob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) ⭐ 95 | 🐛 1 | 🌐 Lua | 📅 2025-05-09 - A simple and configurable file explorer written in Lua.
 * [ingur/fzf-oil.nvim](https://github.com/ingur/fzf-oil.nvim) ⭐ 73 | 🐛 1 | 🌐 Lua | 📅 2026-07-17 - A tiny file browser with seamless toggling between fzf-lua and oil.nvim.
@@ -654,11 +654,11 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Project
 
-* [nvim-mini/mini.nvim#mini.visits](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-visits.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
+* [nvim-mini/mini.nvim#mini.visits](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-visits.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to persistently track and reuse file system visits. Allows listing "recent"/"frequent"/"frecent" visits, adding/removing labels to visits and other data.
 * [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) ⭐ 370 | 🐛 8 | 🌐 Lua | 📅 2024-10-08 - Manage workspace directories.
 * [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) ⭐ 244 | 🐛 8 | 🌐 Lua | 📅 2024-02-05 - Tiny project + session manager.
 * [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) ⭐ 239 | 🐛 15 | 🌐 Lua | 📅 2026-05-25 - Telescope picker to jump to any repository (Git or other) on the file system.
-* [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) ⭐ 200 | 🐛 2 | 🌐 Lua | 📅 2026-10-18 - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
+* [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) ⭐ 200 | 🐛 2 | 🌐 Lua | 📅 2026-10-20 - Project manager with project root detection, documented code and lots of improvements, including `snacks.nvim`, `fzf-lua` and `picker.nvim` support.
 * [klen/nvim-config-local](https://github.com/klen/nvim-config-local) ⭐ 180 | 🐛 5 | 🌐 Lua | 📅 2025-01-21 - Secure load local config files from working directories.
 * [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ⭐ 133 | 🐛 6 | 🌐 Lua | 📅 2026-09-04 - All you need is just an easier way to `cd` to another project directory.
 * [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) ⭐ 112 | 🐛 5 | 🌐 Lua | 📅 2024-07-28 - Load specific configs depending on the project directory.
@@ -701,7 +701,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 * [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2026-01-08 - Unlist hidden buffers matching specified ignore sources.
 * [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) ⭐ 15 | 🐛 1 | 🌐 Lua | 📅 2026-07-16 - Delete buffers without changing windows layout.
 * [ChuufMaster/buffer-vacuum](https://github.com/ChuufMaster/buffer-vacuum) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2025-08-18 - Set a maximum number of buffers to keep open and intelligently delete the oldest buffers over the maximum.
-* [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
+* [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 - Pin files to specific keys within a project workspace, giving you quick access to your most important files.
 * [akasataikisiti/tabLocalBuffer.nvim](https://github.com/akasataikisiti/tabLocalBuffer.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-05-16 - Keeps a per-tab buffer list and provides its own bnext / bprevious style navigation that cycles only within the current tab.
 * [mong8se/buffish.nvim](https://github.com/mong8se/buffish.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A buffer switcher in the spirit of dirvish or vinegar.
 * [BibekBhusal0/bufstack.nvim](https://github.com/BibekBhusal0/bufstack.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-06-26 - Track recently visited buffers and reopen recently closed buffers.
@@ -715,11 +715,11 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 
 ## Color
 
-* [nvim-mini/mini.nvim#mini.hipatterns](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
+* [nvim-mini/mini.nvim#mini.hipatterns](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 * [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ⭐ 1,547 | 🐛 3 | 🌐 Lua | 📅 2025-10-28 - Dim inactive portions of the code you're editing using Tree-sitter.
 * [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua) ⭐ 1,127 | 🐛 6 | 🌐 Lua | 📅 2026-07-14 - A high-performance color highlighter which has no external dependencies.
 * [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) ⭐ 989 | 🐛 14 | 🌐 Lua | 📅 2025-05-06 - Super powerful color picker / colorizer plugin.
-* [TaDaa/vimade](https://github.com/TaDaa/vimade) ⭐ 677 | 🐛 9 | 🌐 Lua | 📅 2026-09-29 - Dim, fade, tint, animate, and customize colors in your windows and buffers.
+* [TaDaa/vimade](https://github.com/TaDaa/vimade) ⭐ 677 | 🐛 8 | 🌐 Lua | 📅 2026-09-29 - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 * [nvzone/minty](https://github.com/nvzone/minty) ⭐ 607 | 🐛 2 | 🌐 Lua | 📅 2025-02-28 - Beautifully crafted color tools.
 * [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) ⭐ 498 | 🐛 9 | 🌐 Lua | 📅 2026-06-30 - Colorize your auto completion menu using Tree-sitter.
 * [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ⭐ 431 | 🐛 8 | 🌐 Lua | 📅 2025-01-10 - Provides utils to work with colors (picker, conversion).
@@ -756,38 +756,38 @@ then it is not supported:
 
 <!--lint enable awesome-list-item-->
 
-* [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) ⭐ 8,224 | 🐛 20 | 🌐 Lua | 📅 2026-03-24 - ***`[TS][LSP][L/D][Lua]`*** A clean, dark and light theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+* [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) ⭐ 8,225 | 🐛 20 | 🌐 Lua | 📅 2026-03-24 - ***`[TS][LSP][L/D][Lua]`*** A clean, dark and light theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
 * [sainnhe/everforest](https://github.com/sainnhe/everforest) ⭐ 4,255 | 🐛 6 | 🌐 Vim Script | 📅 2026-06-08 - ***`[TS][LSP][L/D]`*** A green based colorscheme designed to be warm, soft and easy on the eyes.
 * [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) ⭐ 2,656 | 🐛 9 | 🌐 Vim Script | 📅 2026-04-15 - ***`[TS][LSP]`*** Gruvbox modification with softer contrast and Tree-sitter support.
 * [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) ⭐ 2,473 | 🐛 29 | 🌐 Lua | 📅 2024-12-31 - ***`[TS][LSP][L/D][Lua]`*** A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-* [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) ⭐ 2,009 | 🐛 55 | 🌐 Lua | 📅 2026-04-13 - ***`[TS][LSP][Lua]`*** A One Dark Theme written in Lua based on Atom's One Dark Theme.
+* [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) ⭐ 2,008 | 🐛 55 | 🌐 Lua | 📅 2026-04-13 - ***`[TS][LSP][Lua]`*** A One Dark Theme written in Lua based on Atom's One Dark Theme.
 * [sainnhe/sonokai](https://github.com/sainnhe/sonokai) ⭐ 1,951 | 🐛 1 | 🌐 Vim Script | 📅 2026-01-21 - ***`[TS][LSP]`*** High Contrast and Vivid Color Scheme based on Monokai Pro.
-* [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) ⭐ 1,646 | 🐛 22 | 🌐 Fennel | 📅 2026-09-07 - ***`[TS][LSP][L/D][Lua]`*** A dark and light theme written in Fennel, inspired by IBM Carbon.
+* [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) ⭐ 1,645 | 🐛 22 | 🌐 Fennel | 📅 2026-09-07 - ***`[TS][LSP][L/D][Lua]`*** A dark and light theme written in Fennel, inspired by IBM Carbon.
 * [dracula/vim](https://github.com/dracula/vim) ⭐ 1,395 | 🐛 9 | 🌐 Vim Script | 📅 2026-08-09 - ***`[TS][LSP]`*** Famous beautiful dark powered theme.
 * [bluz71/vim-moonfly-colors](https://github.com/bluz71/vim-moonfly-colors) ⭐ 1,344 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - ***`[TS][LSP][Lua]`*** A dark charcoal colorscheme with Tree-sitter support.
 * [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) ⭐ 1,175 | 🐛 10 | 🌐 Vim Script | 📅 2025-10-10 - ***`[TS][L/D]`*** Oceanic Next theme.
-* [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim) ⭐ 1,093 | 🐛 6 | 🌐 Lua | 📅 2026-02-23 - ***`[TS][LSP][L/D][Lua]`*** Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
-* [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) ⭐ 1,073 | 🐛 5 | 🌐 Lua | 📅 2026-05-03 - ***`[TS][Lua]`*** Nord theme, but warmer and darker. Supports a variety of plugins and other platforms.
-* [sainnhe/edge](https://github.com/sainnhe/edge) ⭐ 1,047 | 🐛 2 | 🌐 Vim Script | 📅 2026-01-21 - ***`[TS][LSP][L/D]`*** Clean and Elegant Color Scheme inspired by Atom One and Material.
-* [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) ⭐ 1,022 | 🐛 33 | 🌐 Lua | 📅 2024-06-25 - ***`[TS][Lua]`*** A colorscheme based off of the Nord Color Palette.
+* [marko-cerovac/material.nvim](https://github.com/marko-cerovac/material.nvim) ⭐ 1,094 | 🐛 6 | 🌐 Lua | 📅 2026-02-23 - ***`[TS][LSP][L/D][Lua]`*** Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+* [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) ⭐ 1,072 | 🐛 5 | 🌐 Lua | 📅 2026-05-03 - ***`[TS][Lua]`*** Nord theme, but warmer and darker. Supports a variety of plugins and other platforms.
+* [sainnhe/edge](https://github.com/sainnhe/edge) ⭐ 1,046 | 🐛 2 | 🌐 Vim Script | 📅 2026-01-21 - ***`[TS][LSP][L/D]`*** Clean and Elegant Color Scheme inspired by Atom One and Material.
+* [shaunsingh/nord.nvim](https://github.com/shaunsingh/nord.nvim) ⭐ 1,021 | 🐛 33 | 🌐 Lua | 📅 2024-06-25 - ***`[TS][Lua]`*** A colorscheme based off of the Nord Color Palette.
 * [tomasiser/vim-code-dark](https://github.com/tomasiser/vim-code-dark) ⭐ 1,003 | 🐛 15 | 🌐 Vim Script | 📅 2024-05-21 - ***`[TS]`*** A dark color scheme heavily inspired by the look of the Dark+ scheme of VSCode.
-* [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) ⭐ 1,002 | 🐛 53 | 🌐 Lua | 📅 2026-09-03 - ***`[TS][L/D][Lua]`*** A Lua port of vim-code-dark colorscheme with VSCode light and dark theme.
+* [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) ⭐ 1,003 | 🐛 53 | 🌐 Lua | 📅 2026-09-03 - ***`[TS][L/D][Lua]`*** A Lua port of vim-code-dark colorscheme with VSCode light and dark theme.
 * [savq/melange-nvim](https://github.com/savq/melange-nvim) ⭐ 984 | 🐛 12 | 🌐 Lua | 📅 2025-12-10 - ***`[TS][LSP][L/D][Lua]`*** Warm colorscheme written in Lua with support for various terminal emulators.
 * [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) ⭐ 942 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - ***`[TS][LSP][Lua]`*** A dark midnight colorscheme with Tree-sitter support.
 * [fenetikm/falcon](https://github.com/fenetikm/falcon) ⭐ 851 | 🐛 12 | 🌐 Vim Script | 📅 2026-07-02 - ***`[TS][Lua]`*** A colour scheme for terminals, Vim and friends.
-* [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) ⭐ 787 | 🐛 25 | 🌐 Lua | 📅 2025-11-05 - ***`[TS]`*** Dracula colorscheme written in Lua.
+* [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) ⭐ 788 | 🐛 25 | 🌐 Lua | 📅 2025-11-05 - ***`[TS]`*** Dracula colorscheme written in Lua.
 * [everviolet/nvim](https://github.com/everviolet/nvim) ⭐ 682 | 🐛 0 | 🌐 Lua | 📅 2026-09-01 - ***`[TS][LSP][L/D][Lua]`*** A comfy colorscheme for cozy morning coding.
 * [neanias/everforest-nvim](https://github.com/neanias/everforest-nvim) ⭐ 466 | 🐛 8 | 🌐 Lua | 📅 2026-07-27 - ***`[TS][LSP][L/D][Lua]`*** A Lua port of the Everforest colour scheme.
 * [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) ⭐ 388 | 🐛 14 | 🌐 Lua | 📅 2026-10-11 - ***`[TS][LSP][Lua]`*** Monokai theme written in Lua.
 * [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) ⭐ 376 | 🐛 3 | 🌐 Lua | 📅 2022-12-31 - ***`[TS][Lua]`*** A dark colorscheme with Tree-sitter support.
 * [ray-x/aurora](https://github.com/ray-x/aurora) ⭐ 376 | 🐛 1 | 🌐 Lua | 📅 2026-05-09 - ***`[TS][LSP][Lua]`*** A 24-bit dark theme with Tree-sitter and LSP support.
 * [oskarnurm/koda.nvim](https://github.com/oskarnurm/koda.nvim) ⭐ 367 | 🐛 4 | 🌐 Lua | 📅 2026-08-17 - ***`[TS][LSP][L/D][Lua]`*** Code's quiet companion. A minimalist colorscheme, written in Lua.
-* [ThorstenRhau/token](https://github.com/ThorstenRhau/token) ⭐ 311 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-12 - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
+* [ThorstenRhau/token](https://github.com/ThorstenRhau/token) ⭐ 310 | 🐛 0 | 🌐 Emacs Lisp | 📅 2026-10-12 - ***`[TS][LSP][L/D][Lua]`*** Token has warm tones and careful contrast, with full Tree-sitter and LSP integration.
 * [ChristianChiarulli/nvcode-color-schemes.vim](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) ⭐ 304 | 🐛 21 | 🌐 Vim script | 📅 2024-07-08 - ***`[TS]`*** Nvcode, onedark, nord colorschemes with Tree-sitter support.
 * [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) ⭐ 293 | 🐛 3 | 🌐 Lua | 📅 2026-07-06 - ***`[TS][Lua]`*** A colorscheme with handcrafted support for LSP, Tree-sitter.
 * [datsfilipe/vesper.nvim](https://github.com/datsfilipe/vesper.nvim) ⭐ 254 | 🐛 1 | 🌐 Lua | 📅 2025-04-21 - ***`[TS][LSP][Lua]`*** It's a port of the popular VS Code theme Vesper, written in Lua.
-* [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) ⭐ 249 | 🐛 10 | 🌐 Lua | 📅 2026-09-28 - ***`[TS][L/D][Lua]`*** Lua port of doom-emacs' doom-one.
 * [ray-x/starry.nvim](https://github.com/ray-x/starry.nvim) ⭐ 248 | 🐛 3 | 🌐 Lua | 📅 2026-04-09 - ***`[TS][LSP][L/D][Lua]`*** A collection of modern colorschemes: `material`, `moonlight`, `dracula (blood)`, `monokai`, `mariana`, `emerald`, `earlysummer`, `middlenight_blue`, `darksolar`.
+* [NTBBloodbath/doom-one.nvim](https://github.com/NTBBloodbath/doom-one.nvim) ⭐ 248 | 🐛 10 | 🌐 Lua | 📅 2026-09-28 - ***`[TS][L/D][Lua]`*** Lua port of doom-emacs' doom-one.
 * [askfiy/visual\_studio\_code](https://github.com/askfiy/visual_studio_code) ⭐ 212 | 🐛 4 | 🌐 Lua | 📅 2024-09-24 - ***`[TS][LSP][L/D][Lua]`***  A theme that highly restores VSCode.
 * [ishan9299/nvim-solarized-lua](https://github.com/ishan9299/nvim-solarized-lua) ⭐ 210 | 🐛 16 | 🌐 Lua | 📅 2024-03-04 - ***`[TS][Lua]`*** Solarized colorscheme written in Lua.
 * [rafamadriz/neon](https://github.com/rafamadriz/neon) ⭐ 209 | 🐛 2 | 🌐 Lua | 📅 2022-11-27 - ***`[TS][LSP][L/D][Lua]`*** Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
@@ -796,8 +796,8 @@ then it is not supported:
 * [ishan9299/modus-theme-vim](https://github.com/ishan9299/modus-theme-vim) ⭐ 178 | 🐛 4 | 🌐 Lua | 📅 2022-10-09 - ***`[TS][L/D][Lua]`*** This is a color scheme developed by Protesilaos Stavrou for emacs.
 * [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) ⭐ 174 | 🐛 4 | 🌐 Lua | 📅 2024-06-16 - ***`[TS][Lua]`*** A nord-esque colorscheme.
 * [svrana/neosolarized.nvim](https://github.com/svrana/neosolarized.nvim) ⭐ 165 | 🐛 6 | 🌐 Lua | 📅 2025-06-12 - ***`[TS][LSP][Lua]`*** Dark solarized colorscheme using colorbuddy for easy customization.
-* [serhez/teide.nvim](https://github.com/serhez/teide.nvim) ⭐ 163 | 🐛 2 | 🌐 Lua | 📅 2026-01-12 - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
-* [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) ⭐ 160 | 🐛 1 | 🌐 CSS | 📅 2026-09-25 - ***`[TS][LSP][L/D][Lua]`*** Desert theme ported from Vim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
+* [serhez/teide.nvim](https://github.com/serhez/teide.nvim) ⭐ 162 | 🐛 2 | 🌐 Lua | 📅 2026-01-12 - ***`[TS][LSP][L/D][Lua]`*** A fork of folke's `tokyonight.nvim` with a different color palette.
+* [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) ⭐ 159 | 🐛 1 | 🌐 CSS | 📅 2026-09-25 - ***`[TS][LSP][L/D][Lua]`*** Desert theme ported from Vim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
 * [niyabits/calvera-dark.nvim](https://github.com/niyabits/calvera-dark.nvim) ⭐ 159 | 🐛 4 | 🌐 Lua | 📅 2021-12-23 - ***`[TS][Lua]`*** A port of the [VSCode Calvara Dark](https://github.com/saurabhdaware/vscode-calvera-dark) ⭐ 12 | 🐛 1 | 🌐 HTML | 📅 2024-08-17 theme with support for Tree-sitter and many other plugins.
 * [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) ⭐ 139 | 🐛 14 | 🌐 Lua | 📅 2026-10-19 - ***`[TS][LSP][Lua]`*** Monokai theme that aims to feel like Sublime Text.
 * [Abstract-IDE/Abstract-cs](https://github.com/Abstract-IDE/Abstract-cs) ⭐ 123 | 🐛 2 | 🌐 Lua | 📅 2025-10-27 - ***`[TS][LSP][Lua]`*** Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
@@ -812,14 +812,14 @@ then it is not supported:
 * [silentium-theme/silentium.nvim](https://github.com/silentium-theme/silentium.nvim) ⭐ 38 | 🐛 0 | 🌐 Lua | 📅 2026-09-24 - ***`[TS][Luа]`*** Pragmatic and monochrome theme with the goal to increase reading speed and reduce eye strain by highlighting only what is needed.
 * [rezniqov/soviet.nvim](https://github.com/rezniqov/soviet.nvim) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-09-17 - ***`[TS][LSP][L/D][Lua]`*** Warm colorschemes inspired by soviet visual culture.
 * [yonatan-perel/lake-dweller.nvim](https://github.com/yonatan-perel/lake-dweller.nvim) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-05-18 - ***`[TS][LSP][Lua]`*** Dark and opinionated with selective highlighting aiming to be readable at a glance.
-* [github-main-user/lytmode.nvim](https://github.com/github-main-user/lytmode.nvim) ⭐ 34 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - ***`[TS][LSP][Lua]`*** A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
+* [github-main-user/lytmode.nvim](https://github.com/github-main-user/lytmode.nvim) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - ***`[TS][LSP][Lua]`*** A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 * [wurli/cobalt.nvim](https://github.com/wurli/cobalt.nvim) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2026-08-10 - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
 * [jim-at-jibba/ariake.nvim](https://github.com/jim-at-jibba/ariake.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2025-11-11 - ***`[TS][LSP][Lua]`*** A port of the great Atom theme. Beautiful, dark colour scheme.
 * [kuri-sun/yoda.nvim](https://github.com/kuri-sun/yoda.nvim) ⚠️ Archived - ***`[TS][L/D][Lua]`*** Muted green palette for focused, balanced editing.
 * [daaanny90/claude-desktop.nvim](https://github.com/daaanny90/claude-desktop.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-04 - ***`[TS][LSP][Lua]`*** Warm dark colorscheme matching the Claude Desktop app, with tmux and iTerm2 extras.
 * [daaanny90/interlinked.nvim](https://github.com/daaanny90/interlinked.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-06 - ***`[TS][LSP][Lua]`*** Melancholic Blade Runner 2049 colorscheme with ambient neon-flicker effects and a baseline-test session report.
 * [daaanny90/zed.nvim](https://github.com/daaanny90/zed.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-09-30 - ***`[TS][LSP][Lua]`*** Zed editor look with six dark variants, plus tmux and iTerm2 extras.
-* [zacesshq/zacess.nvim](https://github.com/zacesshq/zacess.nvim) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
+* [zacesshq/zacess.nvim](https://github.com/zacesshq/zacess.nvim) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - ***`[TS][LSP][L/D][Lua]`*** High contrast, yellow on black and cream color schemes with every text and syntax colour at 7:1 contrast or more.
 * [jthvai/lavender.nvim](https://codeberg.org/jthvai/lavender.nvim) - ***`[TS][LSP][Lua]`*** Purple-hued dark mode colorscheme; a complete rewrite of shaunsingh/moonlight.nvim.
 
 <!--lint disable awesome-spell-check-->
@@ -828,29 +828,29 @@ then it is not supported:
 
 <!--lint enable awesome-spell-check-->
 
-* [nvim-mini/mini.nvim#colorschemes](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - ***`[TS][LSP][L/D][Lua]`*** Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
-* [catppuccin/nvim](https://github.com/catppuccin/nvim) ⭐ 7,650 | 🐛 12 | 🌐 Lua | 📅 2026-10-16 - ***`[TS][LSP][L/D][Lua]`*** Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
-* [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) ⭐ 6,431 | 🐛 91 | 🌐 Lua | 📅 2026-05-10 - ***`[TS][LSP][L/D][Lua]`*** A dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+* [nvim-mini/mini.nvim#colorschemes](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - ***`[TS][LSP][L/D][Lua]`*** Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+* [catppuccin/nvim](https://github.com/catppuccin/nvim) ⭐ 7,651 | 🐛 12 | 🌐 Lua | 📅 2026-10-16 - ***`[TS][LSP][L/D][Lua]`*** Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
+* [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) ⭐ 6,430 | 🐛 91 | 🌐 Lua | 📅 2026-05-10 - ***`[TS][LSP][L/D][Lua]`*** A dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 * [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) ⭐ 4,092 | 🐛 37 | 🌐 Lua | 📅 2026-07-04 - ***`[TS][LSP][L/D][Lua]`*** A soft dark, fully customizable colorscheme with support for LSP, Tree-sitter and a variety of plugins.
 * [ellisonleao/gruvbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) ⭐ 2,623 | 🐛 30 | 🌐 Lua | 📅 2026-04-15 - ***`[TS][LSP][L/D][Lua]`*** Gruvbox community colorscheme Lua port.
-* [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) ⭐ 1,419 | 🐛 2 | 🌐 Lua | 📅 2026-10-05 - ***`[TS][L/D][Lua]`*** A high-contrast, futuristic and vibrant coloursheme.
-* [zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim) ⭐ 1,154 | 🐛 21 | 🌐 Vim Script | 📅 2026-06-26 - ***`[TS][LSP][L/D][Lua]`*** A collection of colorschemes designed to highlight code using contrasts and font variations.
+* [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) ⭐ 1,420 | 🐛 2 | 🌐 Lua | 📅 2026-10-05 - ***`[TS][L/D][Lua]`*** A high-contrast, futuristic and vibrant coloursheme.
+* [zenbones-theme/zenbones.nvim](https://github.com/zenbones-theme/zenbones.nvim) ⭐ 1,153 | 🐛 21 | 🌐 Vim Script | 📅 2026-06-26 - ***`[TS][LSP][L/D][Lua]`*** A collection of colorschemes designed to highlight code using contrasts and font variations.
 * [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) ⭐ 1,099 | 🐛 0 | 🌐 Lua | 📅 2026-09-09 - ***`[TS][L/D][Lua]`*** Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 * [embark-theme/vim](https://github.com/embark-theme/vim) ⭐ 733 | 🐛 1 | 🌐 Vim Script | 📅 2026-07-21 - ***`[TS]`*** A deep inky purple theme leveraging bright colors.
-* [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) ⭐ 641 | 🐛 0 | 🌐 Lua | 📅 2026-07-01 - ***`[TS][LSP][L/D][Lua]`*** A colorscheme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
-* [xero/miasma.nvim](https://github.com/xero/miasma.nvim) ⭐ 583 | 🐛 6 | 🌐 Vim Script | 📅 2025-07-12 - ***`[TS][LSP]`*** A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+* [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) ⭐ 640 | 🐛 0 | 🌐 Lua | 📅 2026-07-01 - ***`[TS][LSP][L/D][Lua]`*** A colorscheme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+* [xero/miasma.nvim](https://github.com/xero/miasma.nvim) ⭐ 582 | 🐛 6 | 🌐 Vim Script | 📅 2025-07-12 - ***`[TS][LSP]`*** A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 * [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) ⭐ 582 | 🐛 1 | 🌐 Lua | 📅 2025-10-06 - ***`[TS][LSP][Lua]`*** A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
-* [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) ⭐ 498 | 🐛 5 | 🌐 Lua | 📅 2025-11-25 - ***`[TS][LSP][Lua]`*** A warm green theme.
-* [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim) ⭐ 463 | 🐛 11 | 🌐 Lua | 📅 2026-10-16 - ***`[TS][LSP][L/D][Lua]`*** A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
+* [ribru17/bamboo.nvim](https://github.com/ribru17/bamboo.nvim) ⭐ 497 | 🐛 5 | 🌐 Lua | 📅 2025-11-25 - ***`[TS][LSP][Lua]`*** A warm green theme.
 * [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) ⭐ 462 | 🐛 7 | 🌐 Lua | 📅 2024-01-25 - ***`[TS][LSP][Lua]`*** A modern gruvbox theme with full Tree-sitter support.
+* [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim) ⭐ 462 | 🐛 11 | 🌐 Lua | 📅 2026-10-16 - ***`[TS][LSP][L/D][Lua]`*** A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 * [ramojus/mellifluous.nvim](https://github.com/ramojus/mellifluous.nvim) ⭐ 456 | 🐛 3 | 🌐 Lua | 📅 2026-04-20 - ***`[TS][LSP][L/D][Lua]`*** Pleasant and productive colorscheme.
 * [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) ⭐ 449 | 🐛 0 | 🌐 Lua | 📅 2026-09-27 - ***`[TS][LSP][L/D][Lua]`*** Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 * [mellow-theme/mellow.nvim](https://github.com/mellow-theme/mellow.nvim) ⭐ 434 | 🐛 2 | 🌐 Lua | 📅 2026-03-30 - ***`[TS][LSP][Lua]`*** A soothing dark color scheme with Tree-sitter support.
 * [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) ⭐ 403 | 🐛 1 | 🌐 Lua | 📅 2026-10-17 - ***`[TS][LSP][L/D][Lua]`*** Remixed light and dark Kanagawa colourschemes with muted colors.
-* [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) ⭐ 355 | 🐛 6 | 🌐 Lua | 📅 2024-09-12 - ***`[TS][LSP][Lua]`*** A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) ⭐ 2,954 | 🐛 48 | 📅 2024-12-31 with support for Tree-sitter and semantic tokens.
+* [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) ⭐ 354 | 🐛 6 | 🌐 Lua | 📅 2024-09-12 - ***`[TS][LSP][Lua]`*** A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) ⭐ 2,955 | 🐛 48 | 📅 2024-12-31 with support for Tree-sitter and semantic tokens.
 * [FrenzyExists/aquarium-vim](https://github.com/FrenzyExists/aquarium-vim) ⭐ 327 | 🐛 5 | 🌐 Vim Script | 📅 2026-06-28 - ***`[TS][L/D]`*** A dark, yet vibrant colorscheme.
 * [maxmx03/fluoromachine.nvim](https://github.com/maxmx03/fluoromachine.nvim) ⚠️ Archived - ***`[TS][LSP][Lua]`*** Synthwave x Fluoromachine port.
-* [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) ⭐ 314 | 🐛 7 | 🌐 Lua | 📅 2026-04-14 - ***`[TS][LSP][Lua]`*** An arctic, north-bluish clean and elegant theme, based on Nord Palette.
+* [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) ⭐ 312 | 🐛 7 | 🌐 Lua | 📅 2026-04-14 - ***`[TS][LSP][Lua]`*** An arctic, north-bluish clean and elegant theme, based on Nord Palette.
 * [Everblush/nvim](https://github.com/Everblush/nvim) ⭐ 308 | 🐛 4 | 🌐 Lua | 📅 2025-05-18 - ***`[TS][LSP][Lua]`*** A dark, vibrant and beautiful colorscheme written in Lua.
 * [Mofiqul/adwaita.nvim](https://github.com/Mofiqul/adwaita.nvim) ⭐ 296 | 🐛 13 | 🌐 Lua | 📅 2026-06-02 - ***`[TS][LSP][L/D][Lua]`*** Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 * [0xstepit/flow.nvim](https://github.com/0xstepit/flow.nvim) ⭐ 284 | 🐛 4 | 🌐 Lua | 📅 2026-05-21 - ***`[TS][L/D][Lua]`*** Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
@@ -866,7 +866,7 @@ then it is not supported:
 * [nyngwang/nvimgelion](https://github.com/nyngwang/nvimgelion) ⭐ 139 | 🐛 4 | 🌐 Vim Script | 📅 2024-03-07 - ***`[TS]`*** Neon Genesis Evangelion but for Vimmers.
 * [jpwol/thorn.nvim](https://github.com/jpwol/thorn.nvim) ⭐ 133 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - ***`[TS][LSP][L/D][Lua]`*** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 * [metalelf0/jellybeans-nvim](https://github.com/metalelf0/jellybeans-nvim) ⭐ 128 | 🐛 2 | 🌐 Lua | 📅 2025-01-15 - ***`[TS][Lua]`*** A port of jellybeans colorscheme.
-* [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) ⭐ 116 | 🐛 0 | 🌐 Lua | 📅 2026-10-10 - ***`[Lua]`*** A port of cobalt2 colorscheme using colorbuddy.
+* [lalitmee/cobalt2.nvim](https://github.com/lalitmee/cobalt2.nvim) ⭐ 115 | 🐛 0 | 🌐 Lua | 📅 2026-10-10 - ***`[Lua]`*** A port of cobalt2 colorscheme using colorbuddy.
 * [phha/zenburn.nvim](https://github.com/phha/zenburn.nvim) ⭐ 112 | 🐛 3 | 🌐 Lua | 📅 2024-07-02 - ***`[TS][Lua]`*** A low-contrast dark colorscheme with support for various plugins.
 * [ptdewey/darkearth-nvim](https://github.com/ptdewey/darkearth-nvim) ⭐ 89 | 🐛 0 | 🌐 Fennel | 📅 2026-06-03 - ***`[TS][LSP][Fnl]`*** A dark and earthy colorscheme supporting Tree-sitter and LSP.
 * [killitar/obscure.nvim](https://github.com/killitar/obscure.nvim) ⭐ 81 | 🐛 4 | 🌐 Lua | 📅 2026-01-27 - ***`[TS][LSP][Lua]`*** A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
@@ -877,14 +877,14 @@ then it is not supported:
 * [ldelossa/vimdark](https://github.com/ldelossa/vimdark) ⭐ 69 | 🐛 0 | 🌐 Vim script | 📅 2022-03-20 - ***`[TS][L/D]`*** A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
 * [2nthony/vitesse.nvim](https://github.com/2nthony/vitesse.nvim) ⭐ 69 | 🐛 1 | 🌐 Lua | 📅 2024-08-17 - ***`[TS][LSP][Lua]`*** Vitesse theme Lua port.
 * [samharju/synthweave.nvim](https://github.com/samharju/synthweave.nvim) ⭐ 67 | 🐛 1 | 🌐 Lua | 📅 2025-09-25 - ***`[TS][LSP][Lua]`*** Synthwave '84 colorscheme port.
-* [hyperb1iss/silkcircuit](https://github.com/hyperb1iss/silkcircuit) ⭐ 66 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
+* [hyperb1iss/silkcircuit](https://github.com/hyperb1iss/silkcircuit) ⭐ 65 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 - ***`[TS][LSP][L/D][Lua]`*** Vibrant cyberpunk color system with five variants, 40+ plugin integrations, WCAG AA compliant. Supports multiple editors, terminals and CLI tools.
 * [samharju/serene.nvim](https://github.com/samharju/serene.nvim) ⭐ 52 | 🐛 0 | 🌐 Lua | 📅 2024-08-08 - ***`[TS][Lua]`*** A soothing and dark Tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 * [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim) ⭐ 50 | 🐛 0 | 🌐 Lua | 📅 2026-02-20 - ***`[TS][L/D][Lua]`*** Colorscheme written in Lua based on the [Apprentice](https://github.com/romainl/Apprentice) ⭐ 935 | 🐛 1 | 🌐 Vim Script | 📅 2025-07-14 color palette with Tree-sitter and built-in LSP support.
 * [2giosangmitom/nightfall.nvim](https://github.com/2giosangmitom/nightfall.nvim) ⭐ 50 | 🐛 0 | 🌐 Lua | 📅 2026-10-05 - ***`[TS][LSP][L/D][Lua]`*** Dracula-inspired colorscheme with four flavors including a light variant.
 * [uncleTen276/dark\_flat.nvim](https://github.com/uncleTen276/dark_flat.nvim) ⭐ 43 | 🐛 3 | 🌐 Lua | 📅 2024-06-19 - ***`[TS][LSP][Lua]`*** A colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
-* [oxidescheme/nvim](https://github.com/oxidescheme/nvim) ⭐ 41 | 🐛 0 | 🌐 Lua | 📅 2026-10-06 - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
+* [oxidescheme/nvim](https://github.com/oxidescheme/nvim) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2026-10-06 - ***`[TS][LSP][Lua]`*** Minimalist dark colorscheme built on an OKLCH palette with a monochrome-first UI.
 * [marekh19/meowsoot.nvim](https://github.com/marekh19/meowsoot.nvim) ⭐ 39 | 🐛 2 | 🌐 Lua | 📅 2026-10-05 - ***`[TS][LSP][L/D][Lua]`*** A dark pink–cyan–lavender colorscheme where strings are yellow and green never reaches code.
-* [ankushbhagats/pastel.nvim](https://github.com/ankushbhagats/pastel.nvim) ⭐ 36 | 🐛 0 | 🌐 Lua | 📅 2026-04-18 - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+* [ankushbhagats/pastel.nvim](https://github.com/ankushbhagats/pastel.nvim) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2026-04-18 - ***`[TS][LSP][L/D][Lua]`*** Elegant pastel colorschemes with advanced customization, styles, and integrations.
 * [calind/selenized.nvim](https://github.com/calind/selenized.nvim) ⭐ 32 | 🐛 3 | 🌐 Lua | 📅 2025-08-06 - ***`[TS][LSP][L/D][Lua]`*** Lua port of [selenized](https://github.com/jan-warchol/selenized) ⭐ 946 | 🐛 58 | 🌐 Emacs Lisp | 📅 2025-09-28 with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 * [alexmozaidze/palenight.nvim](https://github.com/alexmozaidze/palenight.nvim) ⭐ 28 | 🐛 0 | 🌐 Fennel | 📅 2026-07-27 - ***`[TS][LSP][Fnl]`*** Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 * [titanzero/zephyrium](https://github.com/titanzero/zephyrium) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2022-02-20 - ***`[TS][Lua]`*** A zephyr-esque theme, written in Lua, with Tree-sitter support.
@@ -899,16 +899,16 @@ then it is not supported:
 * [dybdeskarphet/gruvbox-minimal.nvim](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-09-04 - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 * [sonjiku/yawnc.nvim](https://github.com/sonjiku/yawnc.nvim) ⭐ 15 | 🐛 1 | 🌐 Lua | 📅 2023-06-25 - ***`[TS][LSP][Lua]`*** Theming using pywal, with a Base16 twist.
 * [pmouraguedes/neodarcula.nvim](https://github.com/pmouraguedes/neodarcula.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-02-01 - ***`[TS][LSP][Lua]`*** A dark theme with support for transparency, dimming, LSP semantic tokens and more.
-* [0x-ximon/acario.nvim](https://github.com/0x-ximon/acario.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 * [y3owk1n/base16-pro-max.nvim](https://github.com/y3owk1n/base16-pro-max.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-07-04 - ***`[TS][LSP][Lua]`*** Base16 with 16 colors + syntax, transparency, dimmed inactive panes, semantic aliases, live blends, overrides, and first-class plugin integrations.
+* [0x-ximon/acario.nvim](https://github.com/0x-ximon/acario.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - ***`[TS][LSP][L/D][Lua]`*** A port of the clean, high-contrast Doom Emacs Acario theme.
 * [ntk148v/lauds](https://github.com/ntk148v/lauds) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-10-06 - ***`[TS][Lua]`*** Paper-light color theme for prose and code — warm off-white paper, terracotta orange, deep mint.
 * [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-01-18 - ***`[TS][LSP][L/D][Lua]`*** Curated color palettes inspired by paintings from the Savitsky Museum, built on top of `catppuccin`.
 * [ptdewey/monalisa-nvim](https://github.com/ptdewey/monalisa-nvim) ⭐ 10 | 🐛 0 | 🌐 Fennel | 📅 2025-08-20 - ***`[TS][LSP][Lua]`*** A dark and colorful Mona Lisa inspired colorscheme.
 * [kevinm6/kurayami.nvim](https://github.com/kevinm6/kurayami.nvim) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2025-11-01 - ***`[TS][LSP][Lua]`*** Dark only theme with Tree-sitter support.
 * [alsi-lawr/neotheme.nvim](https://github.com/alsi-lawr/neotheme.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-07-23 - ***`[TS][LSP][L/D][Lua]`*** A semantic, palette-driven theme engine, with live theme switching and multiple built-in families.
 * [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2026-10-06 - ***`[TS][L/D][Lua]`*** A ported Slack colorscheme.
-* [taigrr/cyberpunk.nvim](https://github.com/taigrr/cyberpunk.nvim) ⭐ 5 | 🐛 3 | 🌐 Lua | 📅 2026-09-27 - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
-* [aadielpr/bono.nvim](https://github.com/aadielpr/bono.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - ***`[TS][LSP][L/D][Lua]`*** A warm muted colorscheme with cream (light) and espresso (dark) variants.
+* [taigrr/cyberpunk.nvim](https://github.com/taigrr/cyberpunk.nvim) ⭐ 5 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - ***`[TS][LSP][Lua]`*** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
+* [aadielpr/bono.nvim](https://github.com/aadielpr/bono.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - ***`[TS][LSP][L/D][Lua]`*** A warm muted colorscheme with cream (light) and espresso (dark) variants.
 * [jonestristand/dune.nvim](https://github.com/jonestristand/dune.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - ***`[TS][LSP][Lua]`*** Four (plus one) variants inspired by Frank Herbert's Dune.
 * [daaanny90/iterm2-dark-background.nvim](https://github.com/daaanny90/iterm2-dark-background.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-03-27 - ***`[TS][LSP][Lua]`*** Muted dark colorscheme inspired by iTerm2's Dark Background preset.
 * [tan-wei/zimablue.nvim](https://github.com/tan-wei/zimablue.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-07-31 - ***`[TS][LSP][Lua]`*** A dark Neovim colorscheme inspired by the iconic color from the *Love, Death and Robots* episode *Zima Blue*.
@@ -929,19 +929,19 @@ then it is not supported:
 
 ### Colorscheme Creation
 
-* [nvim-mini/mini.nvim#mini.base16](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-base16.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette.
-* [nvim-mini/mini.nvim#mini.colors](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
-* [nvim-mini/mini.nvim#mini.hues](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
-* [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) ⭐ 1,785 | 🐛 13 | 🌐 Lua | 📅 2025-09-01 - Define colorschemes as a DSL in Lua, with real-time feedback.
+* [nvim-mini/mini.nvim#mini.base16](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-base16.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with fast implementation of base16 theme for manually supplied palette.
+* [nvim-mini/mini.nvim#mini.colors](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
+* [nvim-mini/mini.nvim#mini.hues](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
+* [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) ⭐ 1,784 | 🐛 13 | 🌐 Lua | 📅 2025-09-01 - Define colorschemes as a DSL in Lua, with real-time feedback.
 * [tjdevries/colorbuddy.nvim](https://github.com/tjdevries/colorbuddy.nvim) ⭐ 783 | 🐛 4 | 🌐 Lua | 📅 2024-05-08 - A colorscheme helper. Written in Lua! Quick and Easy Color Schemes.
-* [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) ⭐ 659 | 🐛 2 | 🌐 Lua | 📅 2026-10-04 - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
+* [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) ⭐ 660 | 🐛 2 | 🌐 Lua | 📅 2026-10-04 - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
 * [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) ⭐ 317 | 🐛 6 | 🌐 Lua | 📅 2024-08-14 - Allows the user to generate colorschemes with a text prompt using OpenAI's GPT API.
 * [ThemerCorp/themer.lua](https://github.com/ThemerCorp/themer.lua) ⭐ 261 | 🐛 6 | 🌐 Lua | 📅 2023-10-17 - Create colorschemes for your editor and supported apps (such as `kitty` and `alacritty`).
 * [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) ⭐ 252 | 🐛 2 | 🌐 Lua | 📅 2026-09-15 - A colorscheme generator that is "lite" on logic for the developer.
 * [norcalli/nvim-base16.lua](https://github.com/norcalli/nvim-base16.lua) ⭐ 79 | 🐛 2 | 🌐 Lua | 📅 2023-04-11 - Programmatic Lua library for setting base16 themes.
 * [Senal-D-A-Gunaratna/matugen.nvim](https://github.com/Senal-D-A-Gunaratna/matugen.nvim) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2026-10-01 - Material You colorscheme generator using an external template system. Supports Tree-sitter, LSP, and Lua.
-* [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ⭐ 26 | 🐛 0 | 🌐 Lua | 📅 2026-08-29 - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
-* [nitinbhat972/cwal.nvim](https://github.com/nitinbhat972/cwal.nvim) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2026-09-13 - Generates dynamic colorschemes from cwal-generated color palettes.
+* [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ⭐ 26 | 🐛 1 | 🌐 Lua | 📅 2026-08-29 - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+* [nitinbhat972/cwal.nvim](https://github.com/nitinbhat972/cwal.nvim) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-09-13 - Generates dynamic colorschemes from cwal-generated color palettes.
 
 <!--lint disable double-link -->
 
@@ -971,11 +971,11 @@ then it is not supported:
 
 ## Bars and Lines
 
-* [nvim-mini/mini.nvim#mini.statuscolumn](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
+* [nvim-mini/mini.nvim#mini.statuscolumn](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statuscolumn.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for statuscolumn. Fast and improved defaults, fully customizable content, automatic dimming inside inactive windows.
 * [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) ⭐ 1,684 | 🐛 32 | 🌐 Lua | 📅 2026-09-02 - A simple statusline/winbar component that uses LSP to show your current code context.
-* [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ⭐ 1,608 | 🐛 14 | 🌐 Lua | 📅 2026-09-25 - IDE-like breadcrumbs, out of the box.
+* [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ⭐ 1,607 | 🐛 14 | 🌐 Lua | 📅 2026-09-25 - IDE-like breadcrumbs, out of the box.
 * [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) ⚠️ Archived - A VSCode like winbar.
-* [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) ⭐ 615 | 🐛 10 | 🌐 Lua | 📅 2026-07-09 - Configurable 'statuscolumn' with built-in segments and click handlers.
+* [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) ⭐ 614 | 🐛 10 | 🌐 Lua | 📅 2026-07-09 - Configurable 'statuscolumn' with built-in segments and click handlers.
 * [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) ⭐ 371 | 🐛 4 | 🌐 Lua | 📅 2026-09-13 - Hide your colorcolumn when unneeded.
 * [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) ⭐ 349 | 🐛 2 | 🌐 Lua | 📅 2025-09-04 - Shows your colorcolumn dynamically.
 * [ecthelionvi/NeoColumn.nvim](https://github.com/ecthelionvi/NeoColumn.nvim) ⚠️ Archived - Toggleable colorcolumn highlighting specific characters.
@@ -987,10 +987,10 @@ then it is not supported:
 
 ### Statusline
 
-* [nvim-mini/mini.nvim#mini.statusline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statusline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width.
-* [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) ⭐ 8,159 | 🐛 273 | 🌐 Lua | 📅 2026-05-31 - Easily configurable, blazingly fast statusline.
-* [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) ⭐ 1,297 | 🐛 28 | 🌐 Lua | 📅 2025-05-23 - A no-nonsense statusline designed around recursive inheritance to be exceptionally fast and versatile.
-* [b0o/incline.nvim](https://github.com/b0o/incline.nvim) ⭐ 1,053 | 🐛 11 | 🌐 Lua | 📅 2026-05-07 - Lightweight floating statuslines, intended for use with the new global statusline.
+* [nvim-mini/mini.nvim#mini.statusline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-statusline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for minimal and fast statusline. Supports content change depending on window width.
+* [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) ⭐ 8,160 | 🐛 273 | 🌐 Lua | 📅 2026-05-31 - Easily configurable, blazingly fast statusline.
+* [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) ⭐ 1,296 | 🐛 28 | 🌐 Lua | 📅 2025-05-23 - A no-nonsense statusline designed around recursive inheritance to be exceptionally fast and versatile.
+* [b0o/incline.nvim](https://github.com/b0o/incline.nvim) ⭐ 1,052 | 🐛 11 | 🌐 Lua | 📅 2026-05-07 - Lightweight floating statuslines, intended for use with the new global statusline.
 * [windwp/windline.nvim](https://github.com/windwp/windline.nvim) ⭐ 535 | 🐛 0 | 🌐 Lua | 📅 2025-10-22 - The next generation statusline. Animation statusline.
 * [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) ⭐ 403 | 🐛 8 | 🌐 Lua | 📅 2024-06-02 - A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
 * [tjdevries/express\_line.nvim](https://github.com/tjdevries/express_line.nvim) ⭐ 317 | 🐛 20 | 🌐 Lua | 📅 2024-05-17 - Supports co-routines, functions and jobs.
@@ -999,7 +999,7 @@ then it is not supported:
 * [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) ⭐ 213 | 🐛 2 | 🌐 Lua | 📅 2023-12-27 - A statusline / bufferline inspired by [vim-airline](https://github.com/vim-airline/vim-airline) ⭐ 17,965 | 🐛 38 | 🌐 Vim Script | 📅 2026-10-14 that aims to be as light and simple as possible.
 * [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) ⭐ 201 | 🐛 4 | 🌐 Lua | 📅 2026-08-16 - Hyperextensible statusline/tabline/winbar.
 * [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) ⭐ 172 | 🐛 13 | 🌐 Lua | 📅 2022-05-16 - A light-weight and super fast statusline plugin written in Lua.
-* [Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim) ⭐ 161 | 🐛 3 | 🌐 Lua | 📅 2026-02-25 - 30+ `heirline.nvim` components to be used out of the box to create the perfect user interface.
+* [Zeioth/heirline-components.nvim](https://github.com/Zeioth/heirline-components.nvim) ⭐ 160 | 🐛 3 | 🌐 Lua | 📅 2026-02-25 - 30+ `heirline.nvim` components to be used out of the box to create the perfect user interface.
 * [sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim) ⭐ 138 | 🐛 3 | 🌐 Lua | 📅 2026-08-03 - A slim, minimal and opinionated Lua statusline.
 * [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) ⭐ 66 | 🐛 1 | 🌐 Lua | 📅 2026-07-15 - A blazing fast statusline based on reference concept.
 * [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) ⭐ 40 | 🐛 0 | 🌐 Lua | 📅 2023-04-06 - A fast, light, customizable statusline and tabline (buffers).
@@ -1010,8 +1010,8 @@ then it is not supported:
 
 ### Tabline
 
-* [nvim-mini/mini.nvim#mini.tabline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-tabline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for minimal tabline showing listed buffers in case of one tab and falling back to default otherwise.
-* [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ⭐ 4,384 | 🐛 104 | 🌐 Lua | 📅 2025-01-14 - A snazzy bufferline built using Lua.
+* [nvim-mini/mini.nvim#mini.tabline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-tabline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for minimal tabline showing listed buffers in case of one tab and falling back to default otherwise.
+* [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ⭐ 4,385 | 🐛 104 | 🌐 Lua | 📅 2025-01-14 - A snazzy bufferline built using Lua.
 * [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) ⭐ 2,734 | 🐛 35 | 🌐 Lua | 📅 2026-06-10 - A tabline with re-orderable, auto-sizing, clickable tabs, icons, nice highlighting, sort-by commands and a magic jump-to-buffer mode.
 * [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) ⭐ 774 | 🐛 8 | 🌐 Lua | 📅 2026-01-07 - A minimal, configurable tabline that allows using tabs as workspace multiplexers.
 * [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) ⭐ 635 | 🐛 14 | 🌐 Lua | 📅 2026-06-19 - A bufferline for people with addictive personalities.
@@ -1023,7 +1023,7 @@ then it is not supported:
 
 ### Cursorline
 
-* [nvim-mini/mini.nvim#mini.cursorword](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cursorword.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for automatic highlighting of word under cursor (displayed after customizable delay).
+* [nvim-mini/mini.nvim#mini.cursorword](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cursorword.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for automatic highlighting of word under cursor (displayed after customizable delay).
 * [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) ⭐ 2,473 | 🐛 10 | 🌐 Lua | 📅 2026-08-25 - Highlight the word under the cursor with built-in LSP support.
 * [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) ⭐ 477 | 🐛 7 | 🌐 Lua | 📅 2026-02-14 - Highlights cursor words and lines.
 * [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) ⭐ 384 | 🐛 3 | 🌐 Lua | 📅 2026-04-10 - Cursor line number mode indicator. Changes the `CursorLineNr` highlight based on Vim mode.
@@ -1037,8 +1037,8 @@ then it is not supported:
 
 ## Startup
 
-* [nvim-mini/mini.nvim#mini.starter](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-starter.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for start screen. Displayed items are fully customizable, item selection can be done using prefix query with instant visual feedback.
-* [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) ⭐ 2,865 | 🐛 72 | 🌐 Lua | 📅 2026-04-17 - A minimalist dashboard, inspired by doom-emacs.
+* [nvim-mini/mini.nvim#mini.starter](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-starter.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for start screen. Displayed items are fully customizable, item selection can be done using prefix query with instant visual feedback.
+* [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) ⭐ 2,866 | 🐛 72 | 🌐 Lua | 📅 2026-04-17 - A minimalist dashboard, inspired by doom-emacs.
 * [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) ⭐ 2,407 | 🐛 33 | 🌐 Lua | 📅 2026-08-25 - A fast and highly customizable greeter like [vim-startify](https://github.com/mhinz/vim-startify) ⭐ 5,383 | 🐛 80 | 🌐 Vim Script | 📅 2024-01-05/dashboard-nvim.
 * [max397574/startup.nvim](https://github.com/max397574/startup.nvim) ⭐ 501 | 🐛 10 | 🌐 Lua | 📅 2026-06-07 - The fully customizable greeter.
 * [Amansingh-afk/milli.nvim](https://github.com/Amansingh-afk/milli.nvim) ⭐ 320 | 🐛 0 | 🌐 Lua | 📅 2026-09-26 - Animated ASCII splash screens with bundled animations and custom image or GIF support.
@@ -1057,7 +1057,7 @@ then it is not supported:
 
 ## Icon
 
-* [nvim-mini/mini.nvim#mini.icons](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
+* [nvim-mini/mini.nvim#mini.icons](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
 * [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) ⭐ 2,725 | 🐛 16 | 🌐 Lua | 📅 2026-10-12 - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons) ⭐ 5,806 | 🐛 71 | 🌐 Vim Script | 📅 2024-05-09.
 * [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim/) ⭐ 431 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - Find and insert the latest nerd font glyphs.
 * [Mirsmog/real-icons.nvim](https://github.com/Mirsmog/real-icons.nvim) ⭐ 93 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 - Renders PNG and SVG file icons in explorers, pickers, statuslines, and tablines through kitty's graphics protocol.
@@ -1073,7 +1073,7 @@ then it is not supported:
 
 * [3rd/image.nvim](https://github.com/3rd/image.nvim) ⭐ 2,101 | 🐛 74 | 🌐 Lua | 📅 2026-09-04 - Add image support through kitty's graphics protocol or ueberzugpp.
 * [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) ⭐ 1,433 | 🐛 28 | 🌐 Lua | 📅 2023-11-15 - A cross platform terminal image viewer. Works on macOS and Linux.
-* [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) ⭐ 943 | 🐛 16 | 🌐 Lua | 📅 2026-09-02 - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+* [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) ⭐ 944 | 🐛 16 | 🌐 Lua | 📅 2026-09-02 - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
 * [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) ⭐ 721 | 🐛 0 | 🌐 Lua | 📅 2026-08-16 - Highly extensible Rich Presence for Discord.
 * [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) ⭐ 334 | 🐛 9 | 🌐 Lua | 📅 2024-03-19 - Allows pasting images from clipboard.
 * [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) ⭐ 276 | 🐛 23 | 🌐 Lua | 📅 2026-06-16 - A frontend for SuperCollider.
@@ -1084,7 +1084,7 @@ then it is not supported:
 * [niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim) ⭐ 66 | 🐛 0 | 🌐 Lua | 📅 2025-01-04 - Take a picture of the code.
 * [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ⭐ 35 | 🐛 0 | 🌐 Lua | 📅 2025-09-29 - Quickly control your favorite music player (Spotify, VLC, and more).
 * [iamt4nk/smm.nvim](https://github.com/iamt4nk/smm.nvim) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2026-05-13 - Small TUI that allows for controlling Spotify playback.
-* [sanjay-np/nvim-yt-player](https://github.com/sanjay-np/nvim-yt-player) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2026-09-11 - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
+* [sanjay-np/nvim-yt-player](https://github.com/sanjay-np/nvim-yt-player) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2026-09-11 - Play YouTube audio using `mpv` and `yt-dlp` via IPC socket.
 * [melMass/echo.nvim](https://github.com/melMass/echo.nvim) ⭐ 16 | 🐛 1 | 🌐 Rust | 📅 2025-11-26 - Seamless sound integration for your editing workflow.
 * [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Paste image from clipboard and insert the reference code.
 * [ricmonmol/nvim-music-player](https://github.com/ricmonmol/nvim-music-player) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2026-01-20 - A simple music player powered by `mpv`, written in Python, including a Telescope browser.
@@ -1100,27 +1100,27 @@ then it is not supported:
 ## Note Taking
 
 * [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ⭐ 7,500 | 🐛 225 | 🌐 Lua | 📅 2026-08-14 - Modernity meets insane extensibility. The future of organizing your life.
-* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) ⭐ 3,922 | 🐛 147 | 🌐 Lua | 📅 2026-10-13 - Org-mode clone written in Lua.
-* [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) ⭐ 2,211 | 🐛 48 | 🌐 Lua | 📅 2026-10-19 - Plugin for Obsidian, written in Lua.
-* [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) ⭐ 1,696 | 🐛 65 | 🌐 Lua | 📅 2026-03-17 - Work with a text-based, Markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
+* [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) ⭐ 3,921 | 🐛 147 | 🌐 Lua | 📅 2026-10-13 - Org-mode clone written in Lua.
+* [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) ⭐ 2,211 | 🐛 49 | 🌐 Lua | 📅 2026-10-20 - Plugin for Obsidian, written in Lua.
+* [nvim-telekasten/telekasten.nvim](https://github.com/nvim-telekasten/telekasten.nvim) ⭐ 1,695 | 🐛 65 | 🌐 Lua | 📅 2026-03-17 - Work with a text-based, Markdown zettelkasten / wiki and mix it with a journal, based on telescope.nvim.
 * [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ⭐ 1,193 | 🐛 5 | 🌐 Lua | 📅 2024-08-16 - Draw ASCII diagrams.
 * [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) ⭐ 867 | 🐛 1 | 🌐 Lua | 📅 2026-10-01 -  Provides integration with `zk`, a plain text note-taking assistant.
-* [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ⭐ 838 | 🐛 21 | 🌐 Lua | 📅 2026-07-03 - Fluent Markdown notebook navigation and management (create links, follow links, create and manage to-do lists, reference bib files, and more).
+* [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ⭐ 837 | 🐛 21 | 🌐 Lua | 📅 2026-07-03 - Fluent Markdown notebook navigation and management (create links, follow links, create and manage to-do lists, reference bib files, and more).
 * [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ⭐ 750 | 🐛 25 | 🌐 Lua | 📅 2025-04-21 - Take your scientific notes.
-* [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ⭐ 381 | 🐛 8 | 🌐 Lua | 📅 2026-05-18 - A full-featured Markdown-based TODO plugin.
+* [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ⭐ 380 | 🐛 8 | 🌐 Lua | 📅 2026-05-18 - A full-featured Markdown-based TODO plugin.
 * [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) ⚠️ Archived - A stripped down VimWiki with necessary features.
-* [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) ⭐ 190 | 🐛 14 | 🌐 Lua | 📅 2025-11-19 - Manage your bibliography from within your favourite editor.
-* [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) ⭐ 152 | 🐛 0 | 🌐 Lua | 📅 2026-10-04 - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
-* [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) ⭐ 148 | 🐛 3 | 🌐 Lua | 📅 2024-02-14 - One global note in a floating window.
+* [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) ⭐ 189 | 🐛 14 | 🌐 Lua | 📅 2025-11-19 - Manage your bibliography from within your favourite editor.
+* [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) ⭐ 151 | 🐛 0 | 🌐 Lua | 📅 2026-10-04 - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
+* [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) ⭐ 147 | 🐛 3 | 🌐 Lua | 📅 2024-02-14 - One global note in a floating window.
 * [nfrid/due.nvim](https://github.com/nfrid/due.nvim) ⭐ 114 | 🐛 0 | 🌐 Lua | 📅 2023-09-04 - Displays due for a date string as a virtual text.
 * [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ⭐ 101 | 🐛 3 | 🌐 MoonScript | 📅 2022-06-26 - Read Notion.so notes.
 * [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) ⭐ 100 | 🐛 0 | 🌐 Lua | 📅 2025-11-20 - Fast and simple note taking.
-* [apdot/doodle](https://github.com/apdot/doodle) ⭐ 96 | 🐛 0 | 🌐 Lua | 📅 2025-10-26 - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
+* [apdot/doodle](https://github.com/apdot/doodle) ⭐ 97 | 🐛 0 | 🌐 Lua | 📅 2025-10-26 - A developer-centric knowledge base with project/branch scoped notes, bi-directional linking, note-tagging, graph-view, telescope integration, and Git synchronization.
 * [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ⭐ 91 | 🐛 0 | 🌐 Lua | 📅 2022-06-30 - Abbreviation reminders.
 * [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) ⭐ 91 | 🐛 0 | 🌐 Lua | 📅 2026-09-08 - Your Obsidian notes at the speed of thought.
-* [jameswolensky/marker-groups.nvim](https://github.com/jameswolensky/marker-groups.nvim) ⭐ 63 | 🐛 0 | 🌐 Lua | 📅 2026-06-08 - Take persistent code notes without modifying code.
+* [jameswolensky/marker-groups.nvim](https://github.com/jameswolensky/marker-groups.nvim) ⭐ 62 | 🐛 0 | 🌐 Lua | 📅 2026-06-08 - Take persistent code notes without modifying code.
 * [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) ⭐ 54 | 🐛 0 | 🌐 Lua | 📅 2026-08-16 - Integration with `IWE`, an LSP designed for Markdown-based knowledge management and note-taking workflows.
-* [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) ⭐ 43 | 🐛 9 | 🌐 Lua | 📅 2026-10-07 - Simple, improved, and extensible Markdown note taking.
+* [ymic9963/mdnotes.nvim](https://github.com/ymic9963/mdnotes.nvim) ⭐ 43 | 🐛 9 | 🌐 Lua | 📅 2026-10-19 - Simple, improved, and extensible Markdown note taking.
 * [MattHandzel/taskwarrior.nvim](https://github.com/MattHandzel/taskwarrior.nvim) ⭐ 33 | 🐛 1 | 🌐 Lua | 📅 2026-08-16 - Edit Taskwarrior tasks in a buffer, render tasks as Markdown checkboxes, bulk-edit with Vim motions, diff-and-apply on save. Inspired by oil.nvim.
 * [lfilho/note2cal.nvim](https://github.com/lfilho/note2cal.nvim) ⭐ 32 | 🐛 1 | 🌐 Lua | 📅 2026-09-28 - Create calendar events from Markdown notes (macOS only).
 * [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2026-07-04 - Managing notes, TODO's, journal entries, and your inbox, all with Markdown.
@@ -1128,10 +1128,10 @@ then it is not supported:
 * [DaFi-1/tasknvim](https://github.com/DaFi-1/tasknvim) ⭐ 19 | 🐛 1 | 🌐 Lua | 📅 2026-10-04 - A simple tool for life and personal development that helps organize goals, track habits, and improve productivity.
 * [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim) ⭐ 19 | 🐛 0 | 🌐 Lua | 📅 2024-11-05 - Simple but powerful TODO manager based on text.
 * [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2025-09-07 - Joplin notes utilities: tree browser, search, open, and Telescope integration.
-* [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ⭐ 16 | 🐛 0 | 🌐 Lua | 📅 2025-03-09 - Effortlessly manage scratchpads within your favorite editor.
 * [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-10-16 - Take notes, TODOs from anywhere inside your project, search all TODOs, get reminders and more.
+* [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2025-03-09 - Effortlessly manage scratchpads within your favorite editor.
 * [slugbyte/whip.nvim](http://github.com/slugbyte/whip.nvim) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2025-04-03 - A super fast minimal scratchpad management plugin, biew biew biew.
-* [gmcusaro/ma.nvim](https://github.com/gmcusaro/ma.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-10-18 - Minimal Markdown knowledge management with relational note navigation and safe file operations.
+* [gmcusaro/ma.nvim](https://github.com/gmcusaro/ma.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Minimal Markdown knowledge management with relational note navigation and safe file operations.
 * [jjuchara/obsidian-tasks.nvim](https://github.com/jjuchara/obsidian-tasks.nvim) ⭐ 8 | 🐛 1 | 🌐 Lua | 📅 2026-08-31 - Keyboard-first Obsidian task management across multiple vaults with ordered tag trees.
 * [indium114/studytools.nvim](https://github.com/indium114/studytools.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-03-27 - Various utilities to enhance the studying and note-taking experience.
 * [nbeversl/urtext\_neovim](https://github.com/nbeversl/urtext_neovim) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-04-29 - An implementation of Urtext.
@@ -1147,11 +1147,11 @@ then it is not supported:
 ## Utility
 
 * [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) ⭐ 1,416 | 🐛 9 | 🌐 Lua | 📅 2022-12-31 - A collaborative editing plugin written in Lua with no dependencies.
-* [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) ⭐ 923 | 🐛 29 | 🌐 Lua | 📅 2026-09-14 - Snapshot plugin with rich features that can make pretty code snapshots.
+* [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) ⭐ 922 | 🐛 28 | 🌐 Lua | 📅 2026-09-14 - Snapshot plugin with rich features that can make pretty code snapshots.
 * [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ⭐ 347 | 🐛 6 | 🌐 Lua | 📅 2026-03-23 - A port of Assorted Biscuits. Ends up with more supported languages too.
 * [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) ⭐ 282 | 🐛 7 | 🌐 Lua | 📅 2025-11-30 - Browse all URLs in the current buffer.
 * [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ⭐ 279 | 🐛 9 | 🌐 Lua | 📅 2026-05-26 - Create and manage scratch files.
-* [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) ⭐ 275 | 🐛 6 | 🌐 Lua | 📅 2026-08-17 - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
+* [Owen-Dechow/videre.nvim](https://github.com/Owen-Dechow/videre.nvim) ⭐ 274 | 🐛 6 | 🌐 Lua | 📅 2026-08-17 - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
 * [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) ⭐ 247 | 🐛 10 | 🌐 Lua | 📅 2024-07-12 - Remember file locations and sort by time and frequency.
 * [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) ⭐ 222 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 - Convenience file operations, written in Lua.
 * [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) ⭐ 203 | 🐛 14 | 🌐 Python | 📅 2026-05-15 - GhostText support with zero dependencies.
@@ -1166,9 +1166,9 @@ then it is not supported:
 * [doctorfree/cheatsheet.nvim](https://github.com/doctorfree/cheatsheet.nvim) ⭐ 74 | 🐛 6 | 🌐 Lua | 📅 2025-10-31 - Searchable cheatsheet.
 * [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) ⭐ 72 | 🐛 0 | 🌐 Lua | 📅 2026-09-01 - Run `nix develop` without restarting.
 * [josephburgess/nvumi](https://github.com/josephburgess/nvumi) ⭐ 72 | 🐛 1 | 🌐 Lua | 📅 2026-04-09 - Natural language calculator in a scratch buffer.
-* [necrom4/calcium.nvim](https://github.com/necrom4/calcium.nvim) ⭐ 71 | 🐛 1 | 🌐 Lua | 📅 2025-12-27 - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
+* [necrom4/calcium.nvim](https://github.com/necrom4/calcium.nvim) ⭐ 70 | 🐛 1 | 🌐 Lua | 📅 2025-12-27 - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 * [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) ⭐ 65 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - MCP server giving AI agents access to buffers, commands, and LSP diagnostics through the built-in msgpack-RPC socket.
-* [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ⭐ 63 | 🐛 0 | 🌐 Lua | 📅 2026-10-13 - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
+* [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ⭐ 62 | 🐛 0 | 🌐 Lua | 📅 2026-10-13 - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 * [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) ⭐ 59 | 🐛 3 | 🌐 Lua | 📅 2025-03-27 - Minimalist `.env` support.
 * [redoxahmii/json-to-types.nvim](https://github.com/redoxahmii/json-to-types.nvim) ⭐ 59 | 🐛 0 | 🌐 Lua | 📅 2026-02-18 - Convert JSON objects to type definitions for multiple languages.
 * [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) ⭐ 47 | 🐛 4 | 🌐 Lua | 📅 2026-09-10 - Encode and decode text using various codecs such as base64.
@@ -1177,13 +1177,13 @@ then it is not supported:
 * [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) ⭐ 37 | 🐛 0 | 🌐 Lua | 📅 2026-08-20 - Create and manage scratch files, scratch templates, with picker integrations.
 * [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) ⭐ 37 | 🐛 0 | 🌐 Lua | 📅 2025-04-25 - Confirm before quitting.
 * [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) ⭐ 33 | 🐛 5 | 🌐 Lua | 📅 2024-10-17 - Built-in API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
-* [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) ⭐ 32 | 🐛 1 | 🌐 Lua | 📅 2026-08-30 - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) ⭐ 4,889 | 🐛 79 | 🌐 Go | 📅 2026-09-16 inside the editor.
-* [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2026-09-18 - Docker dashboard for managing containers, images, networks, and logs.
+* [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) ⭐ 32 | 🐛 1 | 🌐 Lua | 📅 2026-08-30 - Code screenshot plugin that makes use of [freeze](https://github.com/charmbracelet/freeze) ⭐ 4,891 | 🐛 79 | 🌐 Go | 📅 2026-09-16 inside the editor.
+* [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2026-09-18 - Docker dashboard for managing containers, images, networks, and logs.
 * [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) ⭐ 25 | 🐛 1 | 🌐 Lua | 📅 2025-08-20 - The tags generator/management for old school vimers.
 * [aPeoplesCalendar/apc.nvim](https://github.com/aPeoplesCalendar/apc.nvim) ⭐ 23 | 🐛 2 | 🌐 Lua | 📅 2024-06-18 - "On this day" style calendar, which provides information about worldwide history of working class movements and liberation struggles.
 * [bgaillard/readonly.nvim](https://github.com/bgaillard/readonly.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2025-07-11 - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
 * [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2025-11-03 - Check the price of the defined cryptocurrencies.
-* [ragnarok22/whereami.nvim](https://github.com/ragnarok22/whereami.nvim) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2026-07-10 - Test your VPN by getting you current location.
+* [ragnarok22/whereami.nvim](https://github.com/ragnarok22/whereami.nvim) ⭐ 21 | 🐛 0 | 🌐 Lua | 📅 2026-07-10 - Test your VPN by getting you current location.
 * [johannww/tts.nvim](https://github.com/johannww/tts.nvim) ⭐ 21 | 🐛 1 | 🌐 Lua | 📅 2025-11-26 - Text to speech tool based on the Microsoft Edge online services.
 * [piersolenski/brewfile.nvim](https://github.com/piersolenski/brewfile.nvim) ⭐ 20 | 🐛 0 | 🌐 Lua | 📅 2025-11-03 - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 * [glyccogen/imprint.nvim](https://github.com/glyccogen/imprint.nvim) ⭐ 18 | 🐛 2 | 🌐 Lua | 📅 2026-02-15 - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
@@ -1194,14 +1194,14 @@ then it is not supported:
 * [indium114/unobtrusive-relnums.nvim](https://github.com/indium114/unobtrusive-relnums.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-06-26 - Unobtrusive relative line numbers in the sign column.
 * [theKnightsOfRohan/hexer.nvim](https://github.com/theKnightsOfRohan/hexer.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-04-28 - Easily convert between binary representations without a conversion table.
 * [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2026-06-14 - Toggle between common words under the cursor such as *public* ⇄ *private* ⇄ *protected*. Easy to add and overwrite built-in toggles.
-* [indium114/cheaty.nvim](https://github.com/indium114/cheaty.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-03-27 - A simple, configurable cheatsheet.
 * [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2025-08-11 - Distro agnostic updater to get the latest changes from the Git repository of your config.
 * [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2026-07-14 - Manage and display your Most Recently Used (MRU) files.
-* [StefanBartl/color\_my\_ascii.nvim](https://github.com/StefanBartl/color_my_ascii.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Colorful highlighting of ASCII art in Markdown code blocks.
-* [leo-alvarenga/quoth.nvim](https://github.com/leo-alvarenga/quoth.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-12-17 - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
-* [rifen/timescope](https://github.com/rifen/timescope) ⭐ 7 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-19 - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
+* [indium114/cheaty.nvim](https://github.com/indium114/cheaty.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-03-27 - A simple, configurable cheatsheet.
+* [StefanBartl/color\_my\_ascii.nvim](https://github.com/StefanBartl/color_my_ascii.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Colorful highlighting of ASCII art in Markdown code blocks.
+* [rifen/timescope](https://github.com/rifen/timescope) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-20 - Inspect numeric durations in code and view human-readable equivalents as inline virtual text.
 * [cxwx/lazyUrlUpdate.nvim](https://github.com/cxwx/lazyUrlUpdate.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-07-21 - Update plugin under cursor by `lazy.nvim`.
 * [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-03-11 - Get famous quotes from history to display on startup.
+* [leo-alvarenga/quoth.nvim](https://github.com/leo-alvarenga/quoth.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-12-17 - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 * [7KiLL/copybara.nvim](https://github.com/7KiLL/copybara.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-09-06 - Copy absolute or relative file paths, line and column references, or an LLM-friendly path and selection snippet to your clipboard.
 * [ChrisGVE/docshelf.nvim](https://github.com/ChrisGVE/docshelf.nvim) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-09-27 - Offline API documentation from `devdocs.io`, `Hackage`, `docs.rs`, `pkg.go.dev`, `Sphinx` / `DocC` sites and `Dash` docsets, converted to text for reading and grepping in a buffer, with per-language filtering and automatic updates.
 * [penaz91/MiniDYM](https://github.com/Penaz91/MiniDYM) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-01-17 - A very small "Did you mean" plugin, suggesting files the user might have wanted to open instead of creating a new one.
@@ -1211,10 +1211,10 @@ then it is not supported:
 
 ### CSV Files
 
-* [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) ⭐ 698 | 🐛 16 | 🌐 Lua | 📅 2026-10-04 - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
+* [hat0uma/csvview.nvim](https://github.com/hat0uma/csvview.nvim) ⭐ 699 | 🐛 16 | 🌐 Lua | 📅 2026-10-04 - An asynchronous CSV/TSV table viewer with real-time updates, configurable comments and delimiters, and multiple display modes.
 * [emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim) ⭐ 128 | 🐛 1 | 🌐 Lua | 📅 2026-06-06 - View and edit CSV files with ease and speed.
 * [VidocqH/data-viewer.nvim](https://github.com/VidocqH/data-viewer.nvim) ⭐ 125 | 🐛 9 | 🌐 Lua | 📅 2024-07-29 - Provide a simple table view to inspect data files such as `csv`, `tsv`.
-* [theKnightsOfRohan/csvlens.nvim](https://github.com/theKnightsOfRohan/csvlens.nvim) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2024-04-28 - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens) ⭐ 4,015 | 🐛 60 | 🌐 Rust | 📅 2026-07-04, for easy previewing of tabular data.
+* [theKnightsOfRohan/csvlens.nvim](https://github.com/theKnightsOfRohan/csvlens.nvim) ⭐ 40 | 🐛 1 | 🌐 Lua | 📅 2024-04-28 - A port of [YS-L/csvlens](https://github.com/YS-L/csvlens) ⭐ 4,016 | 🐛 60 | 🌐 Rust | 📅 2026-07-04, for easy previewing of tabular data.
 
 <!--lint disable double-link -->
 
@@ -1224,8 +1224,8 @@ then it is not supported:
 
 ## Animation
 
-* [nvim-mini/mini.nvim#mini.animate](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
-* [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ⭐ 2,065 | 🐛 11 | 🌐 Lua | 📅 2026-10-04 - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+* [nvim-mini/mini.nvim#mini.animate](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-animate.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to add out of the box animations for common built-in actions (cursor movement, scroll, resize, window open/close).
+* [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ⭐ 2,066 | 🐛 11 | 🌐 Lua | 📅 2026-10-04 - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 * [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim/) ⭐ 438 | 🐛 1 | 🌐 Lua | 📅 2026-10-15 - Adds subtle animations to various operations.
 * [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) ⭐ 403 | 🐛 3 | 🌐 Lua | 📅 2024-09-18 - Add fancy sub-cursor to signcolumn to show your scroll or jump direction.
 * [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim/) ⭐ 107 | 🐛 1 | 🌐 Lua | 📅 2026-07-04 - Animated glow/highlight effects for editing operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
@@ -1249,7 +1249,7 @@ then it is not supported:
 * [nikvdp/neomux](https://github.com/nikvdp/neomux) ⭐ 393 | 🐛 1 | 🌐 Vim Script | 📅 2026-06-27 - Control your editor from shells ran through the `:term` command.
 * [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) ⭐ 298 | 🐛 7 | 🌐 Lua | 📅 2022-11-21 - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
 * [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) ⭐ 244 | 🐛 9 | 🌐 Lua | 📅 2026-05-14 - Automatic unnesting of editor sessions started from terminal buffers.
-* [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ⭐ 217 | 🐛 8 | 🌐 Lua | 📅 2024-10-17 - Allowing you to edit your command in the terminal just like any other buffer.
+* [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ⭐ 216 | 🐛 8 | 🌐 Lua | 📅 2024-10-17 - Allowing you to edit your command in the terminal just like any other buffer.
 * [laktak/tome](https://github.com/laktak/tome) ⭐ 177 | 🐛 0 | 🌐 Vim Script | 📅 2026-08-22 - Interactive Script playbooks for your terminal (optionally with Tmux).
 * [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) ⭐ 118 | 🐛 2 | 🌐 Lua | 📅 2026-02-10 - A simple and easy to use multi-terminal plugin.
 * [samharju/yeet.nvim](https://github.com/samharju/yeet.nvim) ⭐ 117 | 🐛 1 | 🌐 Lua | 📅 2026-03-04 - Run shell commands in terminal buffers or tmux panes.
@@ -1258,7 +1258,7 @@ then it is not supported:
 * [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim/) ⭐ 79 | 🐛 0 | 🌐 Lua | 📅 2025-12-01 - Built-in terminal, improved.
 * [Dan7h3x/neaterm.nvim](https://github.com/Dan7h3x/neaterm.nvim) ⭐ 77 | 🐛 1 | 🌐 Lua | 📅 2026-06-25 - A little smart terminal/REPL manager with awesome features.
 * [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) ⭐ 69 | 🐛 7 | 🌐 Lua | 📅 2024-01-27 - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
-* [jlesquembre/nterm.nvim](https://github.com/jlesquembre/nterm.nvim) ⭐ 58 | 🐛 1 | 🌐 Lua | 📅 2026-10-13 - Interact with the terminal, with notifications.
+* [jlesquembre/nterm.nvim](https://github.com/jlesquembre/nterm.nvim) ⭐ 58 | 🐛 1 | 🌐 Lua | 📅 2026-10-20 - Interact with the terminal, with notifications.
 * [isak102/ghostty.nvim](https://github.com/isak102/ghostty.nvim) ⭐ 50 | 🐛 1 | 🌐 Lua | 📅 2025-01-04 - Automatically validate your Ghostty configuration on save.
 * [da-moon/telescope-toggleterm.nvim](https://github.com/da-moon/telescope-toggleterm.nvim) ⭐ 39 | 🐛 0 | 🌐 Dockerfile | 📅 2022-02-09 - Telescope picker for terminal buffers.
 * [ingur/floatty.nvim](https://github.com/ingur/floatty.nvim) ⭐ 30 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - A tiny (<200 LOC) but highly customizable floating terminal manager.
@@ -1268,7 +1268,7 @@ then it is not supported:
 * [NeViRAIDE/nekifoch.nvim](https://github.com/NeViRAIDE/nekifoch.nvim) ⚠️ Archived - Managing kitty terminal font settings.
 * [LuxVim/nvim-luxterm](https://github.com/LuxVim/nvim-luxterm) ⭐ 15 | 🐛 2 | 🌐 Lua | 📅 2026-06-09 - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 * [imranzero/multiterm.nvim](https://github.com/imranZERO/multiterm.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-06-06 - Effortlessly manage multiple floating terminal windows.
-* [TheLazyCat00/runner-nvim](https://github.com/TheLazyCat00/runner-nvim) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2026-02-11 - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
+* [TheLazyCat00/runner-nvim](https://github.com/TheLazyCat00/runner-nvim) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2026-02-11 - Run commands in a floating terminal and keep track of the last command executed per CWD, making it easy to repeat build or test commands.
 * [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ⭐ 8 | 🐛 2 | 🌐 Lua | 📅 2025-10-26 - Operate editor jobs from Lua coroutines.
 * [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-01-29 - Multi-terminal window manager.
 * [Senal-D-A-Gunaratna/hyprfade.nvim](https://github.com/Senal-D-A-Gunaratna/hyprfade.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-09-23 - When using Hyprland, fade the terminal window via `hyprctl`.
@@ -1290,18 +1290,18 @@ then it is not supported:
 * [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) ⭐ 1,085 | 🐛 13 | 🌐 Lua | 📅 2025-05-25 - Virtual text support for nvim-dap.
 * [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) ⭐ 1,040 | 🐛 10 | 🌐 Lua | 📅 2026-10-16 - A modern, minimalistic UI for nvim-dap.
 * [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) ⭐ 784 | 🐛 5 | 🌐 Lua | 📅 2026-06-15 - Thin wrapper for GDB, LLDB, PDB/PDB++ and BashDB.
-* [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) ⭐ 528 | 🐛 9 | 🌐 Lua | 📅 2026-07-04 - Debugging the print() way.
+* [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) ⭐ 527 | 🐛 9 | 🌐 Lua | 📅 2026-07-04 - Debugging the print() way.
 * [pocco81/dap-buddy.nvim](https://github.com/pocco81/dap-buddy.nvim) ⭐ 390 | 🐛 25 | 🌐 Lua | 📅 2022-09-26 - Manage several debuggers for nvim-dap.
 * [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) ⭐ 373 | 🐛 1 | 🌐 Lua | 📅 2026-01-20 - Annotate your code with callgraph profiling data. Native support for perf, flamegraph and the LuaJIT profiler.
-* [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) ⭐ 263 | 🐛 2 | 🌐 Lua | 📅 2025-03-22 - Persistent breakpoints for nvim-dap.
+* [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) ⭐ 262 | 🐛 2 | 🌐 Lua | 📅 2025-03-22 - Persistent breakpoints for nvim-dap.
 * [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) ⭐ 162 | 🐛 0 | 🌐 Lua | 📅 2026-09-06 - Speed up log creation. Creates various kinds of language-specific log statements, like logs of variables, assertions, or time-measuring.
-* [NickTsaizer/splitasm.nvim](https://github.com/NickTsaizer/splitasm.nvim) ⭐ 83 | 🐛 0 | 🌐 Lua | 📅 2026-10-08 - View compiled assembly output side by side with source code, with synchronized cursor movement.
+* [NickTsaizer/splitasm.nvim](https://github.com/NickTsaizer/splitasm.nvim) ⭐ 82 | 🐛 0 | 🌐 Lua | 📅 2026-10-08 - View compiled assembly output side by side with source code, with synchronized cursor movement.
 * [niuiic/dap-utils](https://github.com/niuiic/dap-utils.nvim) ⭐ 42 | 🐛 0 | 🌐 Lua | 📅 2024-05-11 - Utilities to provide a better experience for using nvim-dap.
 * [Willem-J-an/visidata.nvim](https://github.com/Willem-J-an/visidata.nvim) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2024-03-19 - Render Pandas dataframes in `nvim-dap` using the power of visidata.
 * [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) ⭐ 33 | 🐛 0 | 🌐 Lua | 📅 2023-11-02 - Cycle between breakpoints for nvim-dap.
 * [JarnDev/autodap.nvim](https://github.com/JarnDev/autodap.nvim) ⭐ 29 | 🐛 0 | 🌐 Lua | 📅 2026-10-15 - Thin layer over `nvim-dap` that reads the current project and wires up the debugger for you; no `launch.json`, no per-language boilerplate.
 * [Carcuis/dap-breakpoints.nvim](https://github.com/Carcuis/dap-breakpoints.nvim) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2026-01-09 - Manage and create advanced breakpoints with virtual text and popup reveal for nvim-dap.
-* [ravsii/nvim-dap-envfile](https://github.com/ravsii/nvim-dap-envfile) ⭐ 14 | 🐛 0 | 🌐 Lua | 📅 2026-01-10 - Automatic `envFile` support for nvim-dap.
+* [ravsii/nvim-dap-envfile](https://github.com/ravsii/nvim-dap-envfile) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-01-10 - Automatic `envFile` support for nvim-dap.
 * [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-11-09 - Seamlessly debug Azure Functions with automatic DAP integration.
 * [evanmcpheron/rocketlog.nvim](https://github.com/evanmcpheron/rocketlog.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Seamlessly add logging for JavaScript and TypeScript files, with log and metadata searching.
 
@@ -1340,13 +1340,13 @@ then it is not supported:
 ## Code Runner
 
 * [stevearc/overseer.nvim](https://github.com/stevearc/overseer.nvim) ⭐ 1,940 | 🐛 87 | 🌐 Lua | 📅 2026-05-24 - A task runner and job management plugin.
-* [michaelb/sniprun](https://github.com/michaelb/sniprun) ⭐ 1,717 | 🐛 11 | 🌐 Rust | 📅 2026-07-29 - Run parts of code of any language directly from your editor.
-* [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) ⭐ 1,371 | 🐛 55 | 🌐 Lua | 📅 2026-10-13 - Interactive REPLs of over 30 languages embedded.
+* [michaelb/sniprun](https://github.com/michaelb/sniprun) ⭐ 1,715 | 🐛 11 | 🌐 Rust | 📅 2026-07-29 - Run parts of code of any language directly from your editor.
+* [Vigemus/iron.nvim](https://github.com/Vigemus/iron.nvim) ⭐ 1,370 | 🐛 55 | 🌐 Lua | 📅 2026-10-13 - Interactive REPLs of over 30 languages embedded.
 * [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) ⭐ 1,241 | 🐛 45 | 🌐 Python | 📅 2026-07-03 - Enables running code chunks via the Jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 * [CRAG666/code\_runner.nvim](https://github.com/CRAG666/code_runner.nvim) ⭐ 697 | 🐛 2 | 🌐 Lua | 📅 2026-08-20 - The best code runner you could have, with super powers.
 * [rafcamlet/nvim-luapad](https://github.com/rafcamlet/nvim-luapad) ⭐ 689 | 🐛 5 | 🌐 Lua | 📅 2026-03-23 - Interactive scratchpad for running Lua code.
-* [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) ⭐ 672 | 🐛 9 | 🌐 Lua | 📅 2025-08-14 - Compiler for building and running your code without having to configure anything.
-* [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ⭐ 562 | 🐛 13 | 🌐 Lua | 📅 2026-10-19 - CMake integration.
+* [Zeioth/compiler.nvim](https://github.com/Zeioth/compiler.nvim) ⭐ 671 | 🐛 9 | 🌐 Lua | 📅 2025-08-14 - Compiler for building and running your code without having to configure anything.
+* [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ⭐ 562 | 🐛 14 | 🌐 Lua | 📅 2026-10-19 - CMake integration.
 * [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) ⭐ 253 | 🐛 2 | 🌐 Lua | 📅 2026-08-02 - Yet Another REPL, flexible, supporting multiple paradigms to interact with REPLs, and native dot repeat without other dependencies.
 * [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) ⭐ 215 | 🐛 0 | 🌐 Lua | 📅 2025-10-27 - Run and manage project jobs, supporting VSCode's `tasks.json` spec.
 * [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) ⭐ 196 | 🐛 3 | 🌐 Lua | 📅 2026-09-07 - Asynchronous compilation using the [compiler-explorer](https://godbolt.org/) REST API.
@@ -1365,19 +1365,19 @@ then it is not supported:
 * [pianocomposer321/officer.nvim](https://github.com/pianocomposer321/officer.nvim) ⭐ 23 | 🐛 3 | 🌐 Lua | 📅 2026-05-17 - Like dispatch.vim but using overseer.nvim.
 * [trimclain/builder.nvim](https://github.com/trimclain/builder.nvim) ⭐ 22 | 🐛 2 | 🌐 Lua | 📅 2026-10-18 - Build and run files with configurable commands and output in split or floating windows, inspired by Sublime Text's build system.
 * [idanarye/nvim-moonicipal](https://github.com/idanarye/nvim-moonicipal) ⭐ 20 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Task runner with focus on rapidly changing personal tasks.
-* [hadishahpuri/nvimlaunch](https://github.com/hadishahpuri/nvimlaunch) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Define, run, and manage project-specific commands.
 * [ok97465/ipybridge.nvim](https://github.com/ok97465/ipybridge.nvim) ⭐ 13 | 🐛 4 | 🌐 Lua | 📅 2026-03-20 - Run Python code, execute Jupyter cells, debug, and explore variables.
+* [hadishahpuri/nvimlaunch](https://github.com/hadishahpuri/nvimlaunch) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-09-03 - Define, run, and manage project-specific commands.
 * [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2023-12-29 - Run static site generator commands.
-* [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
+* [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Edit Jupyter notebooks as native buffers with LSP integration, rich inline outputs and interactive component rendering.
 * [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 * [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) ⭐ 9 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - - Bazel integration through its *Build Event Protocol* to find, fetch, and parse error logs for failed build actions, including logs stored remotely.
 * [speelbarrow/spLauncher.nvim](https://github.com/speelbarrow/spLauncher.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2024-07-02 - For launching tasks, I guess.
-* [bytehound-labs/nvim-flow](https://github.com/bytehound-labs/nvim-flow) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
+* [bytehound-labs/nvim-flow](https://github.com/bytehound-labs/nvim-flow) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - File-scoped command runner with YAML configuration, command preview, debug integration, and traceback quickfix.
 * [sektant1/executioner.nvim](https://github.com/sektant1/executioner.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-05-03 - Script picker and runner to find and run any script from your project directory, with or without arguments.
 * [niuiic/task.nvim](https://github.com/niuiic/task.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-02-26 - Another highly configurable task manager that enables seamless interaction with tasks.
 * [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) ⭐ 6 | 🐛 1 | 🌐 Lua | 📅 2026-07-17 - Async code runner with range support.
 * [negativo/nx-nvim](https://github.com/negativo/nx-nvim) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-06-03 - Telescope picker for NX monorepo projects and targets, running the selected one in a split terminal.
-* [pewpewnor/dove.nvim](https://github.com/pewpewnor/dove.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
+* [pewpewnor/dove.nvim](https://github.com/pewpewnor/dove.nvim) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Define and execute arbitrary shell commands or Lua code on the fly for file, project, or global contexts.
 * [JulOuellet/bzl.nvim](https://github.com/JulOuellet/bzl.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-09-24 - Bazel integration: target picker and tree, run/test/build with streaming output, and LSP support for Bazel-managed dependencies.
 * [caskstrength/nvim-soil](https://codeberg.org/caskstrength/nvim-soil) - Run PlantUML script and generate UML design.
 
@@ -1389,8 +1389,8 @@ then it is not supported:
 
 ## Neovim Lua Development
 
-* [nvim-mini/mini.nvim#mini.doc](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-doc.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
-* [nvim-mini/mini.nvim#mini.test](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with framework for writing extensive plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
+* [nvim-mini/mini.nvim#mini.doc](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-doc.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for generation of help files from EmmyLua-like annotations. Allows flexible customization of output via hook functions.
+* [nvim-mini/mini.nvim#mini.test](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-test.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with framework for writing extensive plugin tests with support for hierarchical tests, hooks, parametrization, filtering, screen tests, "busted-style" emulation, customizable reporters, and more.
 * [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) ⭐ 3,498 | 🐛 158 | 🌐 Lua | 📅 2026-04-10 - Plenary: full; complete; entire; absolute; unqualified. All the Lua functions I don't want to write twice.
 * [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ⭐ 2,131 | 🐛 23 | 🌐 Lua | 📅 2026-08-22 - UI Component Library.
 * [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) ⭐ 1,582 | 🐛 8 | 🌐 Lua | 📅 2026-03-14 - Faster LuaLS setup.
@@ -1410,10 +1410,10 @@ then it is not supported:
 * [milisims/nvim-luaref](https://github.com/milisims/nvim-luaref) ⭐ 127 | 🐛 3 | 🌐 Vim script | 📅 2024-07-10 - A reference for built-in Lua functions.
 * [YaroSpace/lua-console.nvim](https://github.com/YaroSpace/lua-console.nvim) ⭐ 96 | 🐛 1 | 🌐 Lua | 📅 2025-11-24 - A handy scratch pad / REPL / debug console for built-in Lua development.
 * [saghen/blink.lib](https://github.com/saghen/blink.lib) ⭐ 65 | 🐛 7 | 🌐 Lua | 📅 2026-09-18 - Generic utilities for all other `blink.*` plugins.
-* [lumen-oss/luarocks-tag-release](https://github.com/lumen-oss/luarocks-tag-release) ⭐ 57 | 🐛 8 | 🌐 Lua | 📅 2026-10-17 - A GitHub action that publishes your plugins to LuaRocks.
+* [lumen-oss/luarocks-tag-release](https://github.com/lumen-oss/luarocks-tag-release) ⭐ 57 | 🐛 8 | 🌐 Lua | 📅 2026-10-20 - A GitHub action that publishes your plugins to LuaRocks.
 * [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ⭐ 47 | 🐛 0 | 🌐 Lua | 📅 2022-09-18 - Create animations.
 * [svermeulen/nvim-lusc](https://github.com/svermeulen/nvim-lusc) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2024-02-23 - Adds support for Structured Async/Concurrency in Lua.
-* [chrisgve/databox.nvim](https://github.com/chrisgve/databox.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-05-26 - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) ⭐ 23,974 | 🐛 22 | 🌐 Go | 📅 2026-08-29 or compatible encryption tools for cryptographic safety.
+* [chrisgve/databox.nvim](https://github.com/chrisgve/databox.nvim) ⭐ 13 | 🐛 0 | 🌐 Lua | 📅 2026-05-26 - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) ⭐ 23,990 | 🐛 22 | 🌐 Go | 📅 2026-08-29 or compatible encryption tools for cryptographic safety.
 * [2KAbhishek/utils.nvim](https://github.com/2KAbhishek/utils.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - Powerful utilities to speed up plugin development.
 * [nfrid/treesitter-utils](https://github.com/nfrid/treesitter-utils) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2024-06-13 - Some useful Tree-sitter methods.
 * [niuiic/omega.nvim](https://github.com/niuiic/omega.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-09-29 - Missing functions for Lua plugin development.
@@ -1427,13 +1427,13 @@ then it is not supported:
 
 ## Fennel
 
-* [Olical/conjure](https://github.com/Olical/conjure) ⭐ 2,149 | 🐛 93 | 🌐 Fennel | 📅 2026-10-09 - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+* [Olical/conjure](https://github.com/Olical/conjure) ⭐ 2,148 | 🐛 93 | 🌐 Fennel | 📅 2026-10-09 - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 * [Olical/aniseed](https://github.com/Olical/aniseed) ⭐ 644 | 🐛 7 | 🌐 Fennel | 📅 2025-06-12 - Configure and extend your editor with Fennel.
 * [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ⭐ 402 | 🐛 0 | 🌐 Fennel | 📅 2026-07-29 - Seamless, transparent Fennel inside your editor.
 * [Olical/nfnl](https://github.com/Olical/nfnl) ⭐ 369 | 🐛 9 | 🌐 Fennel | 📅 2026-10-09 - Streamlined successor to Aniseed, compiling Fennel to Lua on file write.
 * [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ⭐ 225 | 🐛 9 | 🌐 Fennel | 📅 2024-10-18 - Tangerine provides a painless way to add Fennel to your config.
 * [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) ⭐ 105 | 🐛 3 | 🌐 Fennel | 📅 2024-07-21 - Highly opinionated macros to elegantly write your config.
-* [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) ⭐ 42 | 🐛 4 | 🌐 Fennel | 📅 2026-10-03 - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) ⭐ 632 | 🐛 34 | 🌐 Rust | 📅 2026-08-15 integration.
+* [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) ⭐ 41 | 🐛 4 | 🌐 Fennel | 📅 2026-10-03 - Zero-overhead Fennel JIT compiler with safety rollbacks and [parinfer-rust](https://github.com/eraserhd/parinfer-rust) ⭐ 632 | 🐛 34 | 🌐 Rust | 📅 2026-08-15 integration.
 
 <!--lint disable double-link -->
 
@@ -1443,14 +1443,14 @@ then it is not supported:
 
 ## Dependency Management
 
-* [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) ⭐ 1,126 | 🐛 10 | 🌐 Lua | 📅 2026-09-12 - Rust dependency management for `Cargo.toml`.
-* [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) ⭐ 601 | 🐛 0 | 🌐 Lua | 📅 2026-09-02 - Display latest package version as virtual text in package.json.
+* [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) ⭐ 1,127 | 🐛 10 | 🌐 Lua | 📅 2026-09-12 - Rust dependency management for `Cargo.toml`.
+* [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) ⭐ 600 | 🐛 0 | 🌐 Lua | 📅 2026-09-02 - Display latest package version as virtual text in package.json.
 * [piersolenski/import.nvim](https://github.com/piersolenski/import.nvim) ⭐ 263 | 🐛 0 | 🌐 Lua | 📅 2026-04-05 - Import modules faster based on what you've already imported in your project.
 * [JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar.nvim) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - C# dependency manager with support for handling references between projects and solution files.
-* [Silletr/LazyDeveloperHelper](https://github.com/Silletr/LazyDeveloperHelper) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-07-05 - Python dependencies manager, with auto-adding to your `requirements.txt` file.
-* [taigrr/glaze.nvim](https://github.com/taigrr/glaze.nvim) ⭐ 12 | 🐛 1 | 🌐 Lua | 📅 2026-09-20 - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
-* [mm4cN/nvim-conan](https://github.com/mm4cN/nvim-conan) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-09-21 - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
+* [Silletr/LazyDeveloperHelper](https://github.com/Silletr/LazyDeveloperHelper) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-07-05 - Python dependencies manager, with auto-adding to your `requirements.txt` file.
+* [taigrr/glaze.nvim](https://github.com/taigrr/glaze.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Centralized manager for Go binaries, with parallel installs, auto-update checking, and a Mason-style UI.
 * [DrKJeff16/pipenv.nvim](https://github.com/DrKJeff16/pipenv.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-10-13 - Asynchronous `Pipenv` manager with `spinner.nvim` integration.
+* [mm4cN/nvim-conan](https://github.com/mm4cN/nvim-conan) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-09-21 - Conan 2 integration for managing profiles, packages, remotes, dependencies, and common C/C++ package workflows.
 * [cosmicbuffalo/gem\_install.nvim](https://github.com/cosmicbuffalo/gem_install.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-02-09 - Install Ruby gems, trigger `bundle install` and `gem install` with progress and caching to prevent retries when installs fail.
 * [jpease/hex-outdated.nvim](https://github.com/jpease/hex-outdated.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Display latest Hex package version and status as virtual text in `mix.exs`.
 
@@ -1462,29 +1462,29 @@ then it is not supported:
 
 ## Git
 
-* [nvim-mini/mini.nvim#mini.diff](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-diff.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
-* [nvim-mini/mini.nvim#mini.git](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-git.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for enhanced Git integration with current editor process that implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
-* [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) ⭐ 7,145 | 🐛 36 | 🌐 Lua | 📅 2026-10-13 - Git integration: signs, hunk actions, blame, etc.
-* [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) ⭐ 5,656 | 🐛 202 | 🌐 Lua | 📅 2026-10-14 - A Magit clone that may change some things to fit the Vim philosophy.
-* [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ⭐ 2,375 | 🐛 52 | 🌐 Lua | 📅 2026-09-20 - Plugin for calling lazygit.
-* [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) ⭐ 1,602 | 🐛 77 | 🌐 Lua | 📅 2026-09-15 - Side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+* [nvim-mini/mini.nvim#mini.diff](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-diff.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
+* [nvim-mini/mini.nvim#mini.git](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-git.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for enhanced Git integration with current editor process that implements tracking of Git related data, `:Git` user command, and various helpers to explore Git history.
+* [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) ⭐ 7,144 | 🐛 36 | 🌐 Lua | 📅 2026-10-13 - Git integration: signs, hunk actions, blame, etc.
+* [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) ⭐ 5,657 | 🐛 202 | 🌐 Lua | 📅 2026-10-14 - A Magit clone that may change some things to fit the Vim philosophy.
+* [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ⭐ 2,377 | 🐛 52 | 🌐 Lua | 📅 2026-09-20 - Plugin for calling lazygit.
+* [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) ⭐ 1,603 | 🐛 77 | 🌐 Lua | 📅 2026-09-15 - Side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 * [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) ⭐ 1,111 | 🐛 12 | 🌐 Lua | 📅 2025-11-05 - Show Git blame info.
 * [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) ⭐ 845 | 🐛 17 | 🌐 Lua | 📅 2026-10-18 - Visual Git Plugin to enhance your Git experience.
 * [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) ⭐ 476 | 🐛 17 | 🌐 Lua | 📅 2026-06-07 - Git GUI powered by [libgit2](https://libgit2.org).
 * [harrisoncramer/GitLab.nvim](https://github.com/harrisoncramer/GitLab.nvim) ⭐ 403 | 🐛 17 | 🌐 Lua | 📅 2026-10-14 - Review pull requests and manage other GitLab resources.
 * [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) ⭐ 390 | 🐛 6 | 🌐 Lua | 📅 2025-12-09 - Search your Git history by commit content, message and author with Telescope.
-* [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ⭐ 359 | 🐛 12 | 🌐 Lua | 📅 2026-10-14 - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
-* [chojs23/ec](https://github.com/chojs23/ec) ⭐ 316 | 🐛 1 | 🌐 Go | 📅 2026-09-11 - A TUI native Git mergetool with 3 panes.
+* [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ⭐ 360 | 🐛 12 | 🌐 Lua | 📅 2026-10-14 - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev. Maintained fork of sindrets/diffview\.nvim.
+* [chojs23/ec](https://github.com/chojs23/ec) ⭐ 317 | 🐛 1 | 🌐 Go | 📅 2026-09-11 - A TUI native Git mergetool with 3 panes.
 * [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) ⭐ 284 | 🐛 4 | 🌐 Lua | 📅 2026-10-09 - Maintained fork of "ruifm's gitlinker", refactored with bug fixes, ssh aliases, blame support and other improvements.
 * [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) ⭐ 215 | 🐛 0 | 🌐 Lua | 📅 2026-08-12 - Lightweight and nimble Git client.
 * [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) ⭐ 202 | 🐛 3 | 🌐 Lua | 📅 2026-10-11 - Syntax highlighting for diffs with Tree-sitter support for `vim-fugitive` and `&diff` buffers.
 * [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) ⭐ 188 | 🐛 3 | 🌐 Vim Script | 📅 2026-03-18 - A small plugin that uses the virtual text to print Git blame info at the end of the current line.
 * [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) ⭐ 143 | 🐛 1 | 🌐 Lua | 📅 2026-09-16 - Displaying inline unified diffs directly in your buffer.
-* [kokusenz/deltaview.nvim](https://github.com/kokusenz/deltaview.nvim) ⭐ 127 | 🐛 7 | 🌐 Lua | 📅 2026-08-12 - Inline/unified diff viewer with Tree-sitter syntax highlighting and diff highlighting in the style of [delta](https://github.com/dandavison/delta) ⭐ 32,536 | 🐛 492 | 🌐 Rust | 📅 2026-10-17, with enhanced navigational features.
+* [kokusenz/deltaview.nvim](https://github.com/kokusenz/deltaview.nvim) ⭐ 126 | 🐛 7 | 🌐 Lua | 📅 2026-08-12 - Inline/unified diff viewer with Tree-sitter syntax highlighting and diff highlighting in the style of [delta](https://github.com/dandavison/delta) ⭐ 32,546 | 🐛 492 | 🌐 Rust | 📅 2026-10-17, with enhanced navigational features.
 * [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) ⭐ 116 | 🐛 1 | 🌐 Lua | 📅 2026-09-22 - Open remote Git repositories while editing.
 * [trevorhauter/gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim) ⭐ 93 | 🐛 0 | 🌐 Lua | 📅 2025-12-21 - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
 * [isak102/telescope-git-file-history.nvim](https://github.com/isak102/telescope-git-file-history.nvim) ⭐ 93 | 🐛 2 | 🌐 Lua | 📅 2026-02-16 - Open/preview contents of the current file at a specific commit, without using `git checkout`.
-* [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ⭐ 85 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Frontend for Jujutsu in the style of `fugitive`.
+* [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ⭐ 84 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Frontend for Jujutsu in the style of `fugitive`.
 * [spacedentist/resolve.nvim](https://github.com/spacedentist/resolve.nvim) ⭐ 66 | 🐛 9 | 🌐 Lua | 📅 2026-01-25 - Resolve merge conflicts with ease.
 * [StackInTheWild/headhunter.nvim](https://github.com/StackInTheWild/headhunter.nvim) ⭐ 58 | 🐛 0 | 🌐 Lua | 📅 2025-10-22 - Fast and simple utility to hunt and resolve merge conflicts.
 * [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ⭐ 44 | 🐛 0 | 🌐 Lua | 📅 2025-10-16 - Quickly add co-authors to commits.
@@ -1492,7 +1492,7 @@ then it is not supported:
 * [YouSame2/inlinediff-nvim](https://github.com/YouSame2/inlinediff-nvim) ⭐ 33 | 🐛 1 | 🌐 Lua | 📅 2026-02-11 - Provides a better inline Git diff view, meant to be used alongside your favorite Git plugin (e.g. `gitsigns`).
 * [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) ⭐ 33 | 🐛 1 | 🌐 Lua | 📅 2025-07-19 - Show diff automatically when Git rebase.
 * [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2022-10-19 - Plugin using [gfold](https://github.com/nickgerace/gfold) ⭐ 401 | 🐛 8 | 🌐 Rust | 📅 2026-09-25 to switch repo and have statusline component.
-* [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2026-07-30 - Diff between multiple Git commits, similar to JetBrains's Git log.
+* [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ⭐ 23 | 🐛 0 | 🌐 Lua | 📅 2026-07-30 - Diff between multiple Git commits, similar to JetBrains's Git log.
 * [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2023-12-08 - Generate shareable HTTP permalinks for various Git web frontends.
 * [niuiic/git-log.nvim](https://github.com/niuiic/git-log.nvim) ⭐ 22 | 🐛 0 | 🌐 Lua | 📅 2025-02-26 - Check Git log of the selected code.
 * [Yu-Leo/blame-column.nvim](https://github.com/Yu-Leo/blame-column.nvim) ⭐ 20 | 🐛 5 | 🌐 Lua | 📅 2025-04-16 - Show Git blame info.
@@ -1505,19 +1505,19 @@ then it is not supported:
 * [Enigama/remarks.nvim](https://github.com/Enigama/remarks.nvim) ⭐ 10 | 🐛 0 | 🌐 Lua | 📅 2026-01-17 - Personal developer notes attached to Git commits.
 * [BibekBhusal0/nvim-git-utils](https://github.com/BibekBhusal0/nvim-git-utils) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-06-30 - Simple commands to make life easier while working with Git.
 * [ajatdarojat45/commitmate.nvim](https://github.com/ajatdarojat45/commitmate.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2025-12-24 - An AI-assisted commit message generator following common commit conventions.
-* [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
+* [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Compare any two selected regions of code with character-level diff highlighting powered by VSCode's diff algorithm.
 * [Darkskittlz/GitCompanion](https://github.com/Darkskittlz/GitCompanion) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 - A lightweight, terminal-native Git interface. Inspect diffs, manage branches, stage modified files, manage stashes, and handle merges or commits.
 * [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-08-24 - GitLab CI/CD integration for browsing and running pipelines, inspecting jobs and logs, retrying jobs, and downloading artifacts.
 
 ### GitHub
 
-* [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) ⭐ 3,400 | 🐛 252 | 🌐 Lua | 📅 2026-10-13 - Work with GitHub issues and PRs.
+* [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) ⭐ 3,401 | 🐛 252 | 🌐 Lua | 📅 2026-10-13 - Work with GitHub issues and PRs.
 * [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) ⭐ 650 | 🐛 35 | 🌐 Lua | 📅 2025-01-21 - A fully featured GitHub integration for performing code reviews.
-* [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) ⭐ 223 | 🐛 23 | 🌐 Lua | 📅 2026-06-25 - View any GitHub object, including CI logs.
+* [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) ⭐ 223 | 🐛 20 | 🌐 Lua | 📅 2026-10-20 - View any GitHub object, including CI logs.
 * [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) ⭐ 217 | 🐛 0 | 🌐 Lua | 📅 2026-05-12 - Create a GitHub Gist from the current file (powered by gh).
 * [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) ⭐ 184 | 🐛 3 | 🌐 Lua | 📅 2026-07-22 - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 * [2KAbhishek/octohub.nvim](https://github.com/2KAbhishek/octohub.nvim) ⭐ 78 | 🐛 0 | 🌐 Lua | 📅 2026-07-16 - Access all your gihub repos, stats and more in simple keystrokes.
-* [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ⭐ 32 | 🐛 2 | 🌐 Lua | 📅 2026-08-23 - Review GitHub PRs.
+* [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ⭐ 31 | 🐛 2 | 🌐 Lua | 📅 2026-08-23 - Review GitHub PRs.
 * [claydugo/browsher.nvim](https://github.com/claydugo/browsher.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-08-13 - Create commit pinned links to GitHub hosted files/lines.
 * [3ZsForInsomnia/revman.nvim](https://github.com/3ZsForInsomnia/revman.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-10-18 - Track PRs that need review automatically and open them in Octo.nvim.
 * [comatory/gh-co.nvim](https://github.com/comatory/gh-co.nvim) ⭐ 6 | 🐛 0 | 🌐 Lua | 📅 2025-12-28 - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
@@ -1532,17 +1532,17 @@ then it is not supported:
 
 ## Motion
 
-* [nvim-mini/mini.nvim#mini.jump](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for smarter jumping to a single character.
-* [nvim-mini/mini.nvim#mini.jump2d](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump2d.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
-* [nvim-mini/mini.nvim#mini.bracketed](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bracketed.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to go forward/backward with square brackets.
+* [nvim-mini/mini.nvim#mini.jump](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for smarter jumping to a single character.
+* [nvim-mini/mini.nvim#mini.jump2d](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-jump2d.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for smarter jumping within visible lines via iterative label filtering. Supports custom jump targets (spots), labels, hooks, allowed windows and lines, and more.
+* [nvim-mini/mini.nvim#mini.bracketed](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bracketed.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to go forward/backward with square brackets.
 * [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) ⭐ 5,028 | 🐛 27 | 📅 2026-10-05 - A refined successor of Lightspeed, aiming to establish a widely accepted standard interface extension for moving around in Vim-like editors.
-* [folke/flash.nvim](https://github.com/folke/flash.nvim) ⭐ 4,264 | 🐛 29 | 🌐 Lua | 📅 2026-08-22 - Navigate your code with search labels, enhanced character motions and Tree-sitter integration.
+* [folke/flash.nvim](https://github.com/folke/flash.nvim) ⭐ 4,265 | 🐛 29 | 🌐 Lua | 📅 2026-08-22 - Navigate your code with search labels, enhanced character motions and Tree-sitter integration.
 * [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) ⚠️ Archived - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
 * [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) ⭐ 1,389 | 🐛 7 | 🌐 Lua | 📅 2026-10-15 - Precognition uses virtual text and gutter signs to show available motions.
 * [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) ⭐ 904 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
-* [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) ⭐ 885 | 🐛 7 | 🌐 Lua | 📅 2024-12-10 - Jump out of bracket pairs, quotes, objects, etc.
-* [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) ⭐ 808 | 🐛 32 | 🌐 Lua | 📅 2026-08-14 - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
-* [Aaronik/Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim) ⭐ 616 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 - Move seamlessly around the abstract syntax tree.
+* [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) ⭐ 884 | 🐛 7 | 🌐 Lua | 📅 2024-12-10 - Jump out of bracket pairs, quotes, objects, etc.
+* [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) ⭐ 807 | 🐛 32 | 🌐 Lua | 📅 2026-08-14 - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
+* [Aaronik/Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim) ⭐ 615 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 - Move seamlessly around the abstract syntax tree.
 * [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) ⭐ 411 | 🐛 18 | 🌐 Lua | 📅 2025-10-09 - Enhanced f/t motions for Leap.
 * [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) ⭐ 367 | 🐛 7 | 🌐 Lua | 📅 2024-09-12 - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 * [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) ⭐ 366 | 🐛 7 | 🌐 Lua | 📅 2024-06-03 - Build upon and enhance existing jumplist motions (i.e. `<c-i>` and `<c-o>`).
@@ -1579,17 +1579,17 @@ then it is not supported:
 
 ## Keybinding
 
-* [nvim-mini/mini.nvim#mini.clue](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
-* [nvim-mini/mini.nvim#mini.keymap](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
-* [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ⭐ 7,325 | 🐛 42 | 🌐 Lua | 📅 2025-10-28 - Shows a popup with possible keybindings of the command you started typing.
+* [nvim-mini/mini.nvim#mini.clue](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-clue.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to show next key clues. Has opt-in triggers, shows next key information after customizable delay, allows hydra-like submodes, and more.
+* [nvim-mini/mini.nvim#mini.keymap](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-keymap.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
+* [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ⭐ 7,324 | 🐛 42 | 🌐 Lua | 📅 2025-10-28 - Shows a popup with possible keybindings of the command you started typing.
 * [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ⚠️ Archived - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
-* [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) ⭐ 798 | 🐛 3 | 🌐 Lua | 📅 2026-04-22 - Create shortcuts to escape insert mode without getting delay.
+* [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) ⭐ 797 | 🐛 3 | 🌐 Lua | 📅 2026-04-22 - Create shortcuts to escape insert mode without getting delay.
 * [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) ⭐ 545 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Mouse gesture plugin.
 * [FeiyouG/commander.nvim](https://github.com/FeiyouG/commander.nvim) ⭐ 430 | 🐛 7 | 🌐 Lua | 📅 2024-06-08 - Create and manage keybindings and commands in a more organized manner and search them quickly through Telescope.
 * [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ⭐ 291 | 🐛 2 | 🌐 Lua | 📅 2026-08-03 - Simplifying and improving how you interact with macros.
-* [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) ⭐ 287 | 🐛 10 | 🌐 Lua | 📅 2025-05-03 - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
-* [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) ⭐ 252 | 🐛 8 | 🌐 Lua | 📅 2026-03-09 - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+* [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) ⭐ 286 | 🐛 10 | 🌐 Lua | 📅 2025-05-03 - Create custom submodes and menus. Port of Emacs Hydra. Maintained fork of anuvyklack/hydra.nvim.
 * [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) ⭐ 251 | 🐛 2 | 🌐 Lua | 📅 2026-03-24 - Auto translating your mappings for non-English input methods.
+* [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) ⭐ 251 | 🐛 8 | 🌐 Lua | 📅 2026-03-09 - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 * [LionC/nest.nvim](https://github.com/LionC/nest.nvim) ⭐ 234 | 🐛 9 | 🌐 Lua | 📅 2022-10-28 - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
 * [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) ⭐ 132 | 🐛 0 | 🌐 Lua | 📅 2026-10-09 - Use `;` and `,` keys to also repeat jumps to diagnostics (e.g. `]d`) and to [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects?tab=readme-ov-file#text-objects-move) ⭐ 2,821 | 🐛 130 | 🌐 Tree-sitter Query | 📅 2026-09-03 (e.g. `]f`), in addition to repeating `t`/`T`/`f`/`F`.
 * [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) ⭐ 86 | 🐛 3 | 🌐 Lua | 📅 2023-05-29 - Easily create your own operators (like `d` and `y`).
@@ -1617,8 +1617,8 @@ then it is not supported:
 
 ### Scrollbar
 
-* [nvim-mini/mini.nvim#mini.map](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
-* [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) ⭐ 1,073 | 🐛 33 | 🌐 Lua | 📅 2026-10-19 - Extensible scrollbar that shows diagnostics and search results.
+* [nvim-mini/mini.nvim#mini.map](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-map.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to show floating window with buffer text overview, scrollbar, and highlights.
+* [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) ⭐ 1,073 | 🐛 33 | 🌐 Lua | 📅 2026-10-20 - Extensible scrollbar that shows diagnostics and search results.
 * [lewis6991/satellite.nvim](https://github.com/lewis6991/satellite.nvim) ⭐ 752 | 🐛 17 | 🌐 Lua | 📅 2026-05-01 - Decorate scrollbar.
 * [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) ⭐ 705 | 🐛 5 | 🌐 Lua | 📅 2026-08-10 - Display interactive scrollbars.
 * [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) ⭐ 489 | 🐛 26 | 🌐 Lua | 📅 2025-05-22 - Minimap plugin, that is closely integrated with Tree-sitter and the built-in LSP to display more information to the user.
@@ -1634,24 +1634,24 @@ then it is not supported:
 
 ## Editing Support
 
-* [nvim-mini/mini.nvim#mini.pairs](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pairs.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
-* [nvim-mini/mini.nvim#mini.trailspace](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-trailspace.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
-* [nvim-mini/mini.nvim#mini.operators](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
-* [nvim-mini/mini.nvim#mini.move](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-move.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
-* [nvim-mini/mini.nvim#mini.ai](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-ai.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some built-in textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
-* [nvim-mini/mini.nvim#mini.splitjoin](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-splitjoin.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
-* [nvim-mini/mini.nvim#mini.basics](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-basics.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
+* [nvim-mini/mini.nvim#mini.pairs](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-pairs.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for autopairs which has minimal defaults and functionality to do per-key mapping.
+* [nvim-mini/mini.nvim#mini.trailspace](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-trailspace.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for automatic highlighting of trailing whitespace with functionality to remove it.
+* [nvim-mini/mini.nvim#mini.operators](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-operators.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with various text edit operators: replace, exchange, multiply, sort, evaluate.
+* [nvim-mini/mini.nvim#mini.move](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-move.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to move any selection (charwise, linewise, blockwise, current line in Normal mode) in any direction. Handles both `v:count` and undo history.
+* [nvim-mini/mini.nvim#mini.ai](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-ai.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for extending and creating `a`/`i` textobjects. It enhances some built-in textobjects, creates extensive set of new ones (like `a*`, `a<Space>`, `a?`, and more), and allows user to create their own (via Lua patterns or functions). Supports dot-repeat, different search methods, consecutive application, and more.
+* [nvim-mini/mini.nvim#mini.splitjoin](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-splitjoin.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to split and join arguments. Has customizable pre and post hooks. Works inside comments.
+* [nvim-mini/mini.nvim#mini.basics](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-basics.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` with customizable configuration presets for common options, mappings, and autocommands.
 * [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) ⭐ 4,101 | 🐛 15 | 🌐 Lua | 📅 2026-10-10 - A minimalist autopairs written by Lua.
 * [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) ⭐ 3,239 | 🐛 16 | 🌐 Janet | 📅 2026-10-09 - Shows floating hover with the current function/block context.
 * [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) ⭐ 2,162 | 🐛 18 | 🌐 Lua | 📅 2025-10-28 - Distraction-free coding.
 * [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) ⭐ 2,125 | 🐛 7 | 🌐 Lua | 📅 2026-10-03 - Use Tree-sitter to autoclose and autorename XML, HTML, JSX tag.
-* [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) ⭐ 1,541 | 🐛 1 | 🌐 Lua | 📅 2026-10-16 - Adds support for multiple cursors which work how you expect.
-* [Wansmer/treesj](https://github.com/Wansmer/treesj) ⭐ 1,365 | 🐛 8 | 🌐 Lua | 📅 2026-09-23 - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-sitter. Inspired by greatest splitjoin.vim.
-* [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) ⭐ 1,288 | 🐛 33 | 🌐 Lua | 📅 2026-10-19 - Improved Yank and Put functionalities.
-* [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) ⭐ 1,113 | 🐛 19 | 🌐 Lua | 📅 2025-12-21 - Extended increment/decrement.
+* [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) ⭐ 1,542 | 🐛 1 | 🌐 Lua | 📅 2026-10-16 - Adds support for multiple cursors which work how you expect.
+* [Wansmer/treesj](https://github.com/Wansmer/treesj) ⭐ 1,364 | 🐛 8 | 🌐 Lua | 📅 2026-09-23 - Splitting/joining blocks of code like arrays, hashes, statements, objects, dictionaries, etc. Using Tree-sitter. Inspired by greatest splitjoin.vim.
+* [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) ⭐ 1,289 | 🐛 33 | 🌐 Lua | 📅 2026-10-19 - Improved Yank and Put functionalities.
+* [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) ⭐ 1,114 | 🐛 19 | 🌐 Lua | 📅 2025-12-21 - Extended increment/decrement.
 * [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) ⭐ 1,010 | 🐛 19 | 🌐 Lua | 📅 2026-04-06 - Tree-sitter based structural search and replace.
 * [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) ⭐ 971 | 🐛 2 | 🌐 Lua | 📅 2026-09-26 - Center the currently focused buffer to the middle of your terminal.
-* [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) ⭐ 893 | 🐛 19 | 🌐 Lua | 📅 2026-10-05 - Rainbow delimiters with Tree-sitter.
+* [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) ⭐ 894 | 🐛 19 | 🌐 Lua | 📅 2026-10-05 - Rainbow delimiters with Tree-sitter.
 * [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ⭐ 887 | 🐛 0 | 🌐 Lua | 📅 2026-09-28 - Peek lines in a non-obtrusive way.
 * [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) ⭐ 786 | 🐛 5 | 🌐 Lua | 📅 2025-01-31 - A telescope extension to visualize your undo tree and fuzzy-search changes in it.
 * [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) ⭐ 769 | 🐛 0 | 🌐 Lua | 📅 2026-08-03 - Bundle of more than 30 new text objects.
@@ -1662,27 +1662,27 @@ then it is not supported:
 * [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) ⭐ 540 | 🐛 10 | 🌐 Lua | 📅 2025-12-19 - Text editing with immediate visual feedback: preview commands such as `:norm`, `:g`, macros and more.
 * [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) ⭐ 525 | 🐛 10 | 🌐 Lua | 📅 2026-05-29 - Interactively select and swap function arguments, list elements, and more. Powered by Tree-sitter.
 * [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) ⭐ 424 | 🐛 1 | 🌐 Lua | 📅 2026-05-10 - A multi-cursor plugin that works in normal, insert/replace, or visual modes, and with almost every command.
-* [andersevenrud/nvim\_context\_vt](https://github.com/andersevenrud/nvim_context_vt) ⭐ 415 | 🐛 3 | 🌐 Lua | 📅 2026-08-03 - Shows virtual text of the current context.
+* [andersevenrud/nvim\_context\_vt](https://github.com/andersevenrud/nvim_context_vt) ⭐ 416 | 🐛 3 | 🌐 Lua | 📅 2026-08-03 - Shows virtual text of the current context.
 * [ckolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) ⭐ 379 | 🐛 16 | 🌐 Lua | 📅 2026-01-16 - A framework for executing functional transformations on Tree-sitter nodes.
-* [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ⭐ 368 | 🐛 13 | 🌐 Lua | 📅 2026-03-18 - Switching and restoring input method automatically depending on the edit mode.
+* [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ⭐ 369 | 🐛 13 | 🌐 Lua | 📅 2026-03-18 - Switching and restoring input method automatically depending on the edit mode.
 * [zbirenbaum/neodim](https://github.com/zbirenbaum/neodim) ⭐ 347 | 🐛 5 | 🌐 Lua | 📅 2025-01-09 - Dimming the highlights of unused functions, variables, parameters, and more.
-* [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) ⭐ 332 | 🐛 4 | 🌐 Lua | 📅 2026-10-17 - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
+* [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) ⭐ 333 | 🐛 4 | 🌐 Lua | 📅 2026-10-17 - Automatically saves your work as often as needed and as seldom as possible. Customizable with smart defaults. Maintained fork of Pocco81/auto-save.nvim.
 * [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) ⭐ 318 | 🐛 10 | 🌐 Lua | 📅 2024-01-04 - VSCode-like renaming UI, written in Lua.
 * [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) ⭐ 234 | 🐛 3 | 🌐 Lua | 📅 2024-08-11 - Provides explanation for RegExp.
 * [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) ⭐ 233 | 🐛 3 | 🌐 Lua | 📅 2025-10-23 - Plugin that adds a 'cut' operation separate from 'delete'.
 * [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) ⭐ 216 | 🐛 0 | 🌐 Lua | 📅 2026-04-17 - Sorting plugin that intelligently supports line-wise and delimiter sorting.
 * [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) ⭐ 204 | 🐛 3 | 🌐 Lua | 📅 2026-03-20 - Invert text, such as toggling between `true` and `false`.
 * [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) ⭐ 204 | 🐛 4 | 🌐 Lua | 📅 2022-07-19 - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
-* [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ⭐ 191 | 🐛 1 | 🌐 Lua | 📅 2026-08-15 - Undo tree for visualizing and managing undo history.
+* [XXiaoA/atone.nvim](https://github.com/XXiaoA/atone.nvim) ⭐ 190 | 🐛 1 | 🌐 Lua | 📅 2026-08-15 - Undo tree for visualizing and managing undo history.
 * [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) ⭐ 188 | 🐛 12 | 🌐 Lua | 📅 2024-06-06 - Toggle booleans and common string values.
 * [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) ⭐ 185 | 🐛 3 | 🌐 Lua | 📅 2026-04-06 - Different way to swapping arguments and other siblings with Tree-sitter.
 * [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ⭐ 180 | 🐛 0 | 🌐 Lua | 📅 2026-10-11 - Change keyword case.
-* [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) ⭐ 172 | 🐛 1 | 🌐 Lua | 📅 2026-10-14 - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
+* [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) ⭐ 171 | 🐛 1 | 🌐 Lua | 📅 2026-10-14 - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 * [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) ⭐ 168 | 🐛 6 | 🌐 Lua | 📅 2025-07-21 - Does the opposite of join-line (J) for arguments, powered by Tree-sitter.
 * [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) ⭐ 155 | 🐛 6 | 🌐 Rust | 📅 2025-09-22 - Move lines and blocks up and down easily, with indenting handled automatically as you move. Written in Rust.
 * [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) ⭐ 137 | 🐛 7 | 🌐 Lua | 📅 2025-11-23 - Ultimate smart pairs written by Lua.
 * [OXY2DEV/foldtext.nvim](https://github.com/OXY2DEV/foldtext.nvim) ⭐ 136 | 🐛 0 | 🌐 Lua | 📅 2026-09-04 - Dynamic and stylized foldtext.
-* [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ⭐ 127 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - Allow users to undo specific line/lines or partial selections without affecting the rest of the file.
+* [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ⭐ 126 | 🐛 0 | 🌐 Lua | 📅 2026-07-05 - Allow users to undo specific line/lines or partial selections without affecting the rest of the file.
 * [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) ⭐ 125 | 🐛 0 | 🌐 Lua | 📅 2026-09-02 - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 * [h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim) ⭐ 107 | 🐛 4 | 🌐 Lua | 📅 2026-08-28 - Switching and restoring fcitx state for each buffer separately.
 * [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) ⭐ 99 | 🐛 1 | 🌐 Lua | 📅 2023-01-23 - Prevent the cursor from moving when using shift and filter actions.
@@ -1690,7 +1690,7 @@ then it is not supported:
 * [tummetott/unimpaired.nvim](https://github.com/tummetott/unimpaired.nvim) ⚠️ Archived - Lua port of [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) ⭐ 3,463 | 🐛 56 | 🌐 Vim Script | 📅 2025-08-16.
 * [chrisgrieser/nvim-puppeteer](https://github.com/chrisgrieser/nvim-puppeteer) ⭐ 78 | 🐛 1 | 🌐 Lua | 📅 2026-09-09 - Automatically convert strings to f-strings or template strings and back.
 * [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ⭐ 77 | 🐛 1 | 🌐 Lua | 📅 2024-07-07 - Use Tree-sitter to conceal common boilerplate code.
-* [necrom4/convy.nvim](https://github.com/necrom4/convy.nvim) ⭐ 55 | 🐛 0 | 🌐 Lua | 📅 2026-06-07 - Easily convert strings between various formats.
+* [necrom4/convy.nvim](https://github.com/necrom4/convy.nvim) ⭐ 54 | 🐛 0 | 🌐 Lua | 📅 2026-06-07 - Easily convert strings between various formats.
 * [attilarepka/header.nvim](https://github.com/attilarepka/header.nvim) ⭐ 47 | 🐛 0 | 🌐 Lua | 📅 2026-09-29 - Add or update copyright and license headers in any source file.
 * [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) ⭐ 46 | 🐛 1 | 🌐 Lua | 📅 2025-12-20 - Insert file path in the current buffer using Telescope.
 * [wurli/split.nvim](https://github.com/wurli/split.nvim) ⭐ 39 | 🐛 1 | 🌐 Lua | 📅 2025-02-07 - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
@@ -1728,16 +1728,16 @@ then it is not supported:
 
 ### Comment
 
-* [nvim-mini/mini.nvim#mini.comment](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-comment.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for per-line commenting. Fully supports dot-repeat.
+* [nvim-mini/mini.nvim#mini.comment](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-comment.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for per-line commenting. Fully supports dot-repeat.
 * [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) ⭐ 4,669 | 🐛 87 | 🌐 Lua | 📅 2024-08-19 - Smart and powerful comment plugin. Supports commentstring, motions, dot-repeat and more.
-* [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ⭐ 4,215 | 🐛 25 | 🌐 Lua | 📅 2025-11-10 - Highlight, list and search TODO comments in your projects.
-* [danymat/neogen](https://github.com/danymat/neogen) ⭐ 1,654 | 🐛 46 | 🌐 Lua | 📅 2026-01-10 - A better annotation generator which supports multiple languages and annotation conventions.
+* [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ⭐ 4,214 | 🐛 25 | 🌐 Lua | 📅 2025-11-10 - Highlight, list and search TODO comments in your projects.
+* [danymat/neogen](https://github.com/danymat/neogen) ⭐ 1,653 | 🐛 46 | 🌐 Lua | 📅 2026-01-10 - A better annotation generator which supports multiple languages and annotation conventions.
 * [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) ⭐ 1,301 | 🐛 23 | 🌐 Lua | 📅 2026-04-04 - Sets the `commentstring` option based on the cursor location in the file. The location is checked via Tree-sitter queries.
 * [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) ⭐ 525 | 🐛 8 | 🌐 Lua | 📅 2023-11-29 - Commenting plugin written in Lua.
 * [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) ⭐ 506 | 🐛 17 | 🌐 Lua | 📅 2024-08-10 - Clarify and beautify your comments using boxes and lines.
 * [terrortylor/nvim-comment](https://github.com/terrortylor/nvim-comment) ⭐ 497 | 🐛 14 | 🌐 Lua | 📅 2024-05-29 - Toggle comments using the built-in commentstring option.
 * [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) ⭐ 114 | 🐛 4 | 🌐 Lua | 📅 2022-03-12 - A commenting plugin which supports counts and multiple comment patterns and much more.
-* [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) ⭐ 110 | 🐛 1 | 🌐 Lua | 📅 2026-07-14 - A powerful and customizable annotation framework with support for many languages and annotation conventions.
+* [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) ⭐ 109 | 🐛 1 | 🌐 Lua | 📅 2026-07-14 - A powerful and customizable annotation framework with support for many languages and annotation conventions.
 * [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) ⭐ 101 | 🐛 1 | 🌐 Lua | 📅 2025-08-05 - Adds a comment frame based on the source file.
 * [Zeioth/dooku.nvim](https://github.com/Zeioth/dooku.nvim) ⭐ 53 | 🐛 0 | 🌐 Lua | 📅 2025-06-24 - Generate and open your HTML code documentation.
 * [celeste3z/celeste\_comment.nvim](https://github.com/celeste3z/celeste_comment.nvim) ⭐ 44 | 🐛 0 | 🌐 Lua | 📅 2026-10-14 - VSCode-style commenting plugin with support for line and block comments, and textobjects.
@@ -1749,8 +1749,8 @@ then it is not supported:
 
 ### Folding
 
-* [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) ⭐ 2,962 | 🐛 46 | 🌐 Lua | 📅 2026-01-11 - Ultra fold with modern looking and performance boosting.
-* [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) ⭐ 537 | 🐛 3 | 🌐 Lua | 📅 2026-08-03 - Fold with relentless elegance.
+* [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) ⭐ 2,963 | 🐛 46 | 🌐 Lua | 📅 2026-01-11 - Ultra fold with modern looking and performance boosting.
+* [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) ⭐ 536 | 🐛 3 | 🌐 Lua | 📅 2026-08-03 - Fold with relentless elegance.
 * [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) ⭐ 92 | 🐛 0 | 🌐 Lua | 📅 2025-08-31 - Cycle folds open or closed.
 * [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) ⭐ 89 | 🐛 4 | 🌐 Lua | 📅 2023-08-12 - Hide certain elements inline like long CSS classes or `href` content.
 * [soemre/commentless.nvim](https://github.com/soemre/commentless.nvim) ⭐ 45 | 🐛 1 | 🌐 Lua | 📅 2025-04-26 - Fold all comments to better visualize your code logic, and unfold them whenever needed.
@@ -1767,11 +1767,11 @@ then it is not supported:
 
 ## Formatting
 
-* [nvim-mini/mini.nvim#mini.align](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-align.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
-* [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) ⭐ 5,387 | 🐛 103 | 🌐 Lua | 📅 2026-08-11 - A lightweight formatting engine that plays nice with LSP.
+* [nvim-mini/mini.nvim#mini.align](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-align.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for aligning text interactively (with or without instant preview).
+* [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) ⭐ 5,389 | 🐛 103 | 🌐 Lua | 📅 2026-08-11 - A lightweight formatting engine that plays nice with LSP.
 * [sbdchd/neoformat](https://github.com/sbdchd/neoformat) ⭐ 2,049 | 🐛 131 | 🌐 Vim Script | 📅 2026-04-13 - A code formatting runner.
 * [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ⭐ 1,447 | 🐛 44 | 🌐 Lua | 📅 2025-05-29 - A format runner written in Lua.
-* [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) ⭐ 517 | 🐛 0 | 🌐 Lua | 📅 2026-01-31 - Minimalist async formatting and linting plugin.
+* [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) ⭐ 516 | 🐛 0 | 🌐 Lua | 📅 2026-01-31 - Minimalist async formatting and linting plugin.
 * [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ⭐ 316 | 🐛 5 | 🌐 Lua | 📅 2025-04-08 - Prettier integration.
 * [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) ⭐ 172 | 🐛 6 | 🌐 Lua | 📅 2025-07-20 - A synchronous formatter that combines both LSP and non-LSP formatting (e.g. `shfmt`, `stylua`, `prettier`). Focused specifically for format-on-save.
 * [cappyzawa/trim.nvim](https://github.com/cappyzawa/trim.nvim) ⭐ 156 | 🐛 3 | 🌐 Lua | 📅 2026-06-18 - Trims trailing whitespace and lines.
@@ -1786,11 +1786,11 @@ then it is not supported:
 
 ### Indent
 
-* [nvim-mini/mini.nvim#mini.indentscope](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-indentscope.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for visualizing and operating on indent scope. Supports customization of debounce delay, animation style, and different granularity of options for scope computing algorithm.
+* [nvim-mini/mini.nvim#mini.indentscope](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-indentscope.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for visualizing and operating on indent scope. Supports customization of debounce delay, animation style, and different granularity of options for scope computing algorithm.
 * [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) ⭐ 4,999 | 🐛 27 | 🌐 Lua | 📅 2026-09-04 - IndentLine replacement in Lua with more features and Tree-sitter support.
 * [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ⭐ 924 | 🐛 37 | 🌐 Lua | 📅 2026-08-06 - A Lua implementation of `nvim-hlchunk`, contains more features, such as highlight `{}` chunk, indent line, space blank etc.
 * [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) ⭐ 669 | 🐛 18 | 🌐 Lua | 📅 2025-03-25 - Automatic indentation style detection.
-* [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) ⭐ 281 | 🐛 2 | 🌐 Lua | 📅 2026-01-04 - A minimal and blazing fast indentline plugin by using the `nvim_set_decoration_provide` API function.
+* [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) ⭐ 280 | 🐛 2 | 🌐 Lua | 📅 2026-01-04 - A minimal and blazing fast indentline plugin by using the `nvim_set_decoration_provide` API function.
 * [saghen/blink.indent](https://github.com/saghen/blink.indent) ⭐ 235 | 🐛 0 | 🌐 Lua | 📅 2026-09-09 - Performant indent guides with scope on every keystroke.
 * [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) ⭐ 210 | 🐛 0 | 🌐 Lua | 📅 2026-10-16 - Dumb automatic fast indentation detection written in Lua.
 * [VidocqH/auto-indent.nvim](https://github.com/VidocqH/auto-indent.nvim) ⭐ 92 | 🐛 0 | 🌐 Lua | 📅 2023-11-03 - Auto indent cursor when cursor at the first column and press `<TAB>` key like VSCode.
@@ -1807,7 +1807,7 @@ then it is not supported:
 
 ## Command Line
 
-* [nvim-mini/mini.nvim#mini.cmdline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
+* [nvim-mini/mini.nvim#mini.cmdline](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 * [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) ⭐ 1,483 | 🐛 64 | 🌐 Vim script | 📅 2024-07-17 - A plugin for fuzzy command line autocompletion.
 * [notomo/cmdbuf.nvim](https://github.com/notomo/cmdbuf.nvim) ⭐ 143 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Alternative command-line-window plugin.
 * [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) ⭐ 27 | 🐛 1 | 🌐 Lua | 📅 2026-09-20 - Provides Emacs' `M-x compile`, and the ability to wrap CLIs and TUIs as regular commands for your command line, with auto-generated tab-completions.
@@ -1821,11 +1821,11 @@ then it is not supported:
 
 ## Session
 
-* [nvim-mini/mini.nvim#mini.sessions](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for session management (read, write, delete).
+* [nvim-mini/mini.nvim#mini.sessions](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-sessions.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for session management (read, write, delete).
 * [rmagatti/auto-session](https://github.com/rmagatti/auto-session) ⭐ 1,868 | 🐛 17 | 🌐 Lua | 📅 2026-09-22 - A small automated session manager.
 * [folke/persistence.nvim](https://github.com/folke/persistence.nvim) ⭐ 1,013 | 🐛 9 | 🌐 Lua | 📅 2025-10-28 - Simple automated session management.
 * [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) ⭐ 616 | 🐛 17 | 🌐 Lua | 📅 2026-01-26 - A simple wrapper around :mksession.
-* [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) ⭐ 543 | 🐛 0 | 🌐 Lua | 📅 2026-10-15 - Simple session management with Git branching, autosave/autoload and Telescope support.
+* [olimorris/persisted.nvim](https://github.com/olimorris/persisted.nvim) ⭐ 544 | 🐛 0 | 🌐 Lua | 📅 2026-10-15 - Simple session management with Git branching, autosave/autoload and Telescope support.
 * [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) ⭐ 396 | 🐛 13 | 🌐 Lua | 📅 2025-10-21 - Flexible session management with arbitrary persistent data stored as JSON.
 * [coffebar/neovim-project](https://github.com/coffebar/neovim-project) ⭐ 306 | 🐛 5 | 🌐 Lua | 📅 2026-05-01 - Declarative project management, automatic saving of sessions, uses Telescope.
 * [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) ⭐ 289 | 🐛 3 | 🌐 Lua | 📅 2026-03-06 - The no-nonsense session manager.
@@ -1877,17 +1877,17 @@ then it is not supported:
 
 ## Split and Window
 
-* [nvim-mini/mini.nvim#mini.bufremove](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bufremove.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
-* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,738 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Smart, seamless, directional navigation and resizing of splits.
+* [nvim-mini/mini.nvim#mini.bufremove](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-bufremove.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for buffer removing (unshow, delete, wipeout) while saving window layout.
+* [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ⭐ 1,739 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Smart, seamless, directional navigation and resizing of splits.
 * [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) ⭐ 813 | 🐛 24 | 🌐 Lua | 📅 2026-02-08 - Auto-Focusing and Auto-Resizing Splits/Windows written in Lua! Vim splits on steroids.
 * [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) ⭐ 714 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - A configurable color split line.
-* [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) ⭐ 641 | 🐛 22 | 🌐 Lua | 📅 2023-07-08 - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations.
+* [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) ⭐ 642 | 🐛 22 | 🌐 Lua | 📅 2023-07-08 - Automatically expand width of the current window. Maximizes and restore it. And all this with nice animations.
 * [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) ⭐ 526 | 🐛 9 | 🌐 Lua | 📅 2024-05-20 - Rearrange your windows with ease.
 * [altermo/nwm](https://github.com/altermo/nwm) ⭐ 348 | 🐛 1 | 🌐 Lua | 📅 2026-10-18 - X11 window manager.
 * [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) ⭐ 185 | 🐛 0 | 🌐 Lua | 📅 2026-01-20 - Easily jump between windows.
 * [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) ⭐ 29 | 🐛 2 | 🌐 Lua | 📅 2023-06-01 - Layout preserving buffer deletion.
 * [jyscao/ventana.nvim](https://github.com/jyscao/ventana.nvim) ⭐ 24 | 🐛 0 | 🌐 Lua | 📅 2025-11-23 - Convenient flips and shifts for your windows layout.
-* [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) ⭐ 19 | 🐛 1 | 🌐 Lua | 📅 2026-07-21 - Navigate between tabs and the windows they contain.
+* [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) ⭐ 18 | 🐛 1 | 🌐 Lua | 📅 2026-07-21 - Navigate between tabs and the windows they contain.
 * [MisanthropicBit/winmove.nvim](https://github.com/MisanthropicBit/winmove.nvim) ⭐ 16 | 🐛 2 | 🌐 Lua | 📅 2026-04-02 - Easily move, swap, and resize windows.
 * [aronjohanns/smooth-resize.nvim](https://github.com/aronjohanns/smooth-resize.nvim) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2026-01-23 - Smooth, continuous window resizing with the default window resizing mappings.
 * [ycdzj/win-mover.nvim](https://github.com/ycdzj/win-mover.nvim) ⭐ 12 | 🐛 0 | 🌐 Lua | 📅 2026-08-20 - Window mover that avoids moving side windows.
@@ -1931,7 +1931,7 @@ then it is not supported:
 
 ### Competitive Programming
 
-* [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ⭐ 2,212 | 🐛 68 | 🌐 Lua | 📅 2026-04-28 - Solve Leetcode problems.
+* [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ⭐ 2,213 | 🐛 68 | 🌐 Lua | 📅 2026-04-28 - Solve Leetcode problems.
 * [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ⭐ 610 | 🐛 20 | 🌐 Lua | 📅 2025-05-13 - A plugin to automate testcases management and checking for Competitive Programming contests.
 * [2KAbhishek/exercism.nvim](https://github.com/2KAbhishek/exercism.nvim) ⭐ 47 | 🐛 0 | 🌐 Lua | 📅 2026-03-12 - Browse and solve Exercism problems.
 * [FrancescoDerme/tuna.nvim](https://github.com/FrancescoDerme/tuna.nvim) ⭐ 15 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Download problems with Competitive Companion, run testcases in parallel, stress-test against a brute-force reference solution, and submit to online judges.
@@ -1945,8 +1945,8 @@ then it is not supported:
 
 ## Toys
 
-* [folke/drop.nvim](https://github.com/folke/drop.nvim) ⭐ 352 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 - Screensavers with support for dashboards.
-* [axsaucedo/neovim-power-mode](https://github.com/axsaucedo/neovim-power-mode) ⭐ 98 | 🐛 2 | 🌐 Lua | 📅 2026-08-08 - Combo counter, particle effects and explosions for your editor.
+* [folke/drop.nvim](https://github.com/folke/drop.nvim) ⭐ 353 | 🐛 2 | 🌐 Lua | 📅 2025-10-28 - Screensavers with support for dashboards.
+* [axsaucedo/neovim-power-mode](https://github.com/axsaucedo/neovim-power-mode) ⭐ 97 | 🐛 2 | 🌐 Lua | 📅 2026-08-08 - Combo counter, particle effects and explosions for your editor.
 * [jerrywang1981/keystroke.nvim](https://github.com/jerrywang1981/keystroke.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-04-01 - Play sounds and do other things as you type.
 * [cxwx/keywound.nvim](https://github.com/cxwx/keysound.nvim) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-04-30 - Play a sound on each keystroke, supports customizable sounds.
 
@@ -1961,7 +1961,7 @@ then it is not supported:
 * [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) ⭐ 3,886 | 🐛 11 | 🌐 Lua | 📅 2026-10-02 - Helping you establish good command workflow and habit.
 * [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) ⭐ 472 | 🐛 2 | 🌐 Lua | 📅 2026-04-19 - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.
 * [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) ⚠️ Archived - Simplify macro management, enhance productivity, and create harmonious workflows.
-* [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) ⭐ 364 | 🐛 15 | 🌐 Lua | 📅 2026-10-19 - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
+* [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) ⭐ 371 | 🐛 15 | 🌐 Lua | 📅 2026-10-20 - A single workflow for GitHub, GitLab, Bitbucket, and Jira.
 * [letieu/jira.nvim](https://github.com/letieu/jira.nvim) ⭐ 270 | 🐛 2 | 🌐 Lua | 📅 2026-09-26 - Manage Jira tasks with a beautiful UI.
 * [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) ⭐ 230 | 🐛 1 | 🌐 Lua | 📅 2022-07-23 - Automatically create missing directories when saving files.
 * [mateuszwieloch/automkdir.nvim](https://github.com/mateuszwieloch/automkdir.nvim) ⭐ 32 | 🐛 0 | 🌐 Lua | 📅 2025-03-31 - Automatically create non-existent parent directories when writing a file.
@@ -1969,17 +1969,17 @@ then it is not supported:
 
 ### Stats Tracking
 
-* [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) ⭐ 188 | 🐛 0 | 🌐 Lua | 📅 2026-06-28 - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
+* [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) ⭐ 187 | 🐛 0 | 🌐 Lua | 📅 2026-06-28 - Visualize and review your configuration activity with stats, insights, history, heatmaps and more.
 * [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) ⭐ 145 | 🐛 3 | 🌐 Lua | 📅 2024-03-10 - Track your usage and visualize statistics easily.
-* [ptdewey/pendulum-nvim](https://github.com/ptdewey/pendulum-nvim) ⭐ 116 | 🐛 1 | 🌐 Go | 📅 2026-07-10 - Track time spent coding and glean insights through on-demand time reports.
-* [Rtarun3606k/takatime](https://github.com/Rtarun3606k/takatime) ⭐ 105 | 🐛 49 | 🌐 Go | 📅 2026-10-19 - Privacy-first WakaTime alternative using Go and MongoDB.
+* [ptdewey/pendulum-nvim](https://github.com/ptdewey/pendulum-nvim) ⭐ 115 | 🐛 1 | 🌐 Go | 📅 2026-07-10 - Track time spent coding and glean insights through on-demand time reports.
+* [Rtarun3606k/takatime](https://github.com/Rtarun3606k/takatime) ⭐ 104 | 🐛 49 | 🌐 Go | 📅 2026-10-20 - Privacy-first WakaTime alternative using Go and MongoDB.
 * [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) ⭐ 50 | 🐛 1 | 🌐 Lua | 📅 2025-11-24 - Use the Pomodoro Technique with built-in session tracking and break reminders.
-* [DrKJeff16/triforce.nvim](https://github.com/DrKJeff16/triforce.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
-* [ravsii/timers.nvim](https://github.com/ravsii/timers.nvim) ⭐ 17 | 🐛 1 | 🌐 Lua | 📅 2025-10-13 - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
+* [DrKJeff16/triforce.nvim](https://github.com/DrKJeff16/triforce.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-10-20 - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+* [ravsii/timers.nvim](https://github.com/ravsii/timers.nvim) ⭐ 16 | 🐛 1 | 🌐 Lua | 📅 2025-10-13 - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 * [SunnyTamang/pendulum.nvim](https://github.com/SunnyTamang/pendulum.nvim) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2024-08-22 - Simple timer for creating time based productive sessions for coders, competitive programmers, developers etc.
-* [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
+* [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - Focus-first Pomodoro timer with automatic work, break cycles, session statistics, and a distraction-free focus mode.
 * [raymondware/focusmode.nvim](https://github.com/raymondware/focusmode.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-07-30 - Pomodoro and deep-work timer with configurable intervals, distraction blocking, session statistics, and a dashboard.
-* [taigrr/blast.nvim](https://github.com/taigrr/blast.nvim) ⭐ 3 | 🐛 2 | 🌐 Lua | 📅 2026-09-28 - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
+* [taigrr/blast.nvim](https://github.com/taigrr/blast.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-10-19 - Activity tracking client for NvimBlast with per-project configuration, monorepo support, and privacy controls.
 
 <!--lint disable double-link -->
 
@@ -1993,7 +1993,7 @@ then it is not supported:
 * [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) ⭐ 177 | 🐛 0 | 🌐 Lua | 📅 2026-10-17 - Database editor with inline cell editing, staged mutations with live SQL preview, schema browser, DDL, AI SQL generation, FK navigation, and DuckDB/Parquet support.
 * [zongben/dbout.nvim](https://github.com/zongben/dbout.nvim) ⭐ 43 | 🐛 0 | 🌐 Lua | 📅 2026-08-27 - Manage database connections and run SQL queries directly with JSON results.
 * [tashikomaaa/neomongo.nvim](https://github.com/tashikomaaa/neomongo.nvim) ⭐ 8 | 🐛 1 | 🌐 Lua | 📅 2025-11-03 - Explore, query, and edit MongoDB collections directly through a Telescope-powered dashboard.
-* [clang-engineer/dadbod-vertica.nvim](https://github.com/clang-engineer/dadbod-vertica.nvim) ⭐ 2 | 🐛 0 | 🌐 Vim Script | 📅 2026-07-06 - Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) ⭐ 4,453 | 🐛 58 | 🌐 Vim Script | 📅 2026-01-07 via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
+* [clang-engineer/dadbod-vertica.nvim](https://github.com/clang-engineer/dadbod-vertica.nvim) ⭐ 2 | 🐛 0 | 🌐 Vim Script | 📅 2026-07-06 - Vertica adapter for [vim-dadbod](https://github.com/tpope/vim-dadbod) ⭐ 4,455 | 🐛 58 | 🌐 Vim Script | 📅 2026-01-07 via the official `vsql` client, with schema-tree integration for `vim-dadbod-ui`.
 * [caskstrength/nvim-dbeer](https://codeberg.org/caskstrength/nvim-dbeer) - Minimal multi database client for Native and ODBC, with support for SQL, NoSQL, and Graph.
 
 <!--lint disable double-link -->
@@ -2004,11 +2004,11 @@ then it is not supported:
 
 ## Pre-made Configuration
 
-* [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) ⭐ 31,590 | 🐛 18 | 🌐 Lua | 📅 2026-10-05 - A launch point for your personal configuration.
-* [siduck76/NvChad](https://github.com/siduck76/NvChad) ⭐ 28,517 | 🐛 3 | 🌐 Lua | 📅 2026-10-19 - An attempt to make the built-in CLI as functional as an IDE while retaining beauty with less bloat.
-* [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,694 | 🐛 87 | 🌐 Lua | 📅 2026-09-08 - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
+* [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) ⭐ 31,598 | 🐛 18 | 🌐 Lua | 📅 2026-10-05 - A launch point for your personal configuration.
+* [siduck76/NvChad](https://github.com/siduck76/NvChad) ⭐ 28,518 | 🐛 3 | 🌐 Lua | 📅 2026-10-19 - An attempt to make the built-in CLI as functional as an IDE while retaining beauty with less bloat.
+* [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,699 | 🐛 89 | 🌐 Lua | 📅 2026-09-08 - Full-fledged IDE powered by **lazy.nvim** to make it easy to customize and extend your config.
 * [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) ⭐ 19,258 | 🐛 33 | 🌐 Lua | 📅 2025-06-05 - This project aims to help one transition away from VSCode, and into a superior text editing experience.
-* [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) ⭐ 14,461 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins.
+* [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) ⭐ 14,462 | 🐛 1 | 🌐 Lua | 📅 2026-10-19 - An aesthetic and feature-rich config that is extensible and easy to use with a great set of plugins.
 * [ayamir/nvimdots](https://github.com/ayamir/nvimdots) ⭐ 3,414 | 🐛 6 | 🌐 Lua | 📅 2026-10-15 - A well-configured and structured configuration with NixOS support.
 * [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) ⭐ 1,167 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - CosmicNvim is a lightweight and opinionated config for web development, specifically designed to provide a COSMIC programming experience.
 * [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim) ⭐ 1,018 | 🐛 4 | 🌐 Lua | 📅 2026-09-07 - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
@@ -2021,7 +2021,7 @@ then it is not supported:
 * [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) ⭐ 438 | 🐛 9 | 🌐 HTML | 📅 2025-11-21 - Configuration manager and a modular configuration on its own. Supports over 40 preconfigured configurations.
 * [mrcjkb/kickstart-nix.nvim](https://github.com/mrcjkb/kickstart-nix.nvim) ⭐ 412 | 🐛 3 | 🌐 Lua | 📅 2026-09-20 - Template repo for Neovim derivations, with the goal of simplifying the migration from existing configurations.
 * [pgosar/CyberNvim](https://github.com/pgosar/CyberNvim) ⭐ 380 | 🐛 2 | 🌐 Lua | 📅 2025-02-20 - The world's simplest and most extensible Neovim distribution.
-* [Shaobin-Jiang/IceNvim](https://github.com/Shaobin-Jiang/IceNvim) ⭐ 335 | 🐛 3 | 🌐 Lua | 📅 2026-10-16 - A beautiful, powerful and customizable config that is blazingly fast.
+* [Shaobin-Jiang/IceNvim](https://github.com/Shaobin-Jiang/IceNvim) ⭐ 334 | 🐛 3 | 🌐 Lua | 📅 2026-10-16 - A beautiful, powerful and customizable config that is blazingly fast.
 * [Abstract-IDE/Abstract](https://github.com/Abstract-IDE/Abstract) ⭐ 213 | 🐛 2 | 🌐 Lua | 📅 2026-08-19 - Configuration to achieve the power of Modern IDE.
 * [adoyle-h/one.nvim](https://github.com/adoyle-h/one.nvim) ⭐ 189 | 🐛 0 | 🌐 Lua | 📅 2026-04-24 - All-in-one config framework in Lua.
 * [chrisgrieser/nvim-kickstart-python](https://github.com/chrisgrieser/nvim-kickstart-python) ⚠️ Archived - A launch point for your configuration (for Python).
@@ -2054,7 +2054,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### Version Manager
 
-* [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) ⭐ 2,147 | 🐛 11 | 🌐 Rust | 📅 2026-10-19 - A cross-platform, easy to use version manager.
+* [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) ⭐ 2,148 | 🐛 11 | 🌐 Rust | 📅 2026-10-19 - A cross-platform, easy to use version manager.
 * [NTBBloodbath/nvenv](https://github.com/NTBBloodbath/nvenv) ⭐ 61 | 🐛 2 | 🌐 V | 📅 2025-05-14 - A lightweight and blazingly fast version manager.
 * [y3owk1n/nvs](https://github.com/y3owk1n/nvs) ⭐ 39 | 🐛 2 | 🌐 Go | 📅 2026-10-15 - Another version manager with config switcher.
 
@@ -2072,7 +2072,7 @@ These tools are used externally to Neovim to enhance the experience.
 ### OS-specific
 
 * [iamironz/android-nvim-plugin](https://github.com/iamironz/android-nvim-plugin) ⭐ 91 | 🐛 6 | 🌐 Lua | 📅 2026-03-25 - Android build, deploy, and logcat commands with Gradle integration.
-* [m15a/flake-awesome-neovim-plugins](https://github.com/m15a/flake-awesome-neovim-plugins) ⭐ 65 | 🐛 0 | 🌐 Nix | 📅 2026-10-18 - Nix flake that provides a collection of `awesome-neovim` plugins as Nix packages.
+* [m15a/flake-awesome-neovim-plugins](https://github.com/m15a/flake-awesome-neovim-plugins) ⭐ 65 | 🐛 0 | 🌐 Nix | 📅 2026-10-19 - Nix flake that provides a collection of `awesome-neovim` plugins as Nix packages.
 * [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ⭐ 46 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Search plugins and online `:help` via Alfred (macOS).
 * [massix/termux.nvim](https://github.com/massix/termux.nvim) ⭐ 28 | 🐛 1 | 🌐 Lua | 📅 2024-02-22 - Interact with Termux APIs, useful to gather various information about your Android phone to display in the statusline (e.g. battery level).
 
@@ -2094,9 +2094,9 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 
 ## UI
 
-* [nvim-mini/mini.nvim#mini.notify](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
-* [nvim-mini/mini.nvim#mini.input](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-19 - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
-* [folke/noice.nvim](https://github.com/folke/noice.nvim) ⭐ 5,824 | 🐛 32 | 🌐 Lua | 📅 2025-11-03 - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
+* [nvim-mini/mini.nvim#mini.notify](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-notify.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` to show one or more highlighted notifications in a single window. Provides maker of `vim.notify()` implementation and sets up automated LSP progress updates.
+* [nvim-mini/mini.nvim#mini.input](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-input.md) ⭐ 9,597 | 🐛 37 | 🌐 Lua | 📅 2026-10-20 - Module of `mini.nvim` for getting user input with fully customizable key and view handling. Can show as floating window, statusline/tabline/winbar, virtual line/text. Provides `vim.ui.input()` implementation.
+* [folke/noice.nvim](https://github.com/folke/noice.nvim) ⭐ 5,825 | 🐛 32 | 🌐 Lua | 📅 2025-11-03 - Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 * [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ⭐ 3,572 | 🐛 80 | 🌐 Lua | 📅 2025-09-06 - A fancy, configurable, notification manager.
 * [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ⭐ 480 | 🐛 0 | 🌐 Lua | 📅 2026-06-05 - See whitespace characters in Visual selections, like VSCode.
 * [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) ⭐ 328 | 🐛 0 | 🌐 Lua | 📅 2026-05-03 - Displays a notification window with context when cycling buffers.
@@ -2107,14 +2107,14 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 * [CosmicNvim/cosmic-ui](https://github.com/CosmicNvim/cosmic-ui) ⭐ 171 | 🐛 0 | 🌐 Lua | 📅 2026-10-12 - Cosmic-UI is a simple wrapper around specific Vim functionality.
 * [OXY2DEV/ui.nvim](https://github.com/OXY2DEV/ui.nvim) ⭐ 162 | 🐛 3 | 🌐 Lua | 📅 2026-10-09 - A blueprint/template/guide for customizing the UI.
 * [jrop/tuis.nvim](https://github.com/jrop/tuis.nvim) ⭐ 152 | 🐛 0 | 🌐 Lua | 📅 2026-01-15 - A collection of interactive TUIs which provides rich, interactive UIs to various CLIs.
-* [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) ⭐ 144 | 🐛 1 | 🌐 Lua | 📅 2026-10-13 - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
-* [xieyonn/spinner.nvim](https://github.com/xieyonn/spinner.nvim) ⭐ 101 | 🐛 3 | 🌐 Lua | 📅 2026-03-16 - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
+* [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) ⭐ 146 | 🐛 2 | 🌐 Lua | 📅 2026-10-20 - Emacs-inspired lightweight, extensible interface for displaying prompts, messages and interactive input on a dedicated area.
+* [xieyonn/spinner.nvim](https://github.com/xieyonn/spinner.nvim) ⭐ 100 | 🐛 3 | 🌐 Lua | 📅 2026-03-16 - Extensible spinner framework for animated spinners in statusline, tabline, winbar, buffer, cmdline, or next to the cursor.
 * [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) ⭐ 60 | 🐛 3 | 🌐 Lua | 📅 2025-01-10 - Replace the default `:messages` window with a configurable, auto-updating buffer.
-* [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) ⭐ 53 | 🐛 1 | 🌐 Lua | 📅 2026-09-11 - A simple floating calendar with extensions support.
+* [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) ⭐ 52 | 🐛 1 | 🌐 Lua | 📅 2026-09-11 - A simple floating calendar with extensions support.
 * [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ⭐ 41 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - Toggle relativenumber whenever it makes sense.
 * [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ⭐ 37 | 🐛 0 | 🌐 Lua | 📅 2025-07-13 - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 * [markgandolfo/lightswitch.nvim](https://github.com/markgandolfo/lightswitch.nvim) ⭐ 21 | 🐛 2 | 🌐 Lua | 📅 2025-06-29 - Toggle various options using the `nui.nvim` library.
-* [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - Structured, keyboard-driven menus and context menus with nested navigation.
+* [mjmjm0101/quickui.nvim](https://github.com/mjmjm0101/quickui.nvim) ⭐ 17 | 🐛 0 | 🌐 Lua | 📅 2026-04-26 - Structured, keyboard-driven menus and context menus with nested navigation.
 * [markosnarinian/ln.nvim](https://github.com/markosnarinian/ln.nvim) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2026-06-25 - Relative numbers on the active window, absolute everywhere else.
 
 <!--lint disable double-link -->
@@ -2125,7 +2125,7 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 
 ## External Resource
 
-* [akrawchyk/awesome-vim#tools](https://github.com/akrawchyk/awesome-vim#tools) ⭐ 2,132 | 🐛 14 | 📅 2025-06-06 - A short list of Vim plugins and helpful guides.
+* [akrawchyk/awesome-vim#tools](https://github.com/akrawchyk/awesome-vim#tools) ⭐ 2,133 | 🐛 14 | 📅 2025-06-06 - A short list of Vim plugins and helpful guides.
 * [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) ⭐ 126 | 🐛 4 | 🌐 Lua | 📅 2026-09-22 - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 * [ChuYanLon/chad46](https://github.com/ChuYanLon/chad46) ⭐ 8 | 🐛 0 | 🌐 Vim Script | 📅 2026-10-19 - 94 themes with 44 highlight integrations, daily synced from NvChad/base46.
 * [Vimawesome](https://vimawesome.com/) - Showcases various plugins for Vim and has a [Neovim tag](https://vimawesome.com/?q=tag:neovim) for other Neovim-related plugins.
@@ -2144,4 +2144,4 @@ Have a problem a plugin can solve? Add it to the [nvim-lua wishlist](https://git
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
